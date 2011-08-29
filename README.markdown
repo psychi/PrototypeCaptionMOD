@@ -38,8 +38,8 @@ rcfファイルを展開するには、以下の手順に従ってください�
 
 ### 4. 虐杀原形 素材编辑工具第二版の入手
 虐杀原形 素材编辑工具第二版は、『PROTOTYPE』のデータ全般を書き換えるためのツールのようですが、詳細は不明です。  
-[《虐杀原形》素材编辑工具第二版下载_游戏工具_4391单机网](http://www.4391.com/9/2529.html)にある[电信下载1](http://2.4391.com/%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7/%E3%80%8A%E8%99%90%E6%9D%80%E5%8E%9F%E5%BD%A2%E3%80%8B%E7%B4%A0%E6%9D%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7%E7%AC%AC%E4%BA%8C%E7%89%88.rar)リンクから、圧縮ファイル"**《虐杀原形》素材编辑工具第二版.rar**"をダウンロードできるようです。  
-ダウンロードした圧縮ファイルを任意のディレクトリに展開してください。以後このディレクトリを"**Prototype素材编辑工具/**"と表記します。
+[《虐杀原形》素材编辑工具第二版下载_游戏工具_4391单机网](http://www.4391.com/9/2529.html)にあるリンク「电信下载1」から、圧縮ファイル"[《虐杀原形》素材编辑工具第二版.rar](http://2.4391.com/%E6%B8%B8%E6%88%8F%E5%B7%A5%E5%85%B7/%E3%80%8A%E8%99%90%E6%9D%80%E5%8E%9F%E5%BD%A2%E3%80%8B%E7%B4%A0%E6%9D%90%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7%E7%AC%AC%E4%BA%8C%E7%89%88.rar)"をダウンロードできるようです。  
+ダウンロードした圧縮ファイルを任意のディレクトリに展開してください。以後このディレクトリを"**《虐杀原形》素材编辑工具第二版/**"と表記します。
 
 ### 5. PrototypeCaptionMODの入手
 [PrototypeCaptionMOD - GitHub](https://github.com/psychi/PrototypeCaptionMOD)にある「Download」ボタンを押して、圧縮ファイルをダウンロードして下さい。  
@@ -54,7 +54,7 @@ rcfファイルを展開するには、以下の手順に従ってください�
 * "Prototype日本語化MOD/フォント/フォント作成用/**swfmill.exe**"
 * "Prototype日本語化MOD/フォント/フォント作成用/**ipagp.ttf**"
 * "Prototype日本語化MOD/フォント/フォント作成用/**IPAPGothic_Bold.ttf**"
-* "Prototype素材编辑工具/Prototype_DDS_Trainer/**PackageManager.exe**"
+* "《虐杀原形》素材编辑工具第二版/Prototype_DDS_Trainer/**PackageManager.exe**"
 
 以上で、PrototypeCaptionMODのインストールは完了です。
 
