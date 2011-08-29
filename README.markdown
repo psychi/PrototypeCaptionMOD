@@ -1,12 +1,12 @@
-# PrototypeCaptionMOD users manual in japanese
+# PrototypeCaptionMOD 取扱説明書
 
 ## PrototypeCaptionMODの機能と目的
 PrototypeCaptionMODは、Activision社から発売されているWindows用ビデオゲーム『PROTOTYPE』で使う字幕ファイルとフォントファイルを書き換えることができます。英語字幕から日本語字幕に書き換えることを、主な目的としています。
 
 ## PrototypeCaptionMODの使用上の注意
-**PrototypeCaptionMODの動作はまだ十分に検証されていない**ため、取り返しのつかないトラブルを発生させてしまうことがあるかもしれません。**動作の結果を自己責任で対応**できる方のみ、PrototypeCaptionMODを使用してください。
+**PrototypeCaptionMODの動作はまだ十分に検証されていない**ため、取り返しのつかない問題を発生させてしまうことがあるかもしれません。**動作の結果に自己責任で対応**できる方のみ、PrototypeCaptionMODを使用してください。
 
-## PrototypeCaptionMODのインストールの手順
+## PrototypeCaptionMODをインストールする手順
 
 ### 1. 『PROTOTYPE』のインストール
 Windows用『PROTOTYPE』を任意のディレクトリにインストールしてください。以後このディレクトリを"**Prototype/**"と表記します。
@@ -68,7 +68,7 @@ rcfファイルを展開するには、以下の手順に従ってください�
 * "Prototype/**movie**"
 
 ### 2. 字幕のテキストとフォントを日本語に書き換える
-"PrototypeCaptionMOD/BuildCaptionsAndFonts.bat"をファイルエクスプローラでダブルクリックし、実行が終了するまで待機してください。
+"PrototypeCaptionMOD/BuildCaptionsAndFonts.bat"をファイルエクスプローラでダブルクリックし、実行が終了するまで待機してください。字幕のテキストとフォントのデータを、自動で書き換えます。環境にもよりますが、30分ほどかかります。
 
 ### 3. 書き換えたデータをコピー
 以下に示したパスにある3個のディレクトリを、"**Prototype/**"の直下にコピーしてください。
