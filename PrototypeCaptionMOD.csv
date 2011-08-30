@@ -17914,12 +17914,12 @@ movies/woi/woi_node_009,woi009_001,"Sir, I need your signature on these papers."
 movies/woi/woi_node_009,woi009_002,"McMullen, you can see I’m busy. Stop talking about Mercer like he's the answer to our damn problems. He's a Runner."
 movies/woi/woi_node_009,woi009_003,"That's where you're wrong -- no other Runner in BLACKLIGHT'S history has been male. The fact is, we don't know what he is."
 movies/woi/woi_node_009,woi009_004,I know what he's not.... That's enough.
-movies/woi/woi_node_010,woi010_001,"Phone call, 12:21:04. Subjects RANDALL, PETER. MCMULLEN, RAYMOND. Topic: MERCER, ALEX J."
-movies/woi/woi_node_010,woi010_002,"This, uh, risk. Mercer? What’s his status?"
-movies/woi/woi_node_010,woi010_003,"Yet, he’s under twenty-four hour watch."
-movies/woi/woi_node_010,woi010_004,And he still has access to Greene?
-movies/woi/woi_node_010,woi010_005,"For now, yes. His work has been fundamental in unlocking the BLACKLIGHT virus."
-movies/woi/woi_node_010,woi010_006,You keep him on a tight leash. You know what's at stake here.
+movies/woi/woi_node_010,woi010_001,"Phone call, 12:21:04. Subjects RANDALL, PETER. MCMULLEN, RAYMOND. Topic: MERCER, ALEX J.",12:21:04の通話。 ピーター・ランドールとレイモンド・マクマレンの会話。 話題はアレックス J・マーサーについて。
+movies/woi/woi_node_010,woi010_002,"This, uh, risk. Mercer? What’s his status?",それは危険だ。 マーサー？ 彼の状態は？
+movies/woi/woi_node_010,woi010_003,"Yet, he’s under twenty-four hour watch.",まだ24時間監視しています。
+movies/woi/woi_node_010,woi010_004,And he still has access to Greene?,まだグリーンへの接触権を持っているのか？
+movies/woi/woi_node_010,woi010_005,"For now, yes. His work has been fundamental in unlocking the BLACKLIGHT virus.",今のところそうです。彼の仕事なしにはブラックライトウイルスの根本的解明はできなかったでしょう。
+movies/woi/woi_node_010,woi010_006,You keep him on a tight leash. You know what's at stake here.,彼の手綱はしっかりと締めておけ。 ここで何が危険かはわかってるだろう。
 movies/woi/woi_node_011,woi011_001,Listen. You need to get out of there.,聞いてくれ。 今すぐそこから逃げるんだ。
 movies/woi/woi_node_011,woi011_002,We’ve got Mercer on vox. Tracing.,マーサーの音声を見つけました。追跡します。
 movies/woi/woi_node_011,woi011_003,I don’t care what they’re saying.,あいつらの言うことなんて気にしない。
@@ -17937,7 +17937,7 @@ movies/woi/woi_node_015,woi015_002,Are you certain?,それは本当か？
 movies/woi/woi_node_015,woi015_003,"Yes, sir. I have no doubt.",はい、本当です。
 movies/woi/woi_node_015,woi015_004,How many people were exposed?,どのくらいの人数がさらされた？
 movies/woi/woi_node_015,woi015_005,"In the station, sir? I don't know. Hundreds. Thousands. I don't know....",駅にですか？ わかりません。数百、数千……わかりません。
-movies/woi/woi_node_016,woi016_001,"Mercer, Alexander J. Parents divorced. One sibling. Doctorate Genetics, Columbia University. Hired Gentek Special Projects.",マーサー、アレクサンダーJ。 両親は離婚。 兄妹が1人。 遺伝学博士号をコロンビア大学で修得。 ジェネンテック特殊企画部に就職。
+movies/woi/woi_node_016,woi016_001,"Mercer, Alexander J. Parents divorced. One sibling. Doctorate Genetics, Columbia University. Hired Gentek Special Projects.",マーサー、アレクサンダー J。 両親は離婚。 兄妹が1人。 遺伝学博士号をコロンビア大学で修得。 ジェネンテック特殊企画部に就職。
 movies/woi/woi_node_016,woi016_002,"Associate Director: Department Classified. Level A access. Reported to: Director McMullen, Raymond.",副所長：所属課は機密。 Aクラスのアクセス権を持つ。 以上がマクマレン、レイモンド所長への報告。
 movies/woi/woi_node_016,woi016_003,Current Status: Assigned CODENAME ZEUS. Priority One A target RESPONSIBLE FOR THE RELEASE OF THE BLACKLIGHT VIRUS IN NEW YORK. DO NOT APPROACH.,現状：コードネーム・ゼウスと名づける。 第1A優先目標。 ニューヨークにブラックライトウイルスを撒いた張本人である。 接触厳禁。
 movies/woi/woi_node_017,woi017_001,"Sir, we're reestablished contact with the target."
@@ -17994,9 +17994,9 @@ movies/woi/woi_node_029,woi029_003,"This...source. It’s the key to genetics --
 movies/woi/woi_node_029,woi029_003b,Things that -- if they got out of the lab -- could literally erase human civilization as we know it.,もしこれが研究所から外に出たら ―― 文字通り我々の文明を消すだろうな。
 movies/woi/woi_node_029,woi029_004,And how did that make you feel?,それで、そのことについてどう思いますか？
 movies/woi/woi_node_029,woi029_005,I wasn't paid to feel.,……俺は感じる必要がなかったんでね。
-movies/woi/woi_node_030,woi030_001,The process is this: we remove a small amount of blood from the subject. Her blood is always teeming with variants of the virus.
-movies/woi/woi_node_030,woi030_002,These samples are the key to our research. They could cure every ailment known to man.
-movies/woi/woi_node_030,woi030_003,Or incite them?
+movies/woi/woi_node_030,woi030_001,The process is this: we remove a small amount of blood from the subject. Her blood is always teeming with variants of the virus.,こういったところです。 我々はその対象から血液を少量採取しました。 血液は常に異形ウイルスと結合していました。
+movies/woi/woi_node_030,woi030_002,These samples are the key to our research. They could cure every ailment known to man.,このサンプルは我々の研究の鍵です。 これで全ての病気の治療法が判明するでしょう。
+movies/woi/woi_node_030,woi030_003,Or incite them?,あるいは病気を刺激することも？
 movies/woi/woi_node_031,woi031_001,Give me a report on the physical state of Codename MOTHER.
 movies/woi/woi_node_031,woi031_002,The subject has been incarcerated for thirty-nine years without ill-effect.
 movies/woi/woi_node_031,woi031_003,"Through this period it has exhibited no degenerative effects -- no joint-decay, swelling, discomfort or atrophy. Nothing."
@@ -18008,11 +18008,11 @@ movies/woi/woi_node_032,woi032_004,A strike against the central carrier can deca
 movies/woi/woi_node_033,woi033_001,Codename: MOTHER exhibits odd characteristics not consistent with DX-1118 infection. Whether this represents a natural immunity -- or something more -- remains to be seen.,コードネーム: マザーはDX-118とは異なる奇妙な性質を示しています。 これは自然免疫によるものなのか ―― それともそれ以外のものなのか ―― 未だ不明です。
 movies/woi/woi_node_033,woi033_002,"So, what does this mean to our research?",それで、これは我々の研究にとってどういった意味がある？
 movies/woi/woi_node_033,woi033_003,"We all agree, she represents the best chance we have to crack the virus' defenses.",彼女は我々がウィルスを殺せる最高のとっかかりを示しているんですよ！ これに関しては私たち全員が同意見です。
-movies/woi/woi_node_034,woi034_001,"I believe Greene is some sort of trigger. Imagine life on earth as a single organism. The disease she releases could be something like a hormone in the body, causing change. Shifting the organism."
-movies/woi/woi_node_034,woi034_002,"In this case, shifting life on earth?"
-movies/woi/woi_node_034,woi034_003,Yes. Changing it.
-movies/woi/woi_node_034,woi034_004,Into what?
-movies/woi/woi_node_034,woi034_005,Indeed. Into what?
+movies/woi/woi_node_034,woi034_001,"I believe Greene is some sort of trigger. Imagine life on earth as a single organism. The disease she releases could be something like a hormone in the body, causing change. Shifting the organism.",私はグリーンがある種の起爆装置だと考えています。 地球上の生物を1つの生物と考えてください。 彼女がばら撒いている病は変化を起こさせる体内のホルモンの様なものです。 生物を変えているのです。
+movies/woi/woi_node_034,woi034_002,"In this case, shifting life on earth?",この場合は地球上の生物を変えていると？
+movies/woi/woi_node_034,woi034_003,Yes. Changing it.,ええ、そうです。
+movies/woi/woi_node_034,woi034_004,Into what?,一体何に？
+movies/woi/woi_node_034,woi034_005,Indeed. Into what?,それは……わかりません。
 movies/woi/woi_node_035,woi035_001,"Subject: Greene, Elizabeth M. Codenamed MOTHER. Recovered at Hope, Idaho, 7/7/69. Operation ALTRUISTIC."
 movies/woi/woi_node_035,woi035_002,Transferred to Ft. Detrick on 8/1/69 for containment.
 movies/woi/woi_node_035,woi035_003,"Held at Detrick, Ward F, for nine years, two months."
@@ -18103,17 +18103,17 @@ movies/woi/woi_node_058,woi058_003,"Immediately call in air support and artiller
 movies/woi/woi_node_059,woi059_001,It's behavior seems to be changing.
 movies/woi/woi_node_059,woi059_002,The virus is acting in a manner not consistent with previous outbreaks. We have no idea why.
 movies/woi/woi_node_059,woi059_003,I've stopped this damn thing before. Stopped it dead. I'll do it again. We've been preparing for this moment for forty years.
-movies/woi/woi_node_060,woi060_001,"Sir, here's Case File FIREBREAK."
-movies/woi/woi_node_060,woi060_002,"Thank you, Lieutenant."
-movies/woi/woi_node_060,woi060_003,"Sir, will...it...be necessary?"
-movies/woi/woi_node_060,woi060_004,"If it comes down to it, just do your job, son. Everything else is in God's hands."
-movies/woi/woi_node_061,woi061_001,This is classified BEYOND TOP SECRET. Project BLACKWATCH established 6/9/62 by DARPA and the Department of the Army.
-movies/woi/woi_node_061,woi061_001b,"Base of Operations Ft. Detrick, Maryland."
-movies/woi/woi_node_061,woi061_002,Mandate: Research and development of biological weaponry for use against foreign powers.
-movies/woi/woi_node_061,woi061_003,"Following operation ALTRUISTIC on 7/7/69, BLACKWATCH’s mandate has changed."
-movies/woi/woi_node_061,woi061_003b,"It is now: detect, conceal and prevent outbreaks of unknown viruses -- both man-modified and natural -- on American soil."
-movies/woi/woi_node_061,woi061_004,"BLACKWATCH operates in secret. Officially, they do not exist. Their task is thankless but necessary in this age of modern warfare."
-movies/woi/woi_node_061,woi061_004b, You are now one of them.
+movies/woi/woi_node_060,woi060_001,"Sir, here's Case File FIREBREAK.",これが核兵器抑制に関するケースファイルです。
+movies/woi/woi_node_060,woi060_002,"Thank you, Lieutenant.",ありがとう、大尉。
+movies/woi/woi_node_060,woi060_003,"Sir, will...it...be necessary?",その……こんなものが……必要なのですか？
+movies/woi/woi_node_060,woi060_004,"If it comes down to it, just do your job, son. Everything else is in God's hands.",その時が来たら、君は君のすべきことをしたまえ。 すべては神の手の中だ。
+movies/woi/woi_node_061,woi061_001,This is classified BEYOND TOP SECRET. Project BLACKWATCH established 6/9/62 by DARPA and the Department of the Army.,これは最高機密以上の代物だ。 ブラックウォッチ計画は62年6月9日に国防高等研究計画局と軍によって計画された。
+movies/woi/woi_node_061,woi061_001b,"Base of Operations Ft. Detrick, Maryland.",計画本部としてはメリーランド州デトリック基地。
+movies/woi/woi_node_061,woi061_002,Mandate: Research and development of biological weaponry for use against foreign powers.,任務：外部勢力に対抗する生物兵器の研究開発。
+movies/woi/woi_node_061,woi061_003,"Following operation ALTRUISTIC on 7/7/69, BLACKWATCH’s mandate has changed.",69年7月7日のアルトルイースティック作戦に続いてブラックウォッチの任務も変わった。
+movies/woi/woi_node_061,woi061_003b,"It is now: detect, conceal and prevent outbreaks of unknown viruses -- both man-modified and natural -- on American soil.",現在：米国本土において人為的、あるいは自然発生的な未確認ウイルスの感染爆発を見抜き、隠ぺい・阻止すること。
+movies/woi/woi_node_061,woi061_004,"BLACKWATCH operates in secret. Officially, they do not exist. Their task is thankless but necessary in this age of modern warfare.",ブラックウォッチ隊は秘密裏に行動する。 公的には彼らは存在しない。 感謝されないが今日の現代戦においては必要なのだ。
+movies/woi/woi_node_061,woi061_004b, You are now one of them.,これより諸君は我々の一員だ。
 movies/woi/woi_node_062,woi062_001,"We knew they were high up. Probably so high up, that to see the office of the President, you had to look down."
 movies/woi/woi_node_062,woi062_002,And what did they have you working on?
 movies/woi/woi_node_062,woi062_003,Viruses. Odd viruses.
@@ -18148,16 +18148,16 @@ movies/woi/woi_node_069,woi069_001,"Injecting it into chimps -- this was CARNIVA
 movies/woi/woi_node_069,woi069_001b,"Boosted intelligence, increased strength. We were all expecting something pretty dramatic in Hope right after we introduced CARNIVAL II.",知能が増幅され、筋力も増えた。 我々は皆、カーニバルIIを注入した後、希望としてさらに劇的な変化が起こるをすると予想していた。
 movies/woi/woi_node_069,woi069_002,What happened?,何かおこったのか？
 movies/woi/woi_node_069,woi069_003,Heh -- nothing.,いや ―― 何も。
-movies/woi/woi_node_070,woi070_001,"In your best recollection, what was the most important discovery in CARNIVAL II?"
-movies/woi/woi_node_070,woi070_002,"Hm, between 1965 and 1968 twenty-seven births occurred in Hope, Idaho. All tested positive for something like DX-1118."
-movies/woi/woi_node_070,woi070_003,"These children represented something not seen before. They were infected with the virus in the womb, but when they were born:"
-movies/woi/woi_node_070,woi070_004,They were carrying something else.
-movies/woi/woi_node_071,woi071_001,All births post 1965 ended in the death of the child from unforeseen genetic defects.
-movies/woi/woi_node_071,woi071_002,"Before these deaths, each so-called Hope Child exhibited something exceptional."
-movies/woi/woi_node_071,woi071_003,"The genetic disorders which claimed their lives were unique. It was almost like the virus was trying to achieve something, and failing."
-movies/woi/woi_node_072,woi072_001,"Greene, Elizabeth A. had known associations with six of the twenty-seven Hope Children. It is unknown if this was the source of her exposure to the DX-1118 variant."
-movies/woi/woi_node_072,woi072_002,"What is known is this, Greene’s infection coincides within two days of the death of the last Hope Child:"
-movies/woi/woi_node_072,woi072_002b,"Allan, Michael K. DOD...um, 8/6/68. Aged two years, two months."
+movies/woi/woi_node_070,woi070_001,"In your best recollection, what was the most important discovery in CARNIVAL II?",あなたが思い出せる中で、カーニバルII実験において最も重要な発見とは何ですか？
+movies/woi/woi_node_070,woi070_002,"Hm, between 1965 and 1968 twenty-seven births occurred in Hope, Idaho. All tested positive for something like DX-1118.",1965～1986の間に27人がホープで生まれた。 その全員がDX-1118に似た反応を示した。
+movies/woi/woi_node_070,woi070_003,"These children represented something not seen before. They were infected with the virus in the womb, but when they were born:",その子たちは前例のない何かを抱えていた。 子宮内で既にウイルスに感染していたが生まれた時には……。
+movies/woi/woi_node_070,woi070_004,They were carrying something else.,違うものを持っていたんだ。
+movies/woi/woi_node_071,woi071_001,All births post 1965 ended in the death of the child from unforeseen genetic defects.,1965年生まれの全胎児は予期せぬ遺伝子疾患により死亡という結末に終わった。
+movies/woi/woi_node_071,woi071_002,"Before these deaths, each so-called Hope Child exhibited something exceptional.",この死の前に、いわゆるホープ・チャイルドはある異常を示した。
+movies/woi/woi_node_071,woi071_003,"The genetic disorders which claimed their lives were unique. It was almost like the virus was trying to achieve something, and failing.",彼らを死に追い込んだ疾患は独特だ。 ウイルスが何かをしようとしたが失敗してしまった、というような。
+movies/woi/woi_node_072,woi072_001,"Greene, Elizabeth A. had known associations with six of the twenty-seven Hope Children. It is unknown if this was the source of her exposure to the DX-1118 variant.",エリザベス A・グリーンは27人のホープの子供たちのうち6人と面識があります。 しかしこの事が彼女のDX-1118変種の感染に影響を与えた原因かどうかは不明です。
+movies/woi/woi_node_072,woi072_002,"What is known is this, Greene’s infection coincides within two days of the death of the last Hope Child:",ただわかっていることは、グリーンの感染は最後のホープの子供が死んで2日間の間と一致していることです。
+movies/woi/woi_node_072,woi072_002b,"Allan, Michael K. DOD...um, 8/6/68. Aged two years, two months.",マイケル K・アラン、死亡したのは……68年8月6日、享年2才2ヶ月です。
 movies/woi/woi_node_073,woi073_001,"Hope, Idaho, was as good a test-bed as we’re ever going to get, without losing everything."
 movies/woi/woi_node_073,woi073_002,And?
 movies/woi/woi_node_073,woi073_003,"This new outbreak is not following the pathology of the virus: too many infections, too wide a spread, too many...surviving entities. Something’s different this time."
@@ -18167,44 +18167,44 @@ movies/woi/woi_node_074,woi074_002,A computer projection of the vector spread.
 movies/woi/woi_node_074,woi074_003,"As you can see, fourteen days out, the model explodes. The spread is extremely wide -- far greater than the Hope outbreak ever achieved."
 movies/woi/woi_node_074,woi074_004,What we think we’re seeing is this: lower mortality rate and longer incubation period.
 movies/woi/woi_node_074,woi074_005,"In short, we prepared for a war with the wrong enemy. This is something new."
-movies/woi/woi_node_075,woi075_001,We’ve never seen a pathogen with 99.9% mortality rates.
-movies/woi/woi_node_075,woi075_002,"99.999%. It’s fast too. By day three, it had taken over 70% of the town. "
-movies/woi/woi_node_075,woi075_002b,The remaining citizens were then forcibly infected.
-movies/woi/woi_node_075,woi075_003,"In the first month, half of the population died from the virus, but the illusion of an uninfected town remained intact."
+movies/woi/woi_node_075,woi075_001,We’ve never seen a pathogen with 99.9% mortality rates.,99.9％で死ぬ病原体なんて見たことありません。
+movies/woi/woi_node_075,woi075_002,"99.999%. It’s fast too. By day three, it had taken over 70% of the town. ",99.999％だ。 感染の拡大も速い。 3日で町の70％が感染状態になった。
+movies/woi/woi_node_075,woi075_002b,The remaining citizens were then forcibly infected.,残った市民も強制的に感染させられた。
+movies/woi/woi_node_075,woi075_003,"In the first month, half of the population died from the virus, but the illusion of an uninfected town remained intact.",最初の1ヶ月で住人の半分がウイルスで死んでいたが、感染する前の町の幻影が完璧に残っていたのだよ。
 movies/woi/woi_node_078,woi078_001,"Hope, Idaho, Operation CARNIVAL II. Began 6/11/64. Ended 7/7/69. Four hundred and sixty-one subjects infected with DX-1118 variant A.",アイダホ州ホープ、カーニバルII作戦。 64年6月11日開始、69年7月7日に終了。 461人へDX-1118 A型を感染させる。
 movies/woi/woi_node_078,woi078_002,Nine hundred and ninety-eight days of no reported infection. Outbreak occurred 8/8/68. Town recaptured 7/7/69. Operation ALTRUISTIC.,98日間は感染の報告はなし。 しかし68年8月8日に爆発的に感染。 街が制圧されたのは69月7月7日。 ALTRUISTIC作戦による。
 movies/woi/woi_node_078,woi078_003,Examination of the infected individuals revealed a new strain of DX-1118 not seen before. This is thought to be the source of the Hope Outbreak.
 movies/woi/woi_node_079,woi079_001,"Operation ALTRUISTIC. Begun 7/5/69. Elements of the First Biohazard Threat Unit, now called BLACKWATCH, out of Ft. Detrick.",ALTRUISTIC作戦。 69年7月5日開始。 第一号バイオハザード危機対応部隊、現在のブラックウォッチ隊による。 デトリック基地からの出動。
 movies/woi/woi_node_079,woi079_002,"The force encountered resistance from infected individuals on the outskirts of Hope, Idaho. After a prolonged skirmish, the town was shelled. It was then recaptured.",アイダホ州ホープの郊外で感染者による攻撃を受ける。 小競り合いを繰り返した後に、町を砲撃、制圧した。
-movies/woi/woi_node_079,woi079_003,"Two survivors. One: Greene, Elizabeth A. Aged nineteen years. Two: Male Child, Identity Classified beyond Top Secret.",生存者は2名。1人目、グリーン、エリザベスA。 当時19歳。 2人目、男児。 身元は最高機密以上の極秘扱い。
-movies/woi/woi_node_080,woi080_001,"Once insinuated into the system, it affects the protein encoding regions of the promoter introns within each cell."
-movies/woi/woi_node_080,woi080_002,"In short, it enters, repurposes and changes the cell. The new cell replicates with formerly dormant non-coding regions active, causing drastic biological changes."
-movies/woi/woi_node_080,woi080_003,"More often than not, these changes are TOO drastic. In 99.9% of the cases, the biology of the organism fails during this repurposing, causing massive organ failure and death. "
-movies/woi/woi_node_080,woi080_003b,"From first infection to death varies per target, but is usually measured in days or hours."
-movies/woi/woi_node_081,woi081_001,Codename MOTHER and Codename PARIAH tested. MOTHER yielded fourteen variants of the DX-1118 virus.
-movies/woi/woi_node_081,woi081_001b, PARIAH tested negative for all viral agents
-movies/woi/woi_node_081,woi081_002,Subjects were moved to separate secure facilities for extended study.
-movies/woi/woi_node_081,woi081_003,They represent our last chance of learning anything from Project CARNIVAL II.
-movies/woi/woi_node_084,woi084_001,Director McMullen pushed for the weaponization of the sample.
-movies/woi/woi_node_084,woi084_002,And who did he employ to perform this unauthorized research?
-movies/woi/woi_node_084,woi084_003,"Sir, I have no idea. We had no access to the BLACKLIGHT lab. This place is a network of need-to-know silos."
+movies/woi/woi_node_079,woi079_003,"Two survivors. One: Greene, Elizabeth A. Aged nineteen years. Two: Male Child, Identity Classified beyond Top Secret.",生存者は2名。1人目、エリザベス A・グリーン。 当時19歳。 2人目、男児。 身元は最高機密以上の極秘扱い。
+movies/woi/woi_node_080,woi080_001,"Once insinuated into the system, it affects the protein encoding regions of the promoter introns within each cell.",システムにうまく入り込めさえすれば、各細胞の中でプロモーターイントロンの蛋白質エンコーディング領域に影響を及ぼす。
+movies/woi/woi_node_080,woi080_002,"In short, it enters, repurposes and changes the cell. The new cell replicates with formerly dormant non-coding regions active, causing drastic biological changes.",要するに、これが侵入すると細胞は再設計・変化される。 そうなった新細胞は以前に不活性だったノンコーディング領域を活性化させた状態で複製し、劇的な生態的変化を引き起こす。
+movies/woi/woi_node_080,woi080_003,"More often than not, these changes are TOO drastic. In 99.9% of the cases, the biology of the organism fails during this repurposing, causing massive organ failure and death. ",往々にして、この変化は劇的すぎている。 99.9％のケースでこの再設計中に生命活動が低下し、重度の多臓器不全による死を引き起こす。
+movies/woi/woi_node_080,woi080_003b,"From first infection to death varies per target, but is usually measured in days or hours.",初回の注入から死亡までの期間は対象によって変化するが、およそ数時間から数日程度である。
+movies/woi/woi_node_081,woi081_001,Codename MOTHER and Codename PARIAH tested. MOTHER yielded fourteen variants of the DX-1118 virus.,コードネーム・マザーとコードネーム・パリアの試験結果。 マザーからはDX-1118ウイルスの変種14種を採取。
+movies/woi/woi_node_081,woi081_001b, PARIAH tested negative for all viral agents,パリアは全ウイルス性因子に陰性を示した。
+movies/woi/woi_node_081,woi081_002,Subjects were moved to separate secure facilities for extended study.,両被験体はさらなる調査のため個別に封鎖施設へと移送。
+movies/woi/woi_node_081,woi081_003,They represent our last chance of learning anything from Project CARNIVAL II.,カーニバルII計画の成果はもうこの2体から得るよりほかはない。
+movies/woi/woi_node_084,woi084_001,Director McMullen pushed for the weaponization of the sample.,マクマレン所長がサンプルの兵器化を進めていたんです。
+movies/woi/woi_node_084,woi084_002,And who did he employ to perform this unauthorized research?,それで誰がこの無許可の研究のために雇われたんだ？
+movies/woi/woi_node_084,woi084_003,"Sir, I have no idea. We had no access to the BLACKLIGHT lab. This place is a network of need-to-know silos.",それがわかりません。 ブラックライト研究所に接触はできませんでした。 ここは情報漏洩を許さない所でしたから。
 movies/woi/woi_node_086,woi086_001,Karen. Let me help you. We’re all in very deep here. There’s only one way out: cooperation.
 movies/woi/woi_node_086,woi086_002,"If you assist us, you’re free and clear. A ticket anywhere you want and a top-level assignment. If you don’t... There’s nothing I can do for you."
 movies/woi/woi_node_086,woi086_003,"Listen, Karen. Whatever he is now, he’s not the man you knew, he’s something else."
 movies/woi/woi_node_086,woi086_004,I want a lawyer.
-movies/woi/woi_node_087,woi087_001,"McMullen, Raymond F. DOB, 1/10/55. Doctorate Genetics, University of Pennsylvania 7/21/75. Founded Gentek 11/1/76."
-movies/woi/woi_node_087,woi087_002,"After publication of a paper on Non-Coding Sequences in Junk DNA in 1989, was approached by BLACKWATCH to direct research into DX-1118 strain A."
-movies/woi/woi_node_087,woi087_002b,"For the past nineteen years, BLACKWATCH has been a silent partner in Gentek."
-movies/woi/woi_node_087,woi087_003,McMullen remains the preeminent expert on the nature of the BLACKLIGHT virus. Current Status: possible security risk. Targeted by Codename ZEUS.
+movies/woi/woi_node_087,woi087_001,"McMullen, Raymond F. DOB, 1/10/55. Doctorate Genetics, University of Pennsylvania 7/21/75. Founded Gentek 11/1/76.",レイモンド F・マクマレン。 55年1月10日生まれ。 75年7月21日ペンシルヴァニア大学で遺伝子学博士号を修得。 76年11月1日にGentekを創立。
+movies/woi/woi_node_087,woi087_002,"After publication of a paper on Non-Coding Sequences in Junk DNA in 1989, was approached by BLACKWATCH to direct research into DX-1118 strain A.",1989年にジャンクDNAにおけるノンコーディング配列の論文を発表するとDX-1118 A型の研究指揮のためブラックウォッチから接触される。
+movies/woi/woi_node_087,woi087_002b,"For the past nineteen years, BLACKWATCH has been a silent partner in Gentek.",過去19年にわたり、ブラックウォッチはジェンテックと秘密裏に協力していた。
+movies/woi/woi_node_087,woi087_003,McMullen remains the preeminent expert on the nature of the BLACKLIGHT virus. Current Status: possible security risk. Targeted by Codename ZEUS.,マクマレンはブラックライトウイルスに精通した研究者といえる。 現状：身の危険あり。 コードネーム・ゼウスに狙われている。
 movies/woi/woi_node_091,woi091_001,"Parker, Karen. Wait here, please."
 movies/woi/woi_node_091,woi091_002,Um. No need to...I...forgot something. *laughs* I need to grab it before they lock us out.
 movies/woi/woi_node_091,woi091_003,"Wait here. *into microphone* Parker, Karen, Employee 2-18, attempting to enter into main labs."
 movies/woi/woi_node_091,woi091_004,Hey! Stop. HALT!
-movies/woi/woi_node_092,woi092_001,"Last I saw, he was running from the building."
-movies/woi/woi_node_092,woi092_002,Was he carrying anything?
-movies/woi/woi_node_092,woi092_003,I don’t know. His laptop. I think he was carrying his laptop.
-movies/woi/woi_node_092,woi092_004,Anything else?
-movies/woi/woi_node_092,woi092_005,I don’t know. I can’t tell you what I don’t know.
+movies/woi/woi_node_092,woi092_001,"Last I saw, he was running from the building.",最後に見たのは、彼がビルから走って出てくるところよ。
+movies/woi/woi_node_092,woi092_002,Was he carrying anything?,奴は何か持っていたか？
+movies/woi/woi_node_092,woi092_003,I don’t know. His laptop. I think he was carrying his laptop.,知らない。 彼のラップトップよ。 そうだったと思うわ。
+movies/woi/woi_node_092,woi092_004,Anything else?,他には？
+movies/woi/woi_node_092,woi092_005,I don’t know. I can’t tell you what I don’t know.,知らない。 知らないことを言えるわけないじゃない。
 movies/woi/woi_node_093,woi093_001,"Parker, Karen I. DOB 1/1/76. Doctorate Genetics, Rutgers University 7/2/2003. Hired Gentek Special Projects 2/1/2002.",カレン・パーカー。 1976年1月1日誕生。 2003年2月7日、ラトガース大学にて遺伝学博士号取得。 2002年2月1日、ジェンテック特別計画へ参加。
 movies/woi/woi_node_093,woi093_002,"Director: Genotyping. Level D access. Reported to: Director McMullen, Raymond F. Romantically involved with Mercer Alex J. Wanted for questioning.",ディレクター：遺伝子検査の主任科学者。 レベルDアクセス権保有。 レイモンド・F・マクマレン所長の報告によれば、捜索中のアレックス・マーサーと親密だったようだ。
 movies/woi/woi_node_093,woi093_003,Subject has to be detained and transferred to base Six Charlie Alpha One.,目標を拘束し、6CA1基地に移送する必要がある。
@@ -18218,10 +18218,10 @@ movies/woi/woi_node_095,woi095_002,Bradley...the corpses from Penn Station are i
 movies/woi/woi_node_095,woi095_003,"I warned you about bringing it into the city, Raymond."
 movies/woi/woi_node_095,woi095_004,Take appropriate precautions and remember: you’re as culpable as us. We’ll be watching.
 movies/woi/woi_node_095,woi095_005,Raymond?
-movies/woi/woi_node_098,woi098_001,"Ragland, Bradley T. DOB, uh...2/21/60. M.D. Johns Hopkins 11/1/86. "
-movies/woi/woi_node_098,woi098_001b,Hired Gentek Special Projects 9/9/87. Left Gentek 12/1/92 after refusing to work on BLACKLIGHT.
-movies/woi/woi_node_098,woi098_002,"Currently employed: City of New York, Pathologist, St. Paul’s. Under surveillance since 1992."
-movies/woi/woi_node_098,woi098_003,"Current Status: Considered a Low Priority risk. Potential asset, with the correct leverage."
+movies/woi/woi_node_098,woi098_001,"Ragland, Bradley T. DOB, uh...2/21/60. M.D. Johns Hopkins 11/1/86. ",ブラッドレイ T・ラグランド。 えー、60年2月21日生まれ。 86年11月1日ジョーンズ・ホプキンス大学を卒業、医学博士号修得。
+movies/woi/woi_node_098,woi098_001b,Hired Gentek Special Projects 9/9/87. Left Gentek 12/1/92 after refusing to work on BLACKLIGHT.,87年9月9日ジェンテック特殊企画部に就職。 92年12月1日ブラックライトに関する研究を拒否して退職。
+movies/woi/woi_node_098,woi098_002,"Currently employed: City of New York, Pathologist, St. Paul’s. Under surveillance since 1992.",現職：ニューヨークの聖パウロ病院の病理学者。 1992年から監視中。
+movies/woi/woi_node_098,woi098_003,"Current Status: Considered a Low Priority risk. Potential asset, with the correct leverage.",現状：低リスク。 手段次第で協力を得られる見込みあり。
 movies/woi/woi_node_099,woi099_001,This weapon is to be given the highest priority. I want it in the field -- yesterday!
 movies/woi/woi_node_099,woi099_002,We’re producing it as fast as we can. The Harlem facility's getting up to speed as we speak.
 movies/woi/woi_node_099,woi099_003,Good. We may have just caught a break. Dismissed!
@@ -18231,9 +18231,9 @@ movies/woi/woi_node_100,woi100_003,"Aw, hell."
 movies/woi/woi_node_101,woi101_001,You could eat this stuff and it wouldn’t do a thing.
 movies/woi/woi_node_101,woi101_002,How the hell are they going to field this stuff?
 movies/woi/woi_node_101,woi101_003,Just like Agent Orange.
-movies/woi/woi_node_102,woi102_001,"When the material is introduced, even at less than ten parts per million, it hampers the normal biological processes of any infected subject."
-movies/woi/woi_node_102,woi102_002,How much of this stuff can we get?
-movies/woi/woi_node_102,woi102_003,"Once the plant is fully online, the question is: how much do you want?"
+movies/woi/woi_node_102,woi102_001,"When the material is introduced, even at less than ten parts per million, it hampers the normal biological processes of any infected subject.",この物質が導入されたら、例え10ppm以下の濃度であってもあらゆる感染体の通常生体活動を阻害します。
+movies/woi/woi_node_102,woi102_002,How much of this stuff can we get?,どのくらい準備できるかね？
+movies/woi/woi_node_102,woi102_003,"Once the plant is fully online, the question is: how much do you want?",工場が完全にオンラインになったら逆に尋ねますよ。 どのくらい必要なんです？
 movies/woi/woi_node_103,woi103_001,This substance. What will its effect be on ZEUS?,こいつについてだが、これはゼウスにどういう影響を及ぼすんだ？
 movies/woi/woi_node_103,woi103_002,"Mercer is different from the average infected, but he does share a similar biology. In my opinion, it will affect him much like it does those tainted with the BLACKLIGHT virus.",マーサーは一般的な感染者とは違いますが、似たような生態ではあります。 私見ですが、ブラックライトウイルス感染者と同様の効果を彼にも与えれると思いますよ。
 movies/woi/woi_node_103,woi103_003,Will it kill it?,殺せるのか？
@@ -18246,14 +18246,14 @@ movies/woi/woi_node_105,woi105_002,"Sir, they’re testing off the charts. No il
 movies/woi/woi_node_105,woi105_003,Prep them for field deployment -- ASAP.
 movies/woi/woi_node_105,woi105_004,"Sir, I-I don’t think we’re ready."
 movies/woi/woi_node_105,woi105_005,You’re not paid to think.
-movies/woi/woi_node_106,woi106_001,This variant they’ve injected into the D-Codes -- it’s three weeks old! We shouldn’t be putting it out in the field.
-movies/woi/woi_node_106,woi106_002,"At this point, I don’t think it’ll make much of a difference."
+movies/woi/woi_node_106,woi106_001,This variant they’ve injected into the D-Codes -- it’s three weeks old! We shouldn’t be putting it out in the field.,彼らはDコードにこの変種を注射した ―― まだ発見から3週間しか経っていなかったのに！ 俺たちはこれを外に出すべきじゃなかったんだ。
+movies/woi/woi_node_106,woi106_002,"At this point, I don’t think it’ll make much of a difference.",今のところ、そんな大した違いじゃないと思いますよ。
 movies/woi/woi_node_107,woi107_001,What kind of situations are these...things suited for?,こいつらはどんな任務に向いてるんだ？
 movies/woi/woi_node_107,woi107_002,"They’ve been trained to specifically counteract viral-targets. They are highly-mobile, super strong, resilient and capable of going toe-to-toe with even the strongest infected.",彼らはウイルスに汚染されている敵でも対抗できるよう特別な訓練を受けています。 高い機動力・パワー・回復力を備え、強力な感染者とでも1対1で戦えます。
 movies/woi/woi_node_107,woi107_003,Close combat?,近接戦闘もか？
 movies/woi/woi_node_107,woi107_004,"It’s what they were made for, sir.",そのために作られたんです。
-movies/woi/woi_node_109,woi109_001,"Due to the nature of the virus, extensive surgical modification -- not possible on other personnel -- was performed on the D-CODES."
-movies/woi/woi_node_109,woi109_002,"Bulletproof steel inserts were placed beneath the skin in all major soft-tissue areas. The healing capacity of the virus makes such enhancements not only advantageous, but extremely efficient."
+movies/woi/woi_node_109,woi109_001,"Due to the nature of the virus, extensive surgical modification -- not possible on other personnel -- was performed on the D-CODES.",ウイルスの働きによって他の兵士には耐えれないような ―― 人体強化手術がDコードに施された。
+movies/woi/woi_node_109,woi109_002,"Bulletproof steel inserts were placed beneath the skin in all major soft-tissue areas. The healing capacity of the virus makes such enhancements not only advantageous, but extremely efficient.",全ての主要な弱点組織上の皮膚下に防弾装甲を埋め込む。 ウイルスによる再生能力がこのような強化を可能とするだけでなく、非常に効果的な方法となる。
 movies/woi/woi_node_110,woi110_001,Listen up. You're the first of our group to go into the field and confront the virus directly on its own terms.,聞け。 お前が我々の中で最も早く実戦に行きウィルスと直面する。
 movies/woi/woi_node_110,woi110_002,Orders?,命令はなんでしょう？
 movies/woi/woi_node_110,woi110_003,The old man wants Mercer’s head on a platter. Doesn’t care how. You’ll be priority on Strike Package Intel.,あの老いぼれはマーサーを狙ってる。 方法は問わん。 お前を攻撃支援要請時の第一出撃隊に配置する。
@@ -18276,11 +18276,11 @@ movies/woi/woi_node_122,woi122_001,ALTRUISTIC recovered several interesting anom
 movies/woi/woi_node_122,woi122_002,I want access to PARIAH.
 movies/woi/woi_node_122,woi122_003,"I’m gonna forget you know what that is, doctor. You don’t have clearance. Always remember: YOU work for US. Escort the Director out...."
 movies/woi/woi_node_122,woi122_004,"Sir! If you’ll just follow me, Dr. McMullen."
-movies/woi/woi_node_124,woi124_001,While MOTHER represents what we think is a simple carrier -- something we’ve seen time and again -- PARIAH is unique.
-movies/woi/woi_node_124,woi124_002,"Why is that, exactly?"
-movies/woi/woi_node_124,woi124_003,"There are several intriguing anomalies: for one, the subject is male. Secondly, it exhibits no evidence of carrying any virus. However...."
-movies/woi/woi_node_124,woi124_004,Yes?
-movies/woi/woi_node_124,woi124_005,"However, we’re not at all certain what it is."
+movies/woi/woi_node_124,woi124_001,While MOTHER represents what we think is a simple carrier -- something we’ve seen time and again -- PARIAH is unique.,マザーは単なるキャリアだと思っていましたが ―― 再び発見したことが ―― パリアは独特ですよ。
+movies/woi/woi_node_124,woi124_002,"Why is that, exactly?",正確にはどういうことだ？
+movies/woi/woi_node_124,woi124_003,"There are several intriguing anomalies: for one, the subject is male. Secondly, it exhibits no evidence of carrying any virus. However....",いくつか興味をそそる異質な点があるんです。 1つめは、対象が男であること。 2つめとしては、ウィルスを運んでいるという証拠を一切示さないんです。 ただ……。
+movies/woi/woi_node_124,woi124_004,Yes?,ただ？
+movies/woi/woi_node_124,woi124_005,"However, we’re not at all certain what it is.",これが一体何なのか、それが全く分かりません。
 movies/woi/woi_node_125,woi125_001,Subject PARIAH removed to clean room at Vandenburg Air Force Base on 8/1/69 as main test subject in Project CRUSADE.,パリアはヴァンデンバーグ空軍基地のクリーンルームへ69年8月1日に移送。 クルセード計画の主研究対象として。
 movies/woi/woi_node_125,woi125_002,Subject exhibits unusual biological activity. Responsible for five deaths in thirty-four years of captivity.,対象は特異な生体活動を示している。34年間にわたる監禁中5件の死亡事故に関連。
 movies/woi/woi_node_125,woi125_003,"Unlike MOTHER, PARIAH exhibits no physical symptoms of BLACKLIGHT infection.",マザーと違いパリアはブラックライト感染による身体的兆候はない。
@@ -18300,12 +18300,12 @@ movies/woi/woi_node_128,woi128_004,What if this is the start of such a change on
 movies/woi/woi_node_129,woi129_001,"As of today, we are folded under control of First Biological Warfare Command out of Ft. Detrick",本日より我々はデトリック基地より発令された、第一次生物化学戦争令下におかれることになる。
 movies/woi/woi_node_129,woi129_002,"They’re calling the shots on this. I don’t want any fuckin’ lip. They tell you to jump, you jump.",指令権はあちらにある。 貴様らに一切の口応えは不要だ。 彼らが飛べと言ったら、飛ぶんだ。
 movies/woi/woi_node_129,woi129_003,Do not mistake these guys for dabblers. They have seen serious shit in the past.,彼らを素人と思うなよ。 過去に地獄を見てきた男たちだ。
-movies/woi/woi_node_150,woi150_001,They grabbed an entire apartment block and dragged 'em into some holding pen they had set up.
-movies/woi/woi_node_150,woi150_002,They’re doin that all over the city.
-movies/woi/woi_node_150,woi150_003,Fuck. I’m starting to wonder when it’s our turn.
-movies/woi/woi_node_153,woi153_001,I bet you two cartons they have a hella bunch of missiles pointed right here at good 'ole N-Y-C.
-movies/woi/woi_node_153,woi153_002,Damn.
-movies/woi/woi_node_153,woi153_003,Don’t sweat it. We won’t even know it when it happens.
+movies/woi/woi_node_150,woi150_001,They grabbed an entire apartment block and dragged 'em into some holding pen they had set up.,彼らは高層住宅街を占拠し、用意しておいた場所に奴らを囲い込むようだ。
+movies/woi/woi_node_150,woi150_002,They’re doin that all over the city.,それを街中でやるつもりだろう。
+movies/woi/woi_node_150,woi150_003,Fuck. I’m starting to wonder when it’s our turn.,くそっ。 俺たちの番はいつくるんだ？
+movies/woi/woi_node_153,woi153_001,I bet you two cartons they have a hella bunch of missiles pointed right here at good 'ole N-Y-C.,ここにある大量のミサイルニューヨークを狙ってるに違いない。
+movies/woi/woi_node_153,woi153_002,Damn.,ああ。
+movies/woi/woi_node_153,woi153_003,Don’t sweat it. We won’t even know it when it happens.,心配ないさ。 ミサイルが発射されたって俺たちには知ることさえないんだ。
 movies/woi/woi_node_155,woi155_001,"Naw, I hear these operators are out of Maryland. Some fuckin’ division or another. Blacker than black, these fucks.",今、こいつらオペレーターはMarylandにいないらしいぜ。 クソったれの部局かなんかめ。 黒よりも真っ黒だな、このクソどもは。
 movies/woi/woi_node_155,woi155_002,"They got no rank, no fuckin’ protocol. They’re fuckin’ barbarians.",奴らには階級もない、クソッタレな作戦計画書もない。 連中はクソッたれの未開人さ。
 movies/woi/woi_node_155,woi155_003,And they’re in charge.,あいつらのせいだ。
@@ -18330,9 +18330,9 @@ movies/woi/woi_node_177,woi177_001,WHY THE FUCK ARE THEY SHOOTING AT US! THEY’
 movies/woi/woi_node_177,woi177_002,DAMN. DAMN!,くそ！ くそ！！
 movies/woi/woi_node_177,woi177_003,"THAT IS IT, MAN. I'M OUTTA HERE. I'M GONNA SMOKE ANYTHING THAT AIN'T A MARINE.",そういうことかよ、やってられるか！ 海兵隊員以外は全員ぶっ殺してやる！！
 movies/woi/woi_node_185,woi185_001,EVERYONE! SHUT UP. I HAVE AN ANNOUNCEMENT!,総員静かに！ 通達する。
-movies/woi/woi_node_185,woi185_002,"First. These people infected with the virus -- they’re dead already. Keep your distance, and if they rush you, you shoot to kill.",一つめ。 ウイルス感染者は既に死亡している。 距離を十分とり、もし奴らが走ってきたら射殺しろ。
+movies/woi/woi_node_185,woi185_002,"First. These people infected with the virus -- they’re dead already. Keep your distance, and if they rush you, you shoot to kill.",1つめ。 ウイルス感染者は既に死亡している。 距離を十分とり、もし奴らが走ってきたら射殺しろ。
 movies/woi/woi_node_185,woi185_003,CAP! WHEN’S THE CALVARY GETTING HERE!,隊長！ 援軍が来るのはいつです？
-movies/woi/woi_node_185,woi185_004,Second. The cavalry? We’re it....,二つめ。 援軍？ それが我々だ……。
+movies/woi/woi_node_185,woi185_004,Second. The cavalry? We’re it....,2つめ。 援軍？ それが我々だ……。
 movies/woi/woi_node_187,woi187_001,"Hey! Hey, blue boy! Get your men out of here.",おい！ おいお巡り！ お前の部下をここに呼べ！
 movies/woi/woi_node_187,woi187_002,"Thank God, you guys are here....",やっとでおいでなすったか……
 movies/woi/woi_node_187,woi187_003,Get your men out now!,部下を呼べ！
