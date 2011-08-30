@@ -13,7 +13,7 @@ Audio/english/AudioFile/0/0/001bb855,english,What?  They’re using my DNA to tr
 Audio/english/AudioFile/0/0/0027a3ae,english,It's out of control!,制御できない！
 Audio/english/AudioFile/0/0/0029763d,english,"All Teams, we're going to have to gang up on it, over.",全隊、一斉に行動する、どうぞ。
 Audio/english/AudioFile/0/0/002d8139,english,Should we do it? What do we do?,そうすべきなのか？ 何をすべきなんだ？
-Audio/english/AudioFile/0/0/002ff460,english,We have a confirmed kill on primary target.,第1目標の殺害を確認した。
+Audio/english/AudioFile/0/0/002ff460,english,We have a confirmed kill on primary target.,第一目標の殺害を確認した。
 Audio/english/AudioFile/0/0/00332b77,english,There you are! Come to poppa.
 Audio/english/AudioFile/0/0/003d93c8,english,I am justified to shoot.,正当防衛だ。
 Audio/english/AudioFile/0/0/0042e65e,english,"Haul ass, motherfuckers.",さっさと出て行け、くそ野郎。
@@ -136,7 +136,7 @@ Audio/english/AudioFile/0/2/026d85b5,english,That's what you get for fuckin' wit
 Audio/english/AudioFile/0/2/026edf0d,english,We are in the shit and LOVING IT!
 Audio/english/AudioFile/0/2/02797c82,english,"Get up, get up! Keep fighting."
 Audio/english/AudioFile/0/2/028298e6,english,Taggart's aircraft are somewhere near here.
-Audio/english/AudioFile/0/2/0283f5e0,english,ZEUS has been sighted! Clear the landing areas!
+Audio/english/AudioFile/0/2/0283f5e0,english,ZEUS has been sighted! Clear the landing areas!,ゼウスを発見！ 着陸地点をあけろ！
 Audio/english/AudioFile/0/2/02882885,english,There! There! Right there! He's your man!
 Audio/english/AudioFile/0/2/028d1de7,english,"Oww, my arm!"
 Audio/english/AudioFile/0/2/0299a89c,english,I think I'm gonna puke!
@@ -868,7 +868,7 @@ Audio/english/AudioFile/0/f/0f8f977e,english,No way. No fuckin' way.
 Audio/english/AudioFile/0/f/0f90cc35,english,Is he dead? I guess he's fuckin dead.
 Audio/english/AudioFile/0/f/0f933f3d,english,Roger that.
 Audio/english/AudioFile/0/f/0f967673,english,He's near. I smell him.
-Audio/english/AudioFile/0/f/0f9f69f5,english,Is that - that's Greene. Elizabeth Greene.
+Audio/english/AudioFile/0/f/0f9f69f5,english,Is that - that's Greene. Elizabeth Greene.,あれは ―― あれはグリーン？ エリザベス・グリーンなのか？
 Audio/english/AudioFile/0/f/0fa2f262,english,"Strike Team has lost target, bring us in, over."
 Audio/english/AudioFile/0/f/0fa6315a,english,What'd I ever do to you!?
 Audio/english/AudioFile/0/f/0fafa33b,english,"Shots fired, shots fired on the scene, over."
@@ -2208,7 +2208,7 @@ Audio/english/AudioFile/2/7/27d591ec,english,GOODBYE.
 Audio/english/AudioFile/2/7/27d66d3e,english,What the fuck -- is that a magic trick?
 Audio/english/AudioFile/2/7/27dfaee4,english,Strike Team request confirmed.
 Audio/english/AudioFile/2/7/27e2e639,english,"HQ, he just...ZEUS just...aw, fuck it."
-Audio/english/AudioFile/2/7/27e706a0,english,Greene.
+Audio/english/AudioFile/2/7/27e706a0,english,Greene.,グリーン。
 Audio/english/AudioFile/2/7/27ebe372,english,"Kill Zone nothing but flames, forward team. Crispy critters."
 Audio/english/AudioFile/2/7/27f2b463,english,Give me the situation on the ground.
 Audio/english/AudioFile/2/7/27fc1305,english,I thought that was him!
@@ -3599,7 +3599,7 @@ Audio/english/AudioFile/4/0/40d4e379,english,Don't!
 Audio/english/AudioFile/4/0/40d98deb,english,"Looks like he's down, we'll drop nearby and have a spot-check, over."
 Audio/english/AudioFile/4/0/40dc2f85,english,"Attack failed, shoot the fucker again!"
 Audio/english/AudioFile/4/0/40dcfe4e,english,*oof*
-Audio/english/AudioFile/4/0/40dff614,english,"Elizabeth Greene.   General Peter Randall. Hope, Idaho.  I have to get the people to know the secret of the place.  Randall, you just made the top of my list"
+Audio/english/AudioFile/4/0/40dff614,english,"Elizabeth Greene.   General Peter Randall. Hope, Idaho.  I have to get the people to know the secret of the place.  Randall, you just made the top of my list",エリザベス・グリーン、ピーター・ランドール大将、アイダホ州ホープ……。 あの場所の秘密を知ってる奴と話す必要がある。 そしてランドール、お前が今俺のリストのトップだ。
 Audio/english/AudioFile/4/0/40e08b0c,english,Sir?
 Audio/english/AudioFile/4/0/40e76681,english,Watch out!
 Audio/english/AudioFile/4/0/40e8af63,english,Get down! Now!
@@ -3968,7 +3968,7 @@ Audio/english/AudioFile/4/7/4786ea5a,english,"Target has gone, Red Crown. Pull u
 Audio/english/AudioFile/4/7/4787332a,english,*choke*
 Audio/english/AudioFile/4/7/478af56b,english,Enemy HQ located. Engaging.
 Audio/english/AudioFile/4/7/478b8e8f,english,*grunt* Help me! Help!
-Audio/english/AudioFile/4/7/478efd6a,english,"This is Ghost Three Three Eight Four, we are go!"
+Audio/english/AudioFile/4/7/478efd6a,english,"This is Ghost Three Three Eight Four, we are go!",こちらゴースト3384、離陸する！
 Audio/english/AudioFile/4/7/479183e3,english,"It won't go down, try another run, over."
 Audio/english/AudioFile/4/7/4799caa1,english,"Hey! Hey! Hey, you see him!?"
 Audio/english/AudioFile/4/7/479b6530,english,Fuck! Hide!
@@ -5325,7 +5325,7 @@ Audio/english/AudioFile/5/f/5f4230e5,english,Building security compromised. Lock
 Audio/english/AudioFile/5/f/5f47d00c,english,Red Crown from Chalk Three. Enemy defeated. Area clear.
 Audio/english/AudioFile/5/f/5f4b42d4,english,"Right. Well if he shows up, he's going to get two in the chest and one in the head."
 Audio/english/AudioFile/5/f/5f5335b7,english,"Oh, that's your man, yo."
-Audio/english/AudioFile/5/f/5f54ef71,english,"This is Red Crown Command. Code Black in progress. All units fall back. Countdown to Fire Break has begun. I repeat, all units fall back for immediate evac."
+Audio/english/AudioFile/5/f/5f54ef71,english,"This is Red Crown Command. Code Black in progress. All units fall back. Countdown to Fire Break has begun. I repeat, all units fall back for immediate evac.",こちらレッドクラウン司令部。 コードブラックが進行中。 全部隊帰還せよ。 ファイアブレイクへのカウントダウンが始まっている。 繰り返す、全部隊は即刻帰還せよ。
 Audio/english/AudioFile/5/f/5f55d841,english,"We got skins, over, switch to laser and get a reading."
 Audio/english/AudioFile/5/f/5f5a4d0d,english,"All units be aware. Strike request underway, standby."
 Audio/english/AudioFile/5/f/5f5e6c4a,english,"Maneuvering at this time, over."
@@ -5895,7 +5895,7 @@ Audio/english/AudioFile/6/9/69ad1a46,english,There he is! There's Mercer and tho
 Audio/english/AudioFile/6/9/69b18aa7,english,"Oh, shit, he's here!"
 Audio/english/AudioFile/6/9/69b81a96,english,Don't do this!
 Audio/english/AudioFile/6/9/69b88d19,english,"Hang on, Voodoo Seven joining the game."
-Audio/english/AudioFile/6/9/69b96149,english,"I want anti-armor and high-explosive on it. Whatever we've got that pierces armor or bursts bunkers, pour it onto that mass!"
+Audio/english/AudioFile/6/9/69b96149,english,"I want anti-armor and high-explosive on it. Whatever we've got that pierces armor or bursts bunkers, pour it onto that mass!",対戦車砲と榴弾を持ってこい。 徹甲弾や貫通爆弾をありったけ叩き込め！
 Audio/english/AudioFile/6/9/69bf4015,english,Ahhh! I'm dying here!
 Audio/english/AudioFile/6/9/69cabb1f,english,Holy Shit! We beat it. We beat it.
 Audio/english/AudioFile/6/9/69d70ddc,english,"All is quiet here, Red Crown. Mission status gold, over."
@@ -6144,7 +6144,7 @@ Audio/english/AudioFile/6/e/6e1208a2,english,Where is everyone? Hello?
 Audio/english/AudioFile/6/e/6e17076a,english,You got a fuckin' problem!?
 Audio/english/AudioFile/6/e/6e2a041a,english,"If you have a phone, call 911!"
 Audio/english/AudioFile/6/e/6e2da286,english,10-85! 10-85! Do you copy!?
-Audio/english/AudioFile/6/e/6e3216c5,english,"Tactical says there's no hives, nothing nearby. They must be coming from subsurface."
+Audio/english/AudioFile/6/e/6e3216c5,english,"Tactical says there's no hives, nothing nearby. They must be coming from subsurface.",近くにハイヴは無いそうだ。 奴らは地下からくるに違いない。
 Audio/english/AudioFile/6/e/6e367958,english,About time you got here.
 Audio/english/AudioFile/6/e/6e413673,english,"Dropping angels for a look see, over."
 Audio/english/AudioFile/6/e/6e453dce,english,"Charlie Nineteen, Dispatch. Subject has disappeared."
@@ -7328,7 +7328,7 @@ Audio/english/AudioFile/8/3/837812f0,english,*choking* I can't breathe....
 Audio/english/AudioFile/8/3/83861a31,english,"Focus, fuck-ups."
 Audio/english/AudioFile/8/3/838d942f,english,Terrorist!
 Audio/english/AudioFile/8/3/83913341,english,Field Team. Confirm that kill. Are we good here? Over.
-Audio/english/AudioFile/8/3/839360e2,english,"Urgent! Spin those choppers up, clear the ground, clear clear!"
+Audio/english/AudioFile/8/3/839360e2,english,"Urgent! Spin those choppers up, clear the ground, clear clear!",緊急連絡！ 全ヘリを飛ばせ、地上に残すな！
 Audio/english/AudioFile/8/3/83953e3d,english,Open fire on that thing!
 Audio/english/AudioFile/8/3/8397b126,english,"Stand down, Field Units. Orders pending, over."
 Audio/english/AudioFile/8/3/839ae87b,english,What's going on? What did you see? Calm down and tell me!
@@ -7416,7 +7416,7 @@ Audio/english/AudioFile/8/5/85196989,english,Kill it. Kill that fuckin' thing.
 Audio/english/AudioFile/8/5/852323f8,english,Kill it!
 Audio/english/AudioFile/8/5/852bf7e4,english,He fuckin' changed!
 Audio/english/AudioFile/8/5/852edf8e,english,Ahhh! I'm hurt! Gahhh!
-Audio/english/AudioFile/8/5/852ff29e,english,It's still down there. It hasn't gone. Eyes open!
+Audio/english/AudioFile/8/5/852ff29e,english,It's still down there. It hasn't gone. Eyes open!,まだやってないぞ。 まだ倒してない。 注意しろ！
 Audio/english/AudioFile/8/5/853ef493,english,It's a massacre!
 Audio/english/AudioFile/8/5/85428b21,english,"Signed, sealed, delivered, baby!"
 Audio/english/AudioFile/8/5/854b69d2,english,Just shoot him.
@@ -7694,7 +7694,7 @@ Audio/english/AudioFile/8/9/8978ad62,english,You have the wrong man! Stand down!
 Audio/english/AudioFile/8/9/898cb132,english,"Sound off! SOUND OFF, DAMN IT! Who's alive?"
 Audio/english/AudioFile/8/9/898cedee,english,"Ghost Twelve, I think we owe you a case of beer. Thank you."
 Audio/english/AudioFile/8/9/899079f9,english,Yes. Finally lost them...better get a move on.
-Audio/english/AudioFile/8/9/89921f05,english,"We are moving additional forces to your location. Be aware, check fire on inbound friendlies."
+Audio/english/AudioFile/8/9/89921f05,english,"We are moving additional forces to your location. Be aware, check fire on inbound friendlies.",そちらに増援を送った。味方を誤射しないように気をつけろよ。
 Audio/english/AudioFile/8/9/89945b60,english,"Calling target acquired. Requesting Strike, requesting strike, over."
 Audio/english/AudioFile/8/9/899a4707,english,*croak*
 Audio/english/AudioFile/8/9/89a0cab5,english,Grease this motherfucker.
@@ -7826,7 +7826,7 @@ Audio/english/AudioFile/8/b/8bfbad3f,english,Shoot and keep shooting! They're to
 Audio/english/AudioFile/8/c/8c032739,english,Get out of the city!
 Audio/english/AudioFile/8/c/8c0baf6f,english,Negative from RED CROWN.
 Audio/english/AudioFile/8/c/8c12012a,english,"Freeze, right there!"
-Audio/english/AudioFile/8/c/8c159b0a,english,"We're clear of the ground, entering high altitude orbit."
+Audio/english/AudioFile/8/c/8c159b0a,english,"We're clear of the ground, entering high altitude orbit.",離陸した、高高度まで昇る。
 Audio/english/AudioFile/8/c/8c167ab3,english,"We're engaging, repeat, engaging."
 Audio/english/AudioFile/8/c/8c187c8d,english,Oh! *laughing*
 Audio/english/AudioFile/8/c/8c1bf639,english,Alright. You pushed me too far. It's on!
@@ -8372,7 +8372,7 @@ Audio/english/AudioFile/9/5/95b10e1c,english,He's there! Right there!
 Audio/english/AudioFile/9/5/95c6c241,english,Yo! Yo! Yo! Yo! Hold up! Hold up! Don't do it!
 Audio/english/AudioFile/9/5/95c6fd7f,english,"All points, priority target, priority target! "
 Audio/english/AudioFile/9/5/95ce777d,english,Watch him! Keep away from him!
-Audio/english/AudioFile/9/5/95d3eef0,english,"No aircraft, no personnel, no survivors."
+Audio/english/AudioFile/9/5/95d3eef0,english,"No aircraft, no personnel, no survivors.",ヘリ、兵士、生き残り、すべてゼロっと。
 Audio/english/AudioFile/9/5/95dd5664,english,"Please, man, think of my little boy!"
 Audio/english/AudioFile/9/5/95dffdc3,english,*argh*
 Audio/english/AudioFile/9/5/95e1cb31,english,"We got skins beneath us, Red Crown, relay to Ground."
@@ -8707,7 +8707,7 @@ Audio/english/AudioFile/9/b/9bad0e64,english,"I'm looking to evac the injured, o
 Audio/english/AudioFile/9/b/9bb20888,english,"Can't work under these conditions, let me finish."
 Audio/english/AudioFile/9/b/9bd289f7,english,Collateral.
 Audio/english/AudioFile/9/b/9bd47683,english,Our position has been compromised! Abort mission!
-Audio/english/AudioFile/9/b/9bd9a79a,english,Keep the pump operational. That's the only thing you need to do. Out.
+Audio/english/AudioFile/9/b/9bd9a79a,english,Keep the pump operational. That's the only thing you need to do. Out.,ポンプを守れ、それが最優先だ。
 Audio/english/AudioFile/9/b/9bda03f1,english,You see that!?
 Audio/english/AudioFile/9/b/9be28c46,english,"Yes, carry on."
 Audio/english/AudioFile/9/b/9be3e1e5,english,Charlie Nineteen does not copy.
@@ -9831,7 +9831,7 @@ Audio/english/AudioFile/a/f/afee5366,english,"This is Red Crown, we have target 
 Audio/english/AudioFile/a/f/aff0e4a4,english,Put me down!
 Audio/english/AudioFile/a/f/aff187f2,english,"Eyes peeled, folks. He's all SLY."
 Audio/english/AudioFile/a/f/aff90ea8,english,"Get us a strike, RC, ZEUS is in the Zone."
-Audio/english/AudioFile/b/0/b0019227,english,"D-Codes, armor, gun emplacements.... Great."
+Audio/english/AudioFile/b/0/b0019227,english,"D-Codes, armor, gun emplacements.... Great.",Dコード、装甲車、自動機銃……。 すげえな。
 Audio/english/AudioFile/b/0/b001b7e7,english,Ripple Fire!
 Audio/english/AudioFile/b/0/b0086858,english,"That's just creepy, man!"
 Audio/english/AudioFile/b/0/b00ab4a3,english,"Don't be treating me like I'm your boy, motherfucker."
@@ -10568,7 +10568,7 @@ Audio/english/AudioFile/b/d/bd6dad1f,english,"Alright, he's my ticket inside..."
 Audio/english/AudioFile/b/d/bd71d0d2,english,"Gearbox is damaged, otherwise functional. Check status, over."
 Audio/english/AudioFile/b/d/bd773c0a,english,Get me loose!
 Audio/english/AudioFile/b/d/bd7e323b,english,"This is not the right thing to do. Please, you don't have to do this. You have a choice."
-Audio/english/AudioFile/b/d/bd82c139,english,"Outstanding, outstanding! Tank is drained and position still secured. Looks like the deployment is a success. Standby for new orders."
+Audio/english/AudioFile/b/d/bd82c139,english,"Outstanding, outstanding! Tank is drained and position still secured. Looks like the deployment is a success. Standby for new orders.",よし、よくやった！ タンクは空、そこも無事だ。 作戦は成功と言えるな。 次の指示を待て。
 Audio/english/AudioFile/b/d/bd87a031,english,"Dispatch, this is Charlie Nineteen. We have the suspect."
 Audio/english/AudioFile/b/d/bd8be6d3,english,MOVE YOUR ASSES!
 Audio/english/AudioFile/b/d/bd8d04af,english,"Jesus, um, Dispatch -- I need help. MVA! MVA!"
@@ -10646,7 +10646,7 @@ Audio/english/AudioFile/b/e/bef58bf3,english,What the fuck is that? --Elizabeth?
 Audio/english/AudioFile/b/e/befa7084,english,"Dispatch, I don't know how to describe this!"
 Audio/english/AudioFile/b/e/befac6c2,english,"Switch to brevity, engaging target, over."
 Audio/english/AudioFile/b/e/befae4d2,english,"Watch it, would ya?"
-Audio/english/AudioFile/b/f/bf017ec2,english,"He’s here! Get our wings off the ground! Clear, clear!"
+Audio/english/AudioFile/b/f/bf017ec2,english,"He’s here! Get our wings off the ground! Clear, clear!",ここにいるぞ！ はやく飛べ、飛べ！
 Audio/english/AudioFile/b/f/bf035acb,english,"I'm backing up, we missed something. Sweep on the way back, over."
 Audio/english/AudioFile/b/f/bf147ea4,english,"Red Crown, no sign of target here, packin' it in."
 Audio/english/AudioFile/b/f/bf161612,english,"Dispatch, the area is clean. We're out."
@@ -10739,7 +10739,7 @@ Audio/english/AudioFile/c/0/c091c552,english,I'm investigating.
 Audio/english/AudioFile/c/0/c092d793,english,"Red Crown, Chalk Three. The SOB slipped by us. Request we pack in the search and proceed with another glorious day in the Corps, over."
 Audio/english/AudioFile/c/0/c097ccd4,english,Watch for debris. Shit is still raining down.
 Audio/english/AudioFile/c/0/c09c822f,english,"Terminating search pattern Zulu. Ground forces, you're on your own."
-Audio/english/AudioFile/c/0/c09e107e,english,"It's gone to ground. Check your footing...if it feels unstable, MOVE!"
+Audio/english/AudioFile/c/0/c09e107e,english,"It's gone to ground. Check your footing...if it feels unstable, MOVE!",地下に潜ったぞ。 足元に注意しろ……揺れたらかわせ！
 Audio/english/AudioFile/c/0/c0a332a0,english,"Oh, please, God, no! Why me!?"
 Audio/english/AudioFile/c/0/c0a5f34d,english,That's him!
 Audio/english/AudioFile/c/0/c0a62f78,english,Confirmed hit! That a flameout? I have lights.
@@ -11427,7 +11427,7 @@ Audio/english/AudioFile/c/c/cce17d37,english,"Get out of my way, idiot!"
 Audio/english/AudioFile/c/c/cce27054,english,That's it. Shoot it down.
 Audio/english/AudioFile/c/c/cce43d38,english,"Delta Forty-Five holding tactical, do you copy?"
 Audio/english/AudioFile/c/c/cce6720c,english,"Beginning my orbit of target area C Ten, over."
-Audio/english/AudioFile/c/c/cce9da6d,english,"Okay, let’s see what we can shake loose."
+Audio/english/AudioFile/c/c/cce9da6d,english,"Okay, let’s see what we can shake loose.",よし、揺さぶってみようじゃないか。
 Audio/english/AudioFile/c/c/cceaeb2d,english,10-4.
 Audio/english/AudioFile/c/c/ccef31cf,english,Not down!
 Audio/english/AudioFile/c/c/ccf05b84,english,This bitch keeps getting harder to kill.
@@ -12451,7 +12451,7 @@ Audio/english/AudioFile/d/f/df2b7f6e,english,That thing's hostile!
 Audio/english/AudioFile/d/f/df301532,english,"I don't want to die! Oh, fuck!"
 Audio/english/AudioFile/d/f/df3ab388,english,Sit down.... Be at rest.
 Audio/english/AudioFile/d/f/df3e1c5e,english,"RED CROWN, this is badly out of hand!"
-Audio/english/AudioFile/d/f/df4472ac,english,Nothing left.
+Audio/english/AudioFile/d/f/df4472ac,english,Nothing left.,全滅だな。
 Audio/english/AudioFile/d/f/df4762f4,english,"Waa-ooh, oh, ooooohhhh!"
 Audio/english/AudioFile/d/f/df4be5ce,english,There! Right there!
 Audio/english/AudioFile/d/f/df4d3df4,english,Red hostiles incoming.
@@ -12965,7 +12965,7 @@ Audio/english/AudioFile/e/8/e85029b9,english,"Contact is pushing on aggression, 
 Audio/english/AudioFile/e/8/e85539c8,english,What is it with those motherfuckers? What are they building?
 Audio/english/AudioFile/e/8/e855ae0f,english,I'm hurt! Ahhh!
 Audio/english/AudioFile/e/8/e859d571,english,No.
-Audio/english/AudioFile/e/8/e85b410f,english,Who the fuck is that!? He's not one of us!
+Audio/english/AudioFile/e/8/e85b410f,english,Who the fuck is that!? He's not one of us!,あいつは誰だ？俺たちの仲間じゃないぞ！
 Audio/english/AudioFile/e/8/e85e23cc,english,"Target is off optical sight, suggest we return, over."
 Audio/english/AudioFile/e/8/e865f525,english,Don't stand there with your head up your ass. Form up! Form up! There's more of them out there. Get somebody on the roof -- right fucking now!
 Audio/english/AudioFile/e/8/e868b592,english,"Get out, clear the hatch!"
@@ -13994,7 +13994,7 @@ Audio/english/AudioFile/f/a/fa6365a1,english,Watch him! Watch him!
 Audio/english/AudioFile/f/a/fa6495a0,english,"Strike Package withdraw, over."
 Audio/english/AudioFile/f/a/fa668c4a,english,Suspect ID'd -- ready to re-engage.
 Audio/english/AudioFile/f/a/fa67e94d,english,Yo...let...go of me!
-Audio/english/AudioFile/f/a/fa6f9ca2,english,"Priority order, scramble all crews, we need to get these Birds in the air. NOW! "
+Audio/english/AudioFile/f/a/fa6f9ca2,english,"Priority order, scramble all crews, we need to get these Birds in the air. NOW! ",優先事項、スクランブル発進せよ、全機離陸だ、急げ！
 Audio/english/AudioFile/f/a/fa6f9e87,english,GET OUT OF MY WAY!
 Audio/english/AudioFile/f/a/fa73c56c,english,Priority one target. In range!
 Audio/english/AudioFile/f/a/fa747177,english,You seeing this!?
@@ -15270,9 +15270,9 @@ art/hud/fe_textbible,9_1_FE_OBJECTIVE_3,TRAVEL to the AIR SUPPORT STAGING AREA.,
 art/hud/fe_textbible,9_1_FE_OBJECTIVE_4,DESTROY TAGGART'S TRANSPORT HELICOPTERS.,タガートの移送ヘリを破壊してください。
 art/hud/fe_textbible,9_1_FE_OBJECTIVE_5,TRAVEL to the AIR SUPPORT STAGING AREA.,航空サポート準備エリアに向かってください。
 art/hud/fe_textbible,9_1_FE_OBJECTIVE_6,DESTROY TAGGART'S TRANSPORT HELICOPTERS.,タガートの移送ヘリを破壊してください。
-art/hud/fe_textbible,9_1_FE_OBJ_1,GO to the FIRST HELICOPTER STAGING AREA.,第1ヘリコプター準備エリアに向かってください。
-art/hud/fe_textbible,9_1_FE_OBJ_2,GO to the SECOND HELICOPTER STAGING AREA.,第2ヘリコプター準備エリアに向かってください。
-art/hud/fe_textbible,9_1_FE_OBJ_3,GO to the THIRD HELICOPTER STAGING AREA.,第3ヘリコプター準備エリアに向かってください。
+art/hud/fe_textbible,9_1_FE_OBJ_1,GO to the FIRST HELICOPTER STAGING AREA.,第一ヘリコプター準備エリアに向かってください。
+art/hud/fe_textbible,9_1_FE_OBJ_2,GO to the SECOND HELICOPTER STAGING AREA.,第二ヘリコプター準備エリアに向かってください。
+art/hud/fe_textbible,9_1_FE_OBJ_3,GO to the THIRD HELICOPTER STAGING AREA.,第三ヘリコプター準備エリアに向かってください。
 art/hud/fe_textbible,9_1_FE_OBJ_4,DESTROY TAGGART'S TRANSPORT HELICOPTERS.,タガートの移送ヘリを破壊してください。
 art/hud/fe_textbible,9_1_GOTO_PHASE_1,TRAVEL to the  AIR SUPPORT STAGING AREA.,航空サポート準備エリアに向かってください。
 art/hud/fe_textbible,9_1_GOTO_PHASE_2,TRAVEL to the AIR SUPPORT STAGING AREA.,航空サポート準備エリアに向かってください。
@@ -17863,26 +17863,26 @@ movies/woi/woi_ec6,woiec6_07,"When you contacted me, I had no other option. You 
 movies/woi/woi_ec6,woiec6_08,What was the secret?,秘密というのは何だった？
 movies/woi/woi_ec6,woiec6_09,"Penn Station was ground zero, not Elizabeth Greene.  Whoever triggered the infection… whoever did this to me…",ペンシルバニア駅が事の発端だった、エリザベス・グリーンでなくな。 誰が感染を引き起こしたにせよ…… 誰が俺をこんな風にしたにせよ……。
 movies/woi/woi_ec6,woiec6_10,"I knew you could give me McMullen, and that McMullen would know.",あんたがマクマレンを引き渡すと知っていた。 そしてマクマレンもその事を知ってただろうな。
-movies/woi/woi_ec7,woiec7_02,Hope was a Blackwatch project.  The goal of the experiment was to create a viral weapon that could be used to target specific racial types.
-movies/woi/woi_ec7,woiec7_03,But Hope went wrong.  A mutated virus infected all of those people - drove them mad.  
-movies/woi/woi_ec7,woiec7_03b,Their bodies crawled with hell.  And at the centre of it all was Elizabeth Greene.
-movies/woi/woi_ec7,woiec7_04,"Somehow she had survived, endured the virus, absorbed it, changed it, whatever.  "
-movies/woi/woi_ec7,woiec7_04b,Her unique biology inspired this new bioweapons research program. 
-movies/woi/woi_ec7,woiec7_04c, This became GENTEK -- and Alex Mercer worked for them.
-movies/woi/woi_ec7,woiec7_05,There was one leak too many and Randall stepped in to shut it down.   No one was safe.  Mercer fled the scene with a sample of the virus.  Took it as insurance if he needed it.
-movies/woi/woi_ec7,woiec7_06,"Blackwatch cornered him at Penn Station.  With his back to the wall, he unleashed the virus on Manhattan.   "
-movies/woi/woi_ec7,woiec7_07,What Mercer did is beyond forgiveness.
-movies/woi/woi_ec7,woiec7_10,"But there is no Alex Mercer any more. The virus didn’t just kill him, it became him; copied his body down to the genetic level. It became me."
-movies/woi/woi_ec7,woiec7_11,"I AM THE VIRUS.   And I, in turn, released Elizabeth Greene - to infect the city a second time."
-movies/woi/woi_ec7,woiec7_12,"Now she's dead, but Randall won't accept that the virus can be stopped. With FIREBREAK he'll level the city - just like Hope."
-movies/woi/woi_ec7,woiec7_13,But now Hope has one final riddle to give up.  Greene was pregnant when they found her in '69. What happened to that child?
-movies/woi/woi_ec7,woiec7_14,Do you suppose your answer is out there on the Reagan?
-movies/woi/woi_ec7,woiec7_15,All I know is: I'll get my answer from Randall.
-movies/woi/woi_node_001,woi001_001,What’s the situation with Mercer?
-movies/woi/woi_node_001,woi001_002,"The subject is wanted in connection with treasonous activities against the United States and her allies. As of last night, Alex Mercer is the number one terrorist threat in the United States."
+movies/woi/woi_ec7,woiec7_02,Hope was a Blackwatch project.  The goal of the experiment was to create a viral weapon that could be used to target specific racial types.,ホープのことはブラックウォッチの計画だった。 ある特定の人種に対する生物兵器を作ることを目的としたな。
+movies/woi/woi_ec7,woiec7_03,But Hope went wrong.  A mutated virus infected all of those people - drove them mad.  ,しかしホープは失敗に終わった。 突然変異したウイルスは全員に感染し、彼らの気を狂わせた。
+movies/woi/woi_ec7,woiec7_03b,Their bodies crawled with hell.  And at the centre of it all was Elizabeth Greene.,死体は惨いものだったよ。 そしてその中心にたった一人、エリザベス・グリーンがいた。
+movies/woi/woi_ec7,woiec7_04,"Somehow she had survived, endured the virus, absorbed it, changed it, whatever.  ",どうやったのか彼女は生き延びた。ウイルスに耐え、吸収し、変異させたのか……。
+movies/woi/woi_ec7,woiec7_04b,Her unique biology inspired this new bioweapons research program. ,彼女の特異な生体がこの新しい生物兵器の研究へとつながったのさ。
+movies/woi/woi_ec7,woiec7_04c, This became GENTEK -- and Alex Mercer worked for them.,そしてそれがジェネンテックとなり ―― アレックス・マーサーはそこで働いていた。
+movies/woi/woi_ec7,woiec7_05,There was one leak too many and Randall stepped in to shut it down.   No one was safe.  Mercer fled the scene with a sample of the virus.  Took it as insurance if he needed it.,ある日ひどいウイルス漏れが起きて、ランドールが閉鎖するために首を突っ込んできた。 誰一人として感染していない奴はいない。 そしてマーサーはウイルスのサンプルを持って逃げだした。 万が一に備えた保険としてウイルスを持ちだしたんだ。
+movies/woi/woi_ec7,woiec7_06,"Blackwatch cornered him at Penn Station.  With his back to the wall, he unleashed the virus on Manhattan.   ",ブラックウォッチがペンシルバニア駅に追い詰めたが、逃げ場を失った彼はウイルスを地面に叩きつけてマンハッタンへと解き放った。
+movies/woi/woi_ec7,woiec7_07,What Mercer did is beyond forgiveness.,マーサーのしたことは許されることじゃない。
+movies/woi/woi_ec7,woiec7_10,"But there is no Alex Mercer any more. The virus didn’t just kill him, it became him; copied his body down to the genetic level. It became me.",でももうアレックス・マーサーはいない。ウイルスは彼を殺さず、成りすました。 遺伝子レベルで彼の体をコピーしたのさ。 それが俺だ。
+movies/woi/woi_ec7,woiec7_11,"I AM THE VIRUS.   And I, in turn, released Elizabeth Greene - to infect the city a second time.",俺はウイルスそのものだ。 そして俺はエリザベス・グリーンを解放することで街を2度目の感染へと陥らせてしまった。
+movies/woi/woi_ec7,woiec7_12,"Now she's dead, but Randall won't accept that the virus can be stopped. With FIREBREAK he'll level the city - just like Hope.",もう彼女は死んでるがランドールはウイルスが止まったとは思っていない。 奴は核攻撃でN.Y.をホープのようにしようとしている。
+movies/woi/woi_ec7,woiec7_13,But now Hope has one final riddle to give up.  Greene was pregnant when they found her in '69. What happened to that child?,しかし今でもホープには不可解な点がある。 69年にグリーンを発見した時彼女は妊娠していたはずだ。 その子供はどうなった？
+movies/woi/woi_ec7,woiec7_14,Do you suppose your answer is out there on the Reagan?,その答えがレーガンで得られると思うか？
+movies/woi/woi_ec7,woiec7_15,All I know is: I'll get my answer from Randall.,俺に分かるのは……ランドールから聞き出すしかないってことだ。
+movies/woi/woi_node_001,woi001_001,What’s the situation with Mercer?,マーサーは？
+movies/woi/woi_node_001,woi001_002,"The subject is wanted in connection with treasonous activities against the United States and her allies. As of last night, Alex Mercer is the number one terrorist threat in the United States.",アメリカとその同盟国に対する反逆に関わっていると指名手配されています。 昨晩にはアレックス・マーサーは我が国における第一位のテロリストになりました。
 movies/woi/woi_node_003,woi003_001,The target exhibits a classic low-affect personality. 
-movies/woi/woi_node_003,woi003_001b,"Psychopathic disregard for others, narcissistic world-view punctuated by self-obsessive disorders."
-movies/woi/woi_node_003,woi003_002,"Ok, now how 'bout someone repeat that in English."
+movies/woi/woi_node_003,woi003_001b,"Psychopathic disregard for others, narcissistic world-view punctuated by self-obsessive disorders.",目標は典型的な無感動のようです。 自己強迫観念による他人への無関心さ、ナルシスト的な世界観が端々に見られます。
+movies/woi/woi_node_003,woi003_002,"Ok, now how 'bout someone repeat that in English.",よし、誰か今のを英語で言い直してくれ。
 movies/woi/woi_node_004,woi004_001,Subject escaped at 22:30 hours after murdering three personnel.
 movies/woi/woi_node_004,woi004_002,"Shortly thereafter, it is believed it kidnapped an operative."
 movies/woi/woi_node_004,woi004_003,"It is infected with a variant of the BLACKLIGHT virus. Specifically DX-1118, a substance whose effects on the human body are poorly understood at best. We have no clue what it is capable of."
@@ -17890,13 +17890,13 @@ movies/woi/woi_node_005,woi005_001,"Doctor, try to keep the discussion high leve
 movies/woi/woi_node_005,woi005_002,"Its effect is...variable. When it DOES manifest, it makes the Idaho strain look like the common cold.",その影響は……一概には言えません。 発症した場合は、あのアイダホ菌を生成します。 普通の風邪によく似た症状を起こす菌です。
 movies/woi/woi_node_005,woi005_003,I don’t need to remind you gentlemen how close we came to the point-of-no-return in Idaho.,我々がかつてアイダホで、引き返せない状況にどれだけ差し迫っていたかはご存知のはずでしょう？
 movies/woi/woi_node_005,woi005_004,"Mercer’s body is a bomb, filled with this weaponized pathogen, waiting to go off.",マーサーの体は、兵器化されたウィルスを詰め込んで起爆を待つ爆弾のようなものなのです。
-movies/woi/woi_node_005,woi005_005,"And now it’s loose in the city. Bring it in, no matter what it takes. I’d say dead or alive, but I’m not sure those classifications fit Alex Mercer any longer.",それが現在、街中に野放しになっているんです。 どんな犠牲を払ってでも、回収してください。 生死は問いません…と言いたいところですが、生死という表現がもはやアレックス・マーサーに当てはまるのかわかりません。
-movies/woi/woi_node_006,woi006_001,What is it we’re looking at here?
-movies/woi/woi_node_006,woi006_002,The future.
-movies/woi/woi_node_006,woi006_002b," As amazing as it seems, he can manipulate his body on the genetic level."
-movies/woi/woi_node_006,woi006_003,"The changes are instantaneous. Everything, even the clothing is imitated."
-movies/woi/woi_node_006,woi006_003b, Tissue differentiated and transformed -- on-the-fly.
-movies/woi/woi_node_006,woi006_004,"I want it on a slab, I need to know what makes it tick."
+movies/woi/woi_node_005,woi005_005,"And now it’s loose in the city. Bring it in, no matter what it takes. I’d say dead or alive, but I’m not sure those classifications fit Alex Mercer any longer.",それが現在、街中に野放しになっているんです。 どんな犠牲を払ってでも、回収してください。 生死は問いません……と言いたいところですが、生死という表現がもはやアレックス・マーサーに当てはまるのかわかりません。
+movies/woi/woi_node_006,woi006_001,What is it we’re looking at here?,我々がここで見ているものは何だ？
+movies/woi/woi_node_006,woi006_002,The future.,未来だ。
+movies/woi/woi_node_006,woi006_002b," As amazing as it seems, he can manipulate his body on the genetic level.",驚くべきことに、彼は遺伝子レベルで自分の体を変えられるようだ。
+movies/woi/woi_node_006,woi006_003,"The changes are instantaneous. Everything, even the clothing is imitated.",それも一瞬で。 あらゆる物、服でさえ真似できるようだな。
+movies/woi/woi_node_006,woi006_003b, Tissue differentiated and transformed -- on-the-fly.,必要な時に細胞の分化と変形ができる……。
+movies/woi/woi_node_006,woi006_004,"I want it on a slab, I need to know what makes it tick.",ぜひとも解剖して何がそれを可能にしているか知りたいね。
 movies/woi/woi_node_007,woi007_001,"Captain, the General is waiting."
 movies/woi/woi_node_007,woi007_002,"One minute, Corporal. Doctor!"
 movies/woi/woi_node_007,woi007_003,"McMullen, just what the hell is this thing?"
@@ -17920,48 +17920,48 @@ movies/woi/woi_node_010,woi010_003,"Yet, he’s under twenty-four hour watch."
 movies/woi/woi_node_010,woi010_004,And he still has access to Greene?
 movies/woi/woi_node_010,woi010_005,"For now, yes. His work has been fundamental in unlocking the BLACKLIGHT virus."
 movies/woi/woi_node_010,woi010_006,You keep him on a tight leash. You know what's at stake here.
-movies/woi/woi_node_011,woi011_001,Listen. You need to get out of there.
-movies/woi/woi_node_011,woi011_002,We’ve got Mercer on vox. Tracing.
-movies/woi/woi_node_011,woi011_003,I don’t care what they’re saying.
-movies/woi/woi_node_011,woi011_004,"We've got him. 30th and 7th, moving. On his cell. Send in the squad. Plainclothes."
+movies/woi/woi_node_011,woi011_001,Listen. You need to get out of there.,聞いてくれ。 今すぐそこから逃げるんだ。
+movies/woi/woi_node_011,woi011_002,We’ve got Mercer on vox. Tracing.,マーサーの音声を見つけました。追跡します。
+movies/woi/woi_node_011,woi011_003,I don’t care what they’re saying.,あいつらの言うことなんて気にしない。
+movies/woi/woi_node_011,woi011_004,"We've got him. 30th and 7th, moving. On his cell. Send in the squad. Plainclothes.",発見しました。30番と7番、追跡中。 携帯での通話。 部隊を送り込みます。 私服で行ってください。
 movies/woi/woi_node_013,woi013_001,You have no idea what they're planning.
 movies/woi/woi_node_013,woi013_002,That doesn't make it right.
 movies/woi/woi_node_013,woi013_003,Listen -- they won't risk it. Even McMullen isn't that stupid. I've got them in check.
 movies/woi/woi_node_013,woi013_004,"Yeah. Problem is, they always struck me more as checkers players, Alex."
-movies/woi/woi_node_014,woi014_001,"Sir, I have a priority intercept."
-movies/woi/woi_node_014,woi014_002,I’ve taken out some insurance.
-movies/woi/woi_node_014,woi014_003,You didn’t take it out of the lab did you?
-movies/woi/woi_node_014,woi014_004,"Yeah. I have it here, on me. Wait. Wait. Fuck. I've gotta go."
-movies/woi/woi_node_015,woi015_001,What I'm saying is that the subject entered the station with the intent on releasing the weapon.
-movies/woi/woi_node_015,woi015_002,Are you certain?
-movies/woi/woi_node_015,woi015_003,"Yes, sir. I have no doubt."
-movies/woi/woi_node_015,woi015_004,How many people were exposed?
-movies/woi/woi_node_015,woi015_005,"In the station, sir? I don't know. Hundreds. Thousands. I don't know...."
-movies/woi/woi_node_016,woi016_001,"Mercer, Alexander J. Parents divorced. One sibling. Doctorate Genetics, Columbia University. Hired Gentek Special Projects."
-movies/woi/woi_node_016,woi016_002,"Associate Director: Department Classified. Level A access. Reported to: Director McMullen, Raymond."
-movies/woi/woi_node_016,woi016_003,Current Status: Assigned CODENAME ZEUS. Priority One A target RESPONSIBLE FOR THE RELEASE OF THE BLACKLIGHT VIRUS IN NEW YORK. DO NOT APPROACH.
+movies/woi/woi_node_014,woi014_001,"Sir, I have a priority intercept.",重要な傍受に成功しました。
+movies/woi/woi_node_014,woi014_002,I’ve taken out some insurance.,俺はいくつか証拠を持ちだしている。
+movies/woi/woi_node_014,woi014_003,You didn’t take it out of the lab did you?,そんな、研究所の外に持ちだしたなんて嘘でしょ？
+movies/woi/woi_node_014,woi014_004,"Yeah. I have it here, on me. Wait. Wait. Fuck. I've gotta go.",いや、持ってる。 待て、待て、くそっ。 切るぞ。
+movies/woi/woi_node_015,woi015_001,What I'm saying is that the subject entered the station with the intent on releasing the weapon.,自分が言いたいことは目標はウイルスを解き放つつもりで駅に入って行ったということです。
+movies/woi/woi_node_015,woi015_002,Are you certain?,それは本当か？
+movies/woi/woi_node_015,woi015_003,"Yes, sir. I have no doubt.",はい、本当です。
+movies/woi/woi_node_015,woi015_004,How many people were exposed?,どのくらいの人数がさらされた？
+movies/woi/woi_node_015,woi015_005,"In the station, sir? I don't know. Hundreds. Thousands. I don't know....",駅にですか？ わかりません。数百、数千……わかりません。
+movies/woi/woi_node_016,woi016_001,"Mercer, Alexander J. Parents divorced. One sibling. Doctorate Genetics, Columbia University. Hired Gentek Special Projects.",マーサー、アレクサンダーJ。 両親は離婚。 兄妹が1人。 遺伝学博士号をコロンビア大学で修得。 ジェネンテック特殊企画部に就職。
+movies/woi/woi_node_016,woi016_002,"Associate Director: Department Classified. Level A access. Reported to: Director McMullen, Raymond.",副所長：所属課は機密。 Aクラスのアクセス権を持つ。 以上がマクマレン、レイモンド所長への報告。
+movies/woi/woi_node_016,woi016_003,Current Status: Assigned CODENAME ZEUS. Priority One A target RESPONSIBLE FOR THE RELEASE OF THE BLACKLIGHT VIRUS IN NEW YORK. DO NOT APPROACH.,現状：コードネーム・ゼウスと名づける。 第1A優先目標。 ニューヨークにブラックライトウイルスを撒いた張本人である。 接触厳禁。
 movies/woi/woi_node_017,woi017_001,"Sir, we're reestablished contact with the target."
 movies/woi/woi_node_017,woi017_002,"You screwed me, McMullen."
 movies/woi/woi_node_017,woi017_003,Is this Alex? End this. Come in. Now.
 movies/woi/woi_node_017,woi017_004,Why didn't you tell me where this sample came from!?
 movies/woi/woi_node_017,woi017_005,"I couldn't, Alex. I couldn't risk it."
 movies/woi/woi_node_017,woi017_006,"Yeah, well, you fucked up."
-movies/woi/woi_node_018,woi018_001,She wasn't infected naturally. She was a damn test-subject!
-movies/woi/woi_node_018,woi018_002,We don't know that.
-movies/woi/woi_node_018,woi018_003,"This whole thing stinks. We're being set up. The results we've achieved, where do they go? They just... vanish."
-movies/woi/woi_node_018,woi018_004,"Hm, what are you going to do?"
-movies/woi/woi_node_018,woi018_005,Whatever I have to.
+movies/woi/woi_node_018,woi018_001,She wasn't infected naturally. She was a damn test-subject!,彼女は自然に感染したんじゃない。 実験台だったんだ！
+movies/woi/woi_node_018,woi018_002,We don't know that.,それは知らなかった。
+movies/woi/woi_node_018,woi018_003,"This whole thing stinks. We're being set up. The results we've achieved, where do they go? They just... vanish.",もう全て怪しいな。 俺たちは得意になってた。 俺らの研究成果はどこに消えたんだ？ ……消えやがった。
+movies/woi/woi_node_018,woi018_004,"Hm, what are you going to do?",これからどうする？
+movies/woi/woi_node_018,woi018_005,Whatever I have to.,何であれ行動を起こさないと。
 movies/woi/woi_node_019,woi019_001,"11:10:01. Subjects: MERCER, ALEX J. and PARKER, KAREN I."
 movies/woi/woi_node_019,woi019_002,"If I'm going down, I'm not going alone."
 movies/woi/woi_node_019,woi019_003,"Alex, listen, we can work this out."
 movies/woi/woi_node_019,woi019_004,It's too late for that.
 movies/woi/woi_node_019,woi019_005,"What do you want, Alex? What can I do?"
 movies/woi/woi_node_019,woi019_006,I want the truth! Where did she come from!?
-movies/woi/woi_node_021,woi021_001,You were in special projects? What were you working on?
-movies/woi/woi_node_021,woi021_002,"We didn't know what we were working on. I mean, I pieced it together, finally. But by then, I was hooked."
-movies/woi/woi_node_021,woi021_003,It was beautiful. It kept changing. It was the single most complicated viral structure I had ever seen.
-movies/woi/woi_node_021,woi021_004,"All in all, I made good time. It only took me three years to make it more dangerous by a factor of ten."
-movies/woi/woi_node_021,woi021_005,"Morality wasn't my job. Modifying chimeric viruses was. I wasn't in field applications, I was in engineering."
+movies/woi/woi_node_021,woi021_001,You were in special projects? What were you working on?,あなたは特殊企画部にいたんですよね？ 一体何について研究をしていたんですか？
+movies/woi/woi_node_021,woi021_002,"We didn't know what we were working on. I mean, I pieced it together, finally. But by then, I was hooked.",何の研究かは知らされていなかった。 最終的には何とか全貌を掴んだがその時には俺は虜になっていた。
+movies/woi/woi_node_021,woi021_003,It was beautiful. It kept changing. It was the single most complicated viral structure I had ever seen.,あれは美しい。 常に変化する。 今まで見てきた中で最も複雑なウイルス構造体だった。
+movies/woi/woi_node_021,woi021_004,"All in all, I made good time. It only took me three years to make it more dangerous by a factor of ten.",何から何まで楽しかったよ。 3年間の研究でその危険性を10倍にまで高めることができた。
+movies/woi/woi_node_021,woi021_005,"Morality wasn't my job. Modifying chimeric viruses was. I wasn't in field applications, I was in engineering.",倫理なんてものを考えるのは俺の仕事じゃなかった。 非現実なウイルスを変えてくのが仕事でね。 応用するのではなく加工していたんだ。
 movies/woi/woi_node_022,woi022_001,Here's what's known: the subject can shift its body structure to an unknown degree.
 movies/woi/woi_node_022,woi022_002,"It can fashion portions of its body into a weapon, change its facial features and perhaps even imitate voices and mannerisms."
 movies/woi/woi_node_022,woi022_003,Long and short: it's a security nightmare.
@@ -17970,11 +17970,11 @@ movies/woi/woi_node_023,woi023_002,"Familiar people, objects, places.... These s
 movies/woi/woi_node_023,woi023_003,It can hurt ZEUS?,それはゼウスを傷つけることができるのか？
 movies/woi/woi_node_023,woi023_004,"During these moments, ZEUS is vulnerable. The more we know about it, and the less it can discover, the better off we are.",これらの瞬間、ゼウスは脆弱になる。 我々がより少ないものについて、それが発見することができるということを知っているほど、我々はより良くなる。
 movies/woi/woi_node_023,woi023_005,We can also get creative. We can lie.,我々は創造的になることもできる。 我々は嘘もつける。
-movies/woi/woi_node_024,woi024_001,What do you think goes on in her head?
-movies/woi/woi_node_024,woi024_002,"Nothing, her brain was fried by the virus."
-movies/woi/woi_node_024,woi024_003,Hmm...she seems....
-movies/woi/woi_node_024,woi024_004,Yeah.
-movies/woi/woi_node_024,woi024_005,It seems like she's...waiting for something.
+movies/woi/woi_node_024,woi024_001,What do you think goes on in her head?,彼女何を考えてるんだと思う？
+movies/woi/woi_node_024,woi024_002,"Nothing, her brain was fried by the virus.",何も。 彼女の脳はウィルスで焼けてるよ
+movies/woi/woi_node_024,woi024_003,Hmm...she seems....,ふむ……まるで……。
+movies/woi/woi_node_024,woi024_004,Yeah.,ああ。
+movies/woi/woi_node_024,woi024_005,It seems like she's...waiting for something.,まるで……何かを待ってるみたいだな。
 movies/woi/woi_node_025,woi025_001,What the hell happened in there?,ここで何が起きたんだ？
 movies/woi/woi_node_025,woi025_002,Team One dropped comm just after they entered the holding cell area.,チーム1が独房に突入した途端連絡がありません。
 movies/woi/woi_node_025,woi025_003,"That's it, close it off. No one goes in or comes out of the Gentek Building. I want it sealed with Level Four protocols.",なら、閉鎖しろ。 誰もジェンテックビルに出入りさせるな。 警戒レベルは4にしろ。
@@ -17985,15 +17985,15 @@ movies/woi/woi_node_026,woi026_004,Her? Hm...she's a Runner. With nowhere to run
 movies/woi/woi_node_027,woi027_001,"It represents the most intriguing human carrier ever discovered to date. Its body produces hundreds of unique strains on a daily basis. Most are harmless, a few are deadly."
 movies/woi/woi_node_027,woi027_002,"So, what's it doing?"
 movies/woi/woi_node_027,woi027_003,It's like it's evolving at a rapid pace. It's war-dialing at a genetic level. It's becoming something else.
-movies/woi/woi_node_028,woi028_001,"You’ve seen our order to isolate the subject on site, sir. From General Randall himself."
-movies/woi/woi_node_028,woi028_002,She’s more than some test subject! You have no idea what she represents!
-movies/woi/woi_node_028,woi028_003,"Don't try and run this like some exercise. We need to move her out of the city, now!"
-movies/woi/woi_node_029,woi029_001,What were we keeping from them? Everything.
-movies/woi/woi_node_029,woi029_002,Go on.
-movies/woi/woi_node_029,woi029_003,"This...source. It’s the key to genetics -- but it’s also a machine, churning out the worst viruses ever seen."
-movies/woi/woi_node_029,woi029_003b,Things that -- if they got out of the lab -- could literally erase human civilization as we know it.
-movies/woi/woi_node_029,woi029_004,And how did that make you feel?
-movies/woi/woi_node_029,woi029_005,I wasn't paid to feel.
+movies/woi/woi_node_028,woi028_001,"You’ve seen our order to isolate the subject on site, sir. From General Randall himself.",被験体を現場で隔離せよとの命令を受けられたのでは？ ランドール将軍から直々に。
+movies/woi/woi_node_028,woi028_002,She’s more than some test subject! You have no idea what she represents!,彼女は一介の被験体なんかではない！ 貴様は彼女が何なのかわかっていないのだ！
+movies/woi/woi_node_028,woi028_003,"Don't try and run this like some exercise. We need to move her out of the city, now!",簡単に隔離できると思っているのか！ 彼女を街の外に出さねばならん、今すぐにだ！
+movies/woi/woi_node_029,woi029_001,What were we keeping from them? Everything.,俺たちが隔離しているもの？ 全てだ。
+movies/woi/woi_node_029,woi029_002,Go on.,続けてください。
+movies/woi/woi_node_029,woi029_003,"This...source. It’s the key to genetics -- but it’s also a machine, churning out the worst viruses ever seen.",これが始まりだ……遺伝子の謎を解くカギだが ―― 今までに見たこともないような最悪なウイルスをばらまく機械でもある。
+movies/woi/woi_node_029,woi029_003b,Things that -- if they got out of the lab -- could literally erase human civilization as we know it.,もしこれが研究所から外に出たら ―― 文字通り我々の文明を消すだろうな。
+movies/woi/woi_node_029,woi029_004,And how did that make you feel?,それで、そのことについてどう思いますか？
+movies/woi/woi_node_029,woi029_005,I wasn't paid to feel.,……俺は感じる必要がなかったんでね。
 movies/woi/woi_node_030,woi030_001,The process is this: we remove a small amount of blood from the subject. Her blood is always teeming with variants of the virus.
 movies/woi/woi_node_030,woi030_002,These samples are the key to our research. They could cure every ailment known to man.
 movies/woi/woi_node_030,woi030_003,Or incite them?
@@ -18005,9 +18005,9 @@ movies/woi/woi_node_032,woi032_001,I don't know. We don't have all the data. Gre
 movies/woi/woi_node_032,woi032_002,"Sir, there's no scientific backing to support that."
 movies/woi/woi_node_032,woi032_003,"Look. The centralized control is directed by the focus. It spreads, it thinks, it plans. 40 years of science says it can't be so, but tell me that isn't happening."
 movies/woi/woi_node_032,woi032_004,A strike against the central carrier can decapitate the infection. I feel that in my gut. I don't need science to know that.
-movies/woi/woi_node_033,woi033_001,Codename: MOTHER exhibits odd characteristics not consistent with DX-1118 infection. Whether this represents a natural immunity -- or something more -- remains to be seen.
-movies/woi/woi_node_033,woi033_002,"So, what does this mean to our research?"
-movies/woi/woi_node_033,woi033_003,"We all agree, she represents the best chance we have to crack the virus' defenses."
+movies/woi/woi_node_033,woi033_001,Codename: MOTHER exhibits odd characteristics not consistent with DX-1118 infection. Whether this represents a natural immunity -- or something more -- remains to be seen.,コードネーム: マザーはDX-118とは異なる奇妙な性質を示しています。 これは自然免疫によるものなのか ―― それともそれ以外のものなのか ―― 未だ不明です。
+movies/woi/woi_node_033,woi033_002,"So, what does this mean to our research?",それで、これは我々の研究にとってどういった意味がある？
+movies/woi/woi_node_033,woi033_003,"We all agree, she represents the best chance we have to crack the virus' defenses.",彼女は我々がウィルスを殺せる最高のとっかかりを示しているんですよ！ これに関しては私たち全員が同意見です。
 movies/woi/woi_node_034,woi034_001,"I believe Greene is some sort of trigger. Imagine life on earth as a single organism. The disease she releases could be something like a hormone in the body, causing change. Shifting the organism."
 movies/woi/woi_node_034,woi034_002,"In this case, shifting life on earth?"
 movies/woi/woi_node_034,woi034_003,Yes. Changing it.
@@ -18030,28 +18030,28 @@ movies/woi/woi_node_037,woi037_004,"There's two types of wars America doesn't wa
 movies/woi/woi_node_038,woi038_001,WHEN WE HUNT WE KILL.,出撃すれば殺す。
 movies/woi/woi_node_038,woi038_002,NO ONE IS SAFE. NOTHING IS SACRED. WE ARE BLACKWATCH. WE ARE THE LAST LINE OF DEFENSE.,安全な者は無く、神聖な物も無い。 我々はBlackWatchである。 我々は最後の防衛線であり、
 movies/woi/woi_node_038,woi038_003,WE WILL BURN OUR OWN TO HOLD THE REDLINE. IT IS THE LAST LINE TO EVER HOLD.,これが維持されるべき最後のラインなのだ。
-movies/woi/woi_node_039,woi039_001,"Stow that shit Corporal, get her in the vehicle. You! Rendezvous at 22:00 at Bryant Park!"
-movies/woi/woi_node_039,woi039_002,SIR!
-movies/woi/woi_node_039,woi039_003,Keep your eyes open. There's a Runner on the loose.
-movies/woi/woi_node_039,woi039_004,"Move, move!"
-movies/woi/woi_node_040,woi040_001,First General Order!
-movies/woi/woi_node_040,woi040_002,"When in doubt, shoot to kill!"
-movies/woi/woi_node_040,woi040_003,Second!
-movies/woi/woi_node_040,woi040_004,"No clearance, no passage!"
-movies/woi/woi_node_040,woi040_005,Third!
-movies/woi/woi_node_040,woi040_006,"Nothing crosses the Redline, sir!"
+movies/woi/woi_node_039,woi039_001,"Stow that shit Corporal, get her in the vehicle. You! Rendezvous at 22:00 at Bryant Park!",伍長、速度を落として彼女を車に乗せろ！ ブライアント公園に2:00集合だ！
+movies/woi/woi_node_039,woi039_002,SIR!,了解です！
+movies/woi/woi_node_039,woi039_003,Keep your eyes open. There's a Runner on the loose.,注意しろ！ ランナーがまだ野放しなんだぞ！
+movies/woi/woi_node_039,woi039_004,"Move, move!",行け、行け！
+movies/woi/woi_node_040,woi040_001,First General Order!,将軍からの第一の命令は！
+movies/woi/woi_node_040,woi040_002,"When in doubt, shoot to kill!",疑わしい時は殺せ！
+movies/woi/woi_node_040,woi040_003,Second!,第二に！
+movies/woi/woi_node_040,woi040_004,"No clearance, no passage!",退路はなく、完全に封鎖せよ！
+movies/woi/woi_node_040,woi040_005,Third!,第三！
+movies/woi/woi_node_040,woi040_006,"Nothing crosses the Redline, sir!",レッドラインは突破されず、です！
 movies/woi/woi_node_041,woi041_001,*struggling* Fuckin' goose-stepping mother-fuckers.,放せこのクソナチ野郎！ くそったれ！
 movies/woi/woi_node_041,woi041_002,*laughs* You kiss your mother with that mouth?,お前その口でママにキスするのか？
-movies/woi/woi_node_041,woi041_003,"*into headset* Roger, 2215 Christopher street. Apartment 15 A. Got it. Saddle up, you've got a CP. Move it!",了解、クリストファー通り2215番地のアパート15A。 確認した。 急行する。
+movies/woi/woi_node_041,woi041_003,"*into headset* Roger, 2215 Christopher street. Apartment 15 A. Got it. Saddle up, you've got a CP. Move it!",了解、クリストファー通り2215番地のアパート15A。 確認した。 急行する。 急げ、CPを手に入れた。
 movies/woi/woi_node_042,woi042_001,Go on.
 movies/woi/woi_node_042,woi042_002,The subject is exhibiting symptoms of primary infection.
 movies/woi/woi_node_042,woi042_003,We have confirmation from sniffer stations up and down the island. The strain it is carrying is an unknown.
 movies/woi/woi_node_042,woi042_004,What kind of spread are we talking about here?
 movies/woi/woi_node_042,woi042_005,Thankfully it seems incapable of crossing water bodies. We've sealed the island's exits. It can be fought here.
-movies/woi/woi_node_043,woi043_001,We have confirmation of the agent in two sampling stations.
-movies/woi/woi_node_043,woi043_002,That is...a variant of DX-1118. Still un-typed.
-movies/woi/woi_node_043,woi043_003,"In ten to fifteen hours, an outbreak is likely to appear. It is vital that fast-action teams are on site within minutes of the first confirmation."
-movies/woi/woi_node_043,woi043_004,We’re here to make certain what happened in 1969 never happens again. You all know your duty. Whatever it takes.
+movies/woi/woi_node_043,woi043_001,We have confirmation of the agent in two sampling stations.,我々は2ヶ所のサンプリング・ステーションの職員から確認を取った。
+movies/woi/woi_node_043,woi043_002,That is...a variant of DX-1118. Still un-typed.,これは……DX-1118の変種です。まだ分類されていませんが。
+movies/woi/woi_node_043,woi043_003,"In ten to fifteen hours, an outbreak is likely to appear. It is vital that fast-action teams are on site within minutes of the first confirmation.",10～15時間のうちに感染爆発が起こる可能性が高い。 確認が取れ次第すぐに高速対応部隊を送り込むのが重要だ。
+movies/woi/woi_node_043,woi043_004,We’re here to make certain what happened in 1969 never happens again. You all know your duty. Whatever it takes.,1969年に起きたことを2度と起こさないために我々がここにいる。全員自分の義務が分かっているな？ 犠牲を恐れるな。
 movies/woi/woi_node_044,woi044_001,"Colonel Taggart has issued a lockdown order on the island. This comes down from on high -- the old man is here, calling the shots personally."
 movies/woi/woi_node_044,woi044_002,SIR!
 movies/woi/woi_node_044,woi044_003,I need men with ice water in their veins. Nothing crosses the Redline.
@@ -18062,12 +18062,12 @@ movies/woi/woi_node_045,woi045_003,Gentlemen. We've prepared for this moment for
 movies/woi/woi_node_046,woi046_001,I want a curtain of men and armor up the moment the call comes in.
 movies/woi/woi_node_046,woi046_002,Over-flights on the rivers are ready to pick off civs trying to cross. The bridges are wired and blocked by armor.
 movies/woi/woi_node_046,woi046_003,"Once we're primed, nothing unsanctioned gets on or off the island."
-movies/woi/woi_node_047,woi047_001,"Report, Six One!"
-movies/woi/woi_node_047,woi047_002,"Under heavy assault, Ten One. Lost 30-40% of the defensive force at the stadium."
-movies/woi/woi_node_047,woi047_003,Hold that ground!
-movies/woi/woi_node_047,woi047_004,Sir!
+movies/woi/woi_node_047,woi047_001,"Report, Six One!",Six One、報告を！
+movies/woi/woi_node_047,woi047_002,"Under heavy assault, Ten One. Lost 30-40% of the defensive force at the stadium.",強烈な反撃を喰らってます、Ten One。30～40％程の損害です。
+movies/woi/woi_node_047,woi047_003,Hold that ground!,維持しろ！
+movies/woi/woi_node_047,woi047_004,Sir!,了解！
 movies/woi/woi_node_047,woi047_005,Six One! Six One!
-movies/woi/woi_node_047,woi047_006,Radio Command. Tell them the stadium's been compromised.
+movies/woi/woi_node_047,woi047_006,Radio Command. Tell them the stadium's been compromised.,無線命令。スタジアムがやばいと伝えてくれ。
 movies/woi/woi_node_048,woi048_001,Sir. The Wisemen team is present and ready for the hunt.
 movies/woi/woi_node_048,woi048_002,Good. Send in the Captain.
 movies/woi/woi_node_048,woi048_003,Sir...is it true he caught the last Runner on his own?
@@ -18119,15 +18119,15 @@ movies/woi/woi_node_062,woi062_002,And what did they have you working on?
 movies/woi/woi_node_062,woi062_003,Viruses. Odd viruses.
 movies/woi/woi_node_062,woi062_004,These viruses...would you classify them as biological weaponry?
 movies/woi/woi_node_062,woi062_005,It would be hard not to.
-movies/woi/woi_node_063,woi063_001,"You’ll hear a lot of crap about where the group started, Lieutenant, but...I’ll give you the lay of the land."
-movies/woi/woi_node_063,woi063_002,Sir.
-movies/woi/woi_node_063,woi063_003,"Son, how do you fight a war?"
-movies/woi/woi_node_063,woi063_004,Sir?
-movies/woi/woi_node_063,woi063_005,"You engage the enemy. In our case, the virus. We couldn’t just sit back and study it, we had to experience it. No one had seen anything like it in action before."
-movies/woi/woi_node_063,woi063_006,"Hope, Idaho?"
-movies/woi/woi_node_063,woi063_007,"Hope, Idaho, was just a...sacrificial lamb. A necessary cruelty. Without it, we could not save the world."
-movies/woi/woi_node_063,woi063_008,"I understand, sir."
-movies/woi/woi_node_063,woi063_009,Of course you do. That’s why you’re one of us
+movies/woi/woi_node_063,woi063_001,"You’ll hear a lot of crap about where the group started, Lieutenant, but...I’ll give you the lay of the land.",君は本隊創設の理由について色々とつまらんことを言われることになるだろう、大尉。 そうだな……知っておいてもらおうか。
+movies/woi/woi_node_063,woi063_002,Sir.,はい。
+movies/woi/woi_node_063,woi063_003,"Son, how do you fight a war?",戦争とはどう戦うものだ？
+movies/woi/woi_node_063,woi063_004,Sir?,はい？
+movies/woi/woi_node_063,woi063_005,"You engage the enemy. In our case, the virus. We couldn’t just sit back and study it, we had to experience it. No one had seen anything like it in action before.",まず接敵する。 我々の場合ウイルスとだ。 それは机に向かうだけでどうこうできるものではない。 我々は体験せねばならなかったのだ。 そのようなものがことを起こしたところを見た者などいないのだからな。
+movies/woi/woi_node_063,woi063_006,"Hope, Idaho?",アイダホのホープのことですか？
+movies/woi/woi_node_063,woi063_007,"Hope, Idaho, was just a...sacrificial lamb. A necessary cruelty. Without it, we could not save the world.",アイダホ州ホープはただの……生贄の子羊だ。 必要な犠牲だった。 あれなしでは世界を救えなかっただろう。
+movies/woi/woi_node_063,woi063_008,"I understand, sir.",わかりました。
+movies/woi/woi_node_063,woi063_009,Of course you do. That’s why you’re one of us,当然だ。 だからこそ君は我々の一員なのだ。
 movies/woi/woi_node_064,woi064_001,"It’s 1964, right?"
 movies/woi/woi_node_064,woi064_001b,The Army built a town. They told people it’s to test a self-sufficient base in case of a nuclear attack.
 movies/woi/woi_node_064,woi064_002,They filled the town with a cross-section of ethnicities. Army families from all over. They told them it was progressive.
@@ -18141,9 +18141,9 @@ movies/woi/woi_node_066,woi066_002,Maintained objectivity. It helps if the test 
 movies/woi/woi_node_067,woi067_001,"They’d come in, just as happy as you please. Hell, they’d roll up their damn sleeves for you."
 movies/woi/woi_node_067,woi067_002,What were you injecting them with? And when was this?
 movies/woi/woi_node_067,woi067_003,"That was...the summer of...um, 1963. Damned if I know what it was. All I know is, I didn't want it injected into me."
-movies/woi/woi_node_068,woi068_001,We told them we'd be introducing compounds into the town that simulated fallout -- that we wanted to track it in the population. Harmless stuff.
-movies/woi/woi_node_068,woi068_002,This was the cover story?
-movies/woi/woi_node_068,woi068_003,One of them. It made it easy to take samples and run tests. No one asked questions -- everyone was happy to help.
+movies/woi/woi_node_068,woi068_001,We told them we'd be introducing compounds into the town that simulated fallout -- that we wanted to track it in the population. Harmless stuff.,彼らには核戦争を想定した宿舎だと説明した ―― 集団の中に取り入れてみたいのだと。 無害なものだと。
+movies/woi/woi_node_068,woi068_002,This was the cover story?,それが上っ面だったのか？
+movies/woi/woi_node_068,woi068_003,One of them. It made it easy to take samples and run tests. No one asked questions -- everyone was happy to help.,そうだった。 でもこの嘘がサンプルの収集とテストをしやすくしたんだ。 誰も疑問を持たなかった。 誰もが喜んで手伝ってくれたよ。
 movies/woi/woi_node_069,woi069_001,"Injecting it into chimps -- this was CARNIVAL I, you understand. We got amazing results. ",チンパンジーにそれを注射すること。 これはカーニバルIだった。 わかるだろう。 我々は驚くべき結果を得た。
 movies/woi/woi_node_069,woi069_001b,"Boosted intelligence, increased strength. We were all expecting something pretty dramatic in Hope right after we introduced CARNIVAL II.",知能が増幅され、筋力も増えた。 我々は皆、カーニバルIIを注入した後、希望としてさらに劇的な変化が起こるをすると予想していた。
 movies/woi/woi_node_069,woi069_002,What happened?,何かおこったのか？
@@ -18171,12 +18171,12 @@ movies/woi/woi_node_075,woi075_001,We’ve never seen a pathogen with 99.9% mort
 movies/woi/woi_node_075,woi075_002,"99.999%. It’s fast too. By day three, it had taken over 70% of the town. "
 movies/woi/woi_node_075,woi075_002b,The remaining citizens were then forcibly infected.
 movies/woi/woi_node_075,woi075_003,"In the first month, half of the population died from the virus, but the illusion of an uninfected town remained intact."
-movies/woi/woi_node_078,woi078_001,"Hope, Idaho, Operation CARNIVAL II. Began 6/11/64. Ended 7/7/69. Four hundred and sixty-one subjects infected with DX-1118 variant A."
-movies/woi/woi_node_078,woi078_002,Nine hundred and ninety-eight days of no reported infection. Outbreak occurred 8/8/68. Town recaptured 7/7/69. Operation ALTRUISTIC.
+movies/woi/woi_node_078,woi078_001,"Hope, Idaho, Operation CARNIVAL II. Began 6/11/64. Ended 7/7/69. Four hundred and sixty-one subjects infected with DX-1118 variant A.",アイダホ州ホープ、カーニバルII作戦。 64年6月11日開始、69年7月7日に終了。 461人へDX-1118 A型を感染させる。
+movies/woi/woi_node_078,woi078_002,Nine hundred and ninety-eight days of no reported infection. Outbreak occurred 8/8/68. Town recaptured 7/7/69. Operation ALTRUISTIC.,98日間は感染の報告はなし。 しかし68年8月8日に爆発的に感染。 街が制圧されたのは69月7月7日。 ALTRUISTIC作戦による。
 movies/woi/woi_node_078,woi078_003,Examination of the infected individuals revealed a new strain of DX-1118 not seen before. This is thought to be the source of the Hope Outbreak.
-movies/woi/woi_node_079,woi079_001,"Operation ALTRUISTIC. Begun 7/5/69. Elements of the First Biohazard Threat Unit, now called BLACKWATCH, out of Ft. Detrick."
-movies/woi/woi_node_079,woi079_002,"The force encountered resistance from infected individuals on the outskirts of Hope, Idaho. After a prolonged skirmish, the town was shelled. It was then recaptured."
-movies/woi/woi_node_079,woi079_003,"Two survivors. One: Greene, Elizabeth A. Aged nineteen years. Two: Male Child, Identity Classified beyond Top Secret."
+movies/woi/woi_node_079,woi079_001,"Operation ALTRUISTIC. Begun 7/5/69. Elements of the First Biohazard Threat Unit, now called BLACKWATCH, out of Ft. Detrick.",ALTRUISTIC作戦。 69年7月5日開始。 第一号バイオハザード危機対応部隊、現在のブラックウォッチ隊による。 デトリック基地からの出動。
+movies/woi/woi_node_079,woi079_002,"The force encountered resistance from infected individuals on the outskirts of Hope, Idaho. After a prolonged skirmish, the town was shelled. It was then recaptured.",アイダホ州ホープの郊外で感染者による攻撃を受ける。 小競り合いを繰り返した後に、町を砲撃、制圧した。
+movies/woi/woi_node_079,woi079_003,"Two survivors. One: Greene, Elizabeth A. Aged nineteen years. Two: Male Child, Identity Classified beyond Top Secret.",生存者は2名。1人目、グリーン、エリザベスA。 当時19歳。 2人目、男児。 身元は最高機密以上の極秘扱い。
 movies/woi/woi_node_080,woi080_001,"Once insinuated into the system, it affects the protein encoding regions of the promoter introns within each cell."
 movies/woi/woi_node_080,woi080_002,"In short, it enters, repurposes and changes the cell. The new cell replicates with formerly dormant non-coding regions active, causing drastic biological changes."
 movies/woi/woi_node_080,woi080_003,"More often than not, these changes are TOO drastic. In 99.9% of the cases, the biology of the organism fails during this repurposing, causing massive organ failure and death. "
@@ -18234,13 +18234,13 @@ movies/woi/woi_node_101,woi101_003,Just like Agent Orange.
 movies/woi/woi_node_102,woi102_001,"When the material is introduced, even at less than ten parts per million, it hampers the normal biological processes of any infected subject."
 movies/woi/woi_node_102,woi102_002,How much of this stuff can we get?
 movies/woi/woi_node_102,woi102_003,"Once the plant is fully online, the question is: how much do you want?"
-movies/woi/woi_node_103,woi103_001,This substance. What will its effect be on ZEUS?
-movies/woi/woi_node_103,woi103_002,"Mercer is different from the average infected, but he does share a similar biology. In my opinion, it will affect him much like it does those tainted with the BLACKLIGHT virus."
-movies/woi/woi_node_103,woi103_003,Will it kill it?
-movies/woi/woi_node_103,woi103_004,It’s too soon to tell.
-movies/woi/woi_node_104,woi104_001,"Substance A-113A -- which we call Bloodtox, due to its odd coloration -- is a poison which only affects the BLACKLIGHT virus."
-movies/woi/woi_node_104,woi104_002,Side-Effects?
-movies/woi/woi_node_104,woi104_003,It shouldn’t affect humans at all.
+movies/woi/woi_node_103,woi103_001,This substance. What will its effect be on ZEUS?,こいつについてだが、これはゼウスにどういう影響を及ぼすんだ？
+movies/woi/woi_node_103,woi103_002,"Mercer is different from the average infected, but he does share a similar biology. In my opinion, it will affect him much like it does those tainted with the BLACKLIGHT virus.",マーサーは一般的な感染者とは違いますが、似たような生態ではあります。 私見ですが、ブラックライトウイルス感染者と同様の効果を彼にも与えれると思いますよ。
+movies/woi/woi_node_103,woi103_003,Will it kill it?,殺せるのか？
+movies/woi/woi_node_103,woi103_004,It’s too soon to tell.,すぐにわかるでしょう。
+movies/woi/woi_node_104,woi104_001,"Substance A-113A -- which we call Bloodtox, due to its odd coloration -- is a poison which only affects the BLACKLIGHT virus.",A-113A、その色合いからブラッドトックスと呼んでいるものは、ブラックライトウイルスにだけ反応する毒です。
+movies/woi/woi_node_104,woi104_002,Side-Effects?,副作用は？
+movies/woi/woi_node_104,woi104_003,It shouldn’t affect humans at all.,人間には効かないはずです。
 movies/woi/woi_node_105,woi105_001,What’s the word on the new round of test subjects?
 movies/woi/woi_node_105,woi105_002,"Sir, they’re testing off the charts. No ill effects at present. No evidence of the un-modified virus!"
 movies/woi/woi_node_105,woi105_003,Prep them for field deployment -- ASAP.
@@ -18254,12 +18254,12 @@ movies/woi/woi_node_107,woi107_003,Close combat?,近接戦闘もか？
 movies/woi/woi_node_107,woi107_004,"It’s what they were made for, sir.",そのために作られたんです。
 movies/woi/woi_node_109,woi109_001,"Due to the nature of the virus, extensive surgical modification -- not possible on other personnel -- was performed on the D-CODES."
 movies/woi/woi_node_109,woi109_002,"Bulletproof steel inserts were placed beneath the skin in all major soft-tissue areas. The healing capacity of the virus makes such enhancements not only advantageous, but extremely efficient."
-movies/woi/woi_node_110,woi110_001,Listen up. You're the first of our group to go into the field and confront the virus directly on its own terms.
-movies/woi/woi_node_110,woi110_002,Orders?
-movies/woi/woi_node_110,woi110_003,The old man wants Mercer’s head on a platter. Doesn’t care how. You’ll be priority on Strike Package Intel.
-movies/woi/woi_node_112,woi112_001,Report on Project D-CODE. Virus variant DX-1120 injected into one-hundred and sixty-one test subjects. No fatalities.
-movies/woi/woi_node_112,woi112_002,Virus replication and re-growth of the organism completed in less than two days.
-movies/woi/woi_node_112,woi112_003,"Subjects show increased metabolic rate, dramatic strength and reaction increases. No side effects manifested to date."
+movies/woi/woi_node_110,woi110_001,Listen up. You're the first of our group to go into the field and confront the virus directly on its own terms.,聞け。 お前が我々の中で最も早く実戦に行きウィルスと直面する。
+movies/woi/woi_node_110,woi110_002,Orders?,命令はなんでしょう？
+movies/woi/woi_node_110,woi110_003,The old man wants Mercer’s head on a platter. Doesn’t care how. You’ll be priority on Strike Package Intel.,あの老いぼれはマーサーを狙ってる。 方法は問わん。 お前を攻撃支援要請時の第一出撃隊に配置する。
+movies/woi/woi_node_112,woi112_001,Report on Project D-CODE. Virus variant DX-1120 injected into one-hundred and sixty-one test subjects. No fatalities.,Dコード計画に関するレポート。 ウイルス変種DX-1120を161名の被検体に注入。 死亡者なし。
+movies/woi/woi_node_112,woi112_002,Virus replication and re-growth of the organism completed in less than two days.,2日と経たないうちにウイルスの複製、生体組織の再増殖が終わる。
+movies/woi/woi_node_112,woi112_003,"Subjects show increased metabolic rate, dramatic strength and reaction increases. No side effects manifested to date.",対象は代謝速度の上昇、劇的な筋力と反射神経の向上を示す。 現段階で副作用は見られない。
 movies/woi/woi_node_114,woi114_001,Getting the sample is just the first step.
 movies/woi/woi_node_114,woi114_002,What do you think you guys can cook up?
 movies/woi/woi_node_114,woi114_003,"Hm, I have a few ideas, but I think we could do cancer. "
@@ -18281,23 +18281,23 @@ movies/woi/woi_node_124,woi124_002,"Why is that, exactly?"
 movies/woi/woi_node_124,woi124_003,"There are several intriguing anomalies: for one, the subject is male. Secondly, it exhibits no evidence of carrying any virus. However...."
 movies/woi/woi_node_124,woi124_004,Yes?
 movies/woi/woi_node_124,woi124_005,"However, we’re not at all certain what it is."
-movies/woi/woi_node_125,woi125_001,Subject PARIAH removed to clean room at Vandenburg Air Force Base on 8/1/69 as main test subject in Project CRUSADE.
-movies/woi/woi_node_125,woi125_002,Subject exhibits unusual biological activity. Responsible for five deaths in thirty-four years of captivity.
-movies/woi/woi_node_125,woi125_003,"Unlike MOTHER, PARIAH exhibits no physical symptoms of BLACKLIGHT infection."
-movies/woi/woi_node_126,woi126_001,I don’t understand the significance!
-movies/woi/woi_node_126,woi126_002,"PARIAH may be the only thing that can stop Mercer and Greene. They may not let me know what he is, but I can guess."
-movies/woi/woi_node_126,woi126_003,"If Greene was an imperfect release of non-coding regions of the genome, and Mercer was something more, what if PARIAH was a perfect realization of all the non-coding regions in the genome?"
-movies/woi/woi_node_126,woi126_004,It may be the final purpose of all life on earth.
-movies/woi/woi_node_127,woi127_001,"So, you're wondering what PARIAH is to Elizabeth Greene?"
-movies/woi/woi_node_127,woi127_002,The more interesting question is this: what does PARIAH have in common with Alex Mercer?
-movies/woi/woi_node_127,woi127_003,I have my theories. Mercer might be the artificial activation of non-coding regions -- something achieved by genetic manipulation. 
-movies/woi/woi_node_127,woi127_003b,PARIAH is a natural release of things buried in the Genome.
-movies/woi/woi_node_127,woi127_004,"I have a feeling it might be extraordinarily bad if they ever met, face to face."
-movies/woi/woi_node_128,woi128_001,I’m not cleared to speak to you about that.
-movies/woi/woi_node_128,woi128_002,What if the entire purpose of the Hope outbreak was to breed something new?
-movies/woi/woi_node_128,woi128_003,"There were fourteen aborted attempts -- the Hope Children -- but only the final result, PARIAH, survived."
-movies/woi/woi_node_128,woi128_004,What if this is the start of such a change on a massive scale?
-movies/woi/woi_node_129,woi129_001,"As of today, we are folded under control of First Biological Warfare Command out of Ft. Detrick",本日より我々はデトリック基地より発令された、第1次生物化学戦争令下におかれることになる。
+movies/woi/woi_node_125,woi125_001,Subject PARIAH removed to clean room at Vandenburg Air Force Base on 8/1/69 as main test subject in Project CRUSADE.,パリアはヴァンデンバーグ空軍基地のクリーンルームへ69年8月1日に移送。 クルセード計画の主研究対象として。
+movies/woi/woi_node_125,woi125_002,Subject exhibits unusual biological activity. Responsible for five deaths in thirty-four years of captivity.,対象は特異な生体活動を示している。34年間にわたる監禁中5件の死亡事故に関連。
+movies/woi/woi_node_125,woi125_003,"Unlike MOTHER, PARIAH exhibits no physical symptoms of BLACKLIGHT infection.",マザーと違いパリアはブラックライト感染による身体的兆候はない。
+movies/woi/woi_node_126,woi126_001,I don’t understand the significance!,意味がわかりません！
+movies/woi/woi_node_126,woi126_002,"PARIAH may be the only thing that can stop Mercer and Greene. They may not let me know what he is, but I can guess.",パリアだけがマーサーとグリーンを食い止めれるかもしれません。 彼が一体何なのかを彼らは教えてくれませんが、想像はできます。
+movies/woi/woi_node_126,woi126_003,"If Greene was an imperfect release of non-coding regions of the genome, and Mercer was something more, what if PARIAH was a perfect realization of all the non-coding regions in the genome?",もしグリーンがノンコーディング領域の部分的な解放を達成した存在で、またマーサーがそれ以上の何かであるならば、PARIAHはノンコーディング領域の全てを完全に具現化した存在なのでは？
+movies/woi/woi_node_126,woi126_004,It may be the final purpose of all life on earth.,そうだとしたら、それは地球上の全生物の最終目標と言えるんです。
+movies/woi/woi_node_127,woi127_001,"So, you're wondering what PARIAH is to Elizabeth Greene?",それで、君はパリアがエリザベス・グリーンにとってどういう存在かというのが気になってるのか？
+movies/woi/woi_node_127,woi127_002,The more interesting question is this: what does PARIAH have in common with Alex Mercer?,もっと興味があるのはね、パリアとアレックス・マーサーとの共通点は何だ？ ってことだ。
+movies/woi/woi_node_127,woi127_003,I have my theories. Mercer might be the artificial activation of non-coding regions -- something achieved by genetic manipulation. ,私の考えでは、マーサーの場合はノンコーディング領域の人為的な活性化であろう。 遺伝子操作によってなされている現象だ。
+movies/woi/woi_node_127,woi127_003b,PARIAH is a natural release of things buried in the Genome.,パリアはゲノムに眠っていたものの自然な発現だ。
+movies/woi/woi_node_127,woi127_004,"I have a feeling it might be extraordinarily bad if they ever met, face to face.",彼らが対面してしまうと非常にまずいことになる気がしてならんのだよ。
+movies/woi/woi_node_128,woi128_001,I’m not cleared to speak to you about that.,そのことについて話すことを許可されておりません。
+movies/woi/woi_node_128,woi128_002,What if the entire purpose of the Hope outbreak was to breed something new?,ホープでの感染の目的が新しいものを作り出すことだとしたら？
+movies/woi/woi_node_128,woi128_003,"There were fourteen aborted attempts -- the Hope Children -- but only the final result, PARIAH, survived.",ホープの子供たちに対する14の試験が頓挫しましたが ―― 最終結果としてはパリアだけが生き残りました。
+movies/woi/woi_node_128,woi128_004,What if this is the start of such a change on a massive scale?,これが大規模な変化の始まりだとしたら？
+movies/woi/woi_node_129,woi129_001,"As of today, we are folded under control of First Biological Warfare Command out of Ft. Detrick",本日より我々はデトリック基地より発令された、第一次生物化学戦争令下におかれることになる。
 movies/woi/woi_node_129,woi129_002,"They’re calling the shots on this. I don’t want any fuckin’ lip. They tell you to jump, you jump.",指令権はあちらにある。 貴様らに一切の口応えは不要だ。 彼らが飛べと言ったら、飛ぶんだ。
 movies/woi/woi_node_129,woi129_003,Do not mistake these guys for dabblers. They have seen serious shit in the past.,彼らを素人と思うなよ。 過去に地獄を見てきた男たちだ。
 movies/woi/woi_node_150,woi150_001,They grabbed an entire apartment block and dragged 'em into some holding pen they had set up.
@@ -18306,49 +18306,49 @@ movies/woi/woi_node_150,woi150_003,Fuck. I’m starting to wonder when it’s ou
 movies/woi/woi_node_153,woi153_001,I bet you two cartons they have a hella bunch of missiles pointed right here at good 'ole N-Y-C.
 movies/woi/woi_node_153,woi153_002,Damn.
 movies/woi/woi_node_153,woi153_003,Don’t sweat it. We won’t even know it when it happens.
-movies/woi/woi_node_155,woi155_001,"Naw, I hear these operators are out of Maryland. Some fuckin’ division or another. Blacker than black, these fucks."
-movies/woi/woi_node_155,woi155_002,"They got no rank, no fuckin’ protocol. They’re fuckin’ barbarians."
-movies/woi/woi_node_155,woi155_003,And they’re in charge.
+movies/woi/woi_node_155,woi155_001,"Naw, I hear these operators are out of Maryland. Some fuckin’ division or another. Blacker than black, these fucks.",今、こいつらオペレーターはMarylandにいないらしいぜ。 クソったれの部局かなんかめ。 黒よりも真っ黒だな、このクソどもは。
+movies/woi/woi_node_155,woi155_002,"They got no rank, no fuckin’ protocol. They’re fuckin’ barbarians.",奴らには階級もない、クソッタレな作戦計画書もない。 連中はクソッたれの未開人さ。
+movies/woi/woi_node_155,woi155_003,And they’re in charge.,あいつらのせいだ。
 movies/woi/woi_node_168,woi168_001,They burned the damn thing to the ground. With the people in it.
 movies/woi/woi_node_168,woi168_002,Fuck.
 movies/woi/woi_node_168,woi168_003,"This woman comes out on fire, and they just open up on her. And they’re just laughing. I’m telling you, these guys are fucking Nazis, man."
 movies/woi/woi_node_169,woi169_001,Are you telling me Washington can’t do anything? They’re declaring Martial Law! Don’t they need...?
 movies/woi/woi_node_169,woi169_002,"Listen to me Harvey, they don’t need anything. They’re in charge. They’ve been doing this for years. To them this is just status quo."
 movies/woi/woi_node_169,woi169_003,This telephone call has been interrupted for national security reasons under the Emergency Powers act.
-movies/woi/woi_node_172,woi172_001,Go ahead.
-movies/woi/woi_node_172,woi172_002,Sgt. Paulin and myself observed Marine Apache Charlie One head out of the cordon.
-movies/woi/woi_node_172,woi172_003,And?
-movies/woi/woi_node_172,woi172_004,"We are fairly certain it was hijacked. When it was fired upon, we saw it."
-movies/woi/woi_node_172,woi172_005,It?
-movies/woi/woi_node_172,woi172_006,Sir. The pilot. He...leaped out of the aircraft.
-movies/woi/woi_node_172,woi172_007,And?
-movies/woi/woi_node_172,woi172_008,"He hit the ground running, sir."
-movies/woi/woi_node_173,woi173_001,"This ain’t just one guy, man. I’m telling you."
-movies/woi/woi_node_173,woi173_002,What the hell do YOU think is going on?
-movies/woi/woi_node_173,woi173_003,"Gotta be a bunch of ’em, all in that hoodie get up, running around town, causing shit."
-movies/woi/woi_node_177,woi177_001,WHY THE FUCK ARE THEY SHOOTING AT US! THEY’RE SUPPOSED TO BE ON OUR SIDE!
-movies/woi/woi_node_177,woi177_002,DAMN. DAMN!
-movies/woi/woi_node_177,woi177_003,"THAT IS IT, MAN. I'M OUTTA HERE. I'M GONNA SMOKE ANYTHING THAT AIN'T A MARINE."
-movies/woi/woi_node_185,woi185_001,EVERYONE! SHUT UP. I HAVE AN ANNOUNCEMENT!
-movies/woi/woi_node_185,woi185_002,"First. These people infected with the virus -- they’re dead already. Keep your distance, and if they rush you, you shoot to kill."
-movies/woi/woi_node_185,woi185_003,CAP! WHEN’S THE CALVARY GETTING HERE!
-movies/woi/woi_node_185,woi185_004,Second. The cavalry? We’re it....
-movies/woi/woi_node_187,woi187_001,"Hey! Hey, blue boy! Get your men out of here."
-movies/woi/woi_node_187,woi187_002,"Thank God, you guys are here...."
-movies/woi/woi_node_187,woi187_003,Get your men out now!
-movies/woi/woi_node_187,woi187_004,Guys! We’re done. Let’s let the professionals handle it!
-movies/woi/woi_node_189,woi189_001,You can't keep me here! I know my rights!
-movies/woi/woi_node_189,woi189_002,"Maybe, but you obviously don’t know much about Martial Law."
-movies/woi/woi_node_189,woi189_003,You have the right to be ventilated. I have the right to burn your home and shoot your dog. Do you understand your rights as I have read them to you?
-movies/woi/woi_node_189,woi189_004,YES! YES! PLEASE!
-movies/woi/woi_node_189,woi189_005,Then shut the fuck up.
-movies/woi/woi_node_190,woi190_001,I've stopped this damn thing before.  Stopped it dead.
-movies/woi/woi_node_190,woi190_002,"Hope, Idaho, was just a...sacrificial lamb. A necessary cruelty."
-movies/woi/woi_node_190,woi190_003,"Shoot anything that moves. No one comes in, nothing gets out."
-movies/woi/woi_node_190,woi190_004,"Sir, the Walkers have sealed themselves in the hospital."
-movies/woi/woi_node_190,woi190_005,We have orders to liquidate the entire population!
-movies/woi/woi_node_190,woi190_006,The mother and child are now military assets.
-movies/woi/woi_node_190,woi190_007,...and I just made General Officer.
+movies/woi/woi_node_172,woi172_001,Go ahead.,報告を。
+movies/woi/woi_node_172,woi172_002,Sgt. Paulin and myself observed Marine Apache Charlie One head out of the cordon.,ポラン軍曹と自分は非常線の外へ向かう海兵隊アパッチC1を目撃しました。
+movies/woi/woi_node_172,woi172_003,And?,それで？
+movies/woi/woi_node_172,woi172_004,"We are fairly certain it was hijacked. When it was fired upon, we saw it.",ヘリは間違いなくハイジャックされたものでした。 そしてヘリが被弾したとき、我々はそれを見たのです
+movies/woi/woi_node_172,woi172_005,It?,それとは？
+movies/woi/woi_node_172,woi172_006,Sir. The pilot. He...leaped out of the aircraft.,ヘリのパイロットです。 彼は……ヘリから飛び降りたんです。
+movies/woi/woi_node_172,woi172_007,And?,それから？
+movies/woi/woi_node_172,woi172_008,"He hit the ground running, sir.",着地し走り去りました。
+movies/woi/woi_node_173,woi173_001,"This ain’t just one guy, man. I’m telling you.",こいつが1人なわけないだろ。 な、そうだろ？
+movies/woi/woi_node_173,woi173_002,What the hell do YOU think is going on?,じゃ、なんだっていうんだ？
+movies/woi/woi_node_173,woi173_003,"Gotta be a bunch of ’em, all in that hoodie get up, running around town, causing shit.",たくさんいるんだろ。 その全員があのフード姿で走り回って、町を荒らしてんだ。
+movies/woi/woi_node_177,woi177_001,WHY THE FUCK ARE THEY SHOOTING AT US! THEY’RE SUPPOSED TO BE ON OUR SIDE!,なんであいつら撃ってくんだよ！ 俺たちの味方だろ！？
+movies/woi/woi_node_177,woi177_002,DAMN. DAMN!,くそ！ くそ！！
+movies/woi/woi_node_177,woi177_003,"THAT IS IT, MAN. I'M OUTTA HERE. I'M GONNA SMOKE ANYTHING THAT AIN'T A MARINE.",そういうことかよ、やってられるか！ 海兵隊員以外は全員ぶっ殺してやる！！
+movies/woi/woi_node_185,woi185_001,EVERYONE! SHUT UP. I HAVE AN ANNOUNCEMENT!,総員静かに！ 通達する。
+movies/woi/woi_node_185,woi185_002,"First. These people infected with the virus -- they’re dead already. Keep your distance, and if they rush you, you shoot to kill.",一つめ。 ウイルス感染者は既に死亡している。 距離を十分とり、もし奴らが走ってきたら射殺しろ。
+movies/woi/woi_node_185,woi185_003,CAP! WHEN’S THE CALVARY GETTING HERE!,隊長！ 援軍が来るのはいつです？
+movies/woi/woi_node_185,woi185_004,Second. The cavalry? We’re it....,二つめ。 援軍？ それが我々だ……。
+movies/woi/woi_node_187,woi187_001,"Hey! Hey, blue boy! Get your men out of here.",おい！ おいお巡り！ お前の部下をここに呼べ！
+movies/woi/woi_node_187,woi187_002,"Thank God, you guys are here....",やっとでおいでなすったか……
+movies/woi/woi_node_187,woi187_003,Get your men out now!,部下を呼べ！
+movies/woi/woi_node_187,woi187_004,Guys! We’re done. Let’s let the professionals handle it!,よし、仕事は終わりだ。あとはプロにお任せしようぜ。
+movies/woi/woi_node_189,woi189_001,You can't keep me here! I know my rights!,俺を拘束できないはずだ！ 俺には権利がある！
+movies/woi/woi_node_189,woi189_002,"Maybe, but you obviously don’t know much about Martial Law.",かもな。 だがお前は軍律についてはほとんど知っていないようだ。
+movies/woi/woi_node_189,woi189_003,You have the right to be ventilated. I have the right to burn your home and shoot your dog. Do you understand your rights as I have read them to you?,お前には新鮮な空気を吸う権利ならある。 俺にはお前の家を焼き、お前の犬を撃つ権利がある。 お前の権利について今の説明で理解できたか？
+movies/woi/woi_node_189,woi189_004,YES! YES! PLEASE!,わかった！ わかったから！ 頼む！
+movies/woi/woi_node_189,woi189_005,Then shut the fuck up.,じゃ、黙ってろ。
+movies/woi/woi_node_190,woi190_001,I've stopped this damn thing before.  Stopped it dead.,私はこのイカれた状況を止めた事がある。 全員殺すことで。
+movies/woi/woi_node_190,woi190_002,"Hope, Idaho, was just a...sacrificial lamb. A necessary cruelty.",アイダホ州ホープは……生贄の様なものだ。必要なことだった。
+movies/woi/woi_node_190,woi190_003,"Shoot anything that moves. No one comes in, nothing gets out.",動くものは全て撃て。 誰一人として出入りさせるな。
+movies/woi/woi_node_190,woi190_004,"Sir, the Walkers have sealed themselves in the hospital.",ウォーカーが病院に立てこもりました。
+movies/woi/woi_node_190,woi190_005,We have orders to liquidate the entire population!,私たちは全住人を消すという命を受けているんだ！
+movies/woi/woi_node_190,woi190_006,The mother and child are now military assets.,あの母子は軍の保護に置く。
+movies/woi/woi_node_190,woi190_007,...and I just made General Officer.,そして私は将官になった……。
 movies/woi/woi_node_201,woi201_001,I’ve been through three wars in this tank. I can move through city streets or open desert -- ain’t nothing that can stop her.
 movies/woi/woi_node_201,woi201_002,"And if anything gets in my way...well, damn, *laughs* I just go over it."
 movies/woi/woi_node_207,woi207_001,"Welcome to the Marine Armor Training Center. There are nineteen major systems in this Marine Armored Personnel Carrier and over 25,000 moving parts.","ようこそ海兵隊装甲車両訓練所へ。 ここには19種の主要な海兵隊装甲車両が25,000以上も運用されている。"
@@ -18375,15 +18375,15 @@ movies/woi/woi_node_212,woi212_007,"And McMullen, sir.",マクマレン所長は
 movies/woi/woi_node_212,woi212_008,It’s time for the Doctor to learn who’s in charge of this little excursion.,この計画を管理しているのが誰なのか知ってもらおうじゃないか。
 movies/woi/woi_node_215,woi215_001,"All units, we’re going to Plan B. Return to all control points and rendezvous at the bridge at H-Hour."
 movies/woi/woi_node_215,woi215_002,We’re going over to Brooklyn...in armor -- fuck.
-movies/woi/woi_node_216,woi216_001,"All of this, everything here. We’ve been preparing to fight the wrong war! We can’t beat this. We need to pull out and deal with it at a distance!"
-movies/woi/woi_node_216,woi216_002,"Taggart, I put you in charge because I trust you to do what needs to be done: cut the heart out of the infection."
-movies/woi/woi_node_216,woi216_003,Sir! The position is untenable. These...things...they’re...beyond our abilities....
-movies/woi/woi_node_216,woi216_004,I don’t want to hear one more excuse from you! You get your ass back into the field and get it done! Or don’t come back.
-movies/woi/woi_node_217,woi217_001,"Sir, we've got a priority situation in New York."
-movies/woi/woi_node_217,woi217_002,The Idaho Runner?
-movies/woi/woi_node_217,woi217_003,Something...else.
-movies/woi/woi_node_217,woi217_004,Sir?
-movies/woi/woi_node_217,woi217_005,"Get the old man on the horn! I want two battalions ready to move from Detrick, full gear!"
+movies/woi/woi_node_216,woi216_001,"All of this, everything here. We’ve been preparing to fight the wrong war! We can’t beat this. We need to pull out and deal with it at a distance!",全ての間違いはここから始まってるんです。我々はずっと間違った敵と戦ってきた。我々では倒せません。手を引いて距離を置いて攻撃するべきです。
+movies/woi/woi_node_216,woi216_002,"Taggart, I put you in charge because I trust you to do what needs to be done: cut the heart out of the infection.",タガート、私がお前をこの任務につけたのはお前はやるべきことをやれる男だと私が信じたからだ。 感染源を断て。
+movies/woi/woi_node_216,woi216_003,Sir! The position is untenable. These...things...they’re...beyond our abilities....,その命には従いかねます。 あれは……彼らは……我々の手に負えません……。
+movies/woi/woi_node_216,woi216_004,I don’t want to hear one more excuse from you! You get your ass back into the field and get it done! Or don’t come back.,これ以上言い訳を聞く気はない！ 戦場に戻って任務を果たせ！ それまで帰還は許さん。
+movies/woi/woi_node_217,woi217_001,"Sir, we've got a priority situation in New York.",我々はニューヨークで優先すべき状況におかれています。
+movies/woi/woi_node_217,woi217_002,The Idaho Runner?,アイダホランナーのことか？
+movies/woi/woi_node_217,woi217_003,Something...else.,いえ、他のことです……。
+movies/woi/woi_node_217,woi217_004,Sir?,どうされました？
+movies/woi/woi_node_217,woi217_005,"Get the old man on the horn! I want two battalions ready to move from Detrick, full gear!",あの老いぼれ将軍に連絡しろ！ 2個大隊をデトリックから動かせと大至急でだ！ また始まるのか。
 movies/woi/woi_node_217,woi217_006,It's starting again.
 movies/woi/woi_node_219,woi219_001,"Yes, private, you’re guarding a hole in the fucking roof. You’ve been briefed about what we’re up against -- we’re not secure until these skylights are sealed.",いいか、二等兵。 お前はこのクソったれた屋根の穴を守ってる。 俺たちが直面しているものについては説明されているな。 あの天窓を封鎖するまでは安心出来ない。
 movies/woi/woi_node_219,woi219_001b,"So, unless you want to pull shit patrol until your momma forgets what you look like, stand your sorry ass right here until you're told to do otherwise. NOW MOVE IT!",それで、だ。 ママに忘れられちまうまでクソパトロールをしたくなかったら、お前の惨めなケツをここにブッ立ててろ。 さあ、やれ！
