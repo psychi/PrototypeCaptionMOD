@@ -17841,7 +17841,7 @@ movies/woi/woi_ec4,woiec4_05,How did it feel to be infected with something you c
 movies/woi/woi_ec4,woiec4_06,Like my own body wanted me dead.,自分の体が死にたがってるみたいだった。
 movies/woi/woi_ec4,woiec4_07,Did you ever consider how the parasite felt? An intelligent cancer ripped from its host?,その寄生体のキモチってのを考えたことがあるか？ 知性のあるガンがその宿主から切り離されることを？
 movies/woi/woi_ec4,woiec4_08,Yeah I did. Once… Right before I killed it,まあ、考えたさ。 一度…… そいつを殺す前にな。
-movies/woi/woi_ec5,woiec5_01,I had no idea why Greene took my sister.  Revenge?  Bait for a trap?  All I knew was I had to get her back.
+movies/woi/woi_ec5,woiec5_01,I had no idea why Greene took my sister.  Revenge?  Bait for a trap?  All I knew was I had to get her back.,なぜグリーンが俺の妹を連れ去ったのか見当もつかなかった。 復讐か？ 罠か？ ただディナを連れ戻さなきゃいけないことしか分からなかった。
 movies/woi/woi_ec5,woiec5_02,"These Infected are like animals. But there’s something more - like a hidden hand, guiding them.  ",感染者はまるで獣だ。 でもそれ以上に ―― 見えざる手が奴らを導いているようだった。
 movies/woi/woi_ec5,woiec5_02b,"The hive mind became my only chance. It was a clue to find Dana and I thought by consuming infected minds, I could follow the link - and that would lead me to the one that took her.",奴らの集団心理が唯一のチャンスだ。 ディナを見つける手がかりであり、あいつらを俺が吸収することで繋がりをたどって妹をさらった奴を見つけれると思ったんだ。
 movies/woi/woi_ec5,woiec5_05,But then I realized...  I had the means... I had Blackwatch cornered.  I had their cancer weapon.  ,そこで俺は気がついた……。 いい方法があると……。 俺はブラックウォッチを追いつめていた。 あいつらの武器も持っていた。
@@ -17879,13 +17879,13 @@ movies/woi/woi_ec7,woiec7_13,But now Hope has one final riddle to give up.  Gree
 movies/woi/woi_ec7,woiec7_14,Do you suppose your answer is out there on the Reagan?,その答えがレーガンで得られると思うか？
 movies/woi/woi_ec7,woiec7_15,All I know is: I'll get my answer from Randall.,俺に分かるのは……ランドールから聞き出すしかないってことだ。
 movies/woi/woi_node_001,woi001_001,What’s the situation with Mercer?,マーサーは？
-movies/woi/woi_node_001,woi001_002,"The subject is wanted in connection with treasonous activities against the United States and her allies. As of last night, Alex Mercer is the number one terrorist threat in the United States.",アメリカとその同盟国に対する反逆に関わっていると指名手配されています。 昨晩にはアレックス・マーサーは我が国における第一位のテロリストになりました。
+movies/woi/woi_node_001,woi001_002,"The subject is wanted in connection with treasonous activities against the United States and her allies. As of last night, Alex Mercer is the number one terrorist threat in the United States.",合衆国とその同盟国に対する反逆に関わっていると指名手配されています。 昨晩にはアレックス・マーサーは我が国における第一位のテロリストになりました。
 movies/woi/woi_node_003,woi003_001,The target exhibits a classic low-affect personality. 
 movies/woi/woi_node_003,woi003_001b,"Psychopathic disregard for others, narcissistic world-view punctuated by self-obsessive disorders.",目標は典型的な無感動のようです。 自己強迫観念による他人への無関心さ、ナルシスト的な世界観が端々に見られます。
 movies/woi/woi_node_003,woi003_002,"Ok, now how 'bout someone repeat that in English.",よし、誰か今のを英語で言い直してくれ。
-movies/woi/woi_node_004,woi004_001,Subject escaped at 22:30 hours after murdering three personnel.
-movies/woi/woi_node_004,woi004_002,"Shortly thereafter, it is believed it kidnapped an operative."
-movies/woi/woi_node_004,woi004_003,"It is infected with a variant of the BLACKLIGHT virus. Specifically DX-1118, a substance whose effects on the human body are poorly understood at best. We have no clue what it is capable of."
+movies/woi/woi_node_004,woi004_001,Subject escaped at 22:30 hours after murdering three personnel.,目標は3人を殺してから1時間後の22:30に脱走しています。
+movies/woi/woi_node_004,woi004_002,"Shortly thereafter, it is believed it kidnapped an operative.",その後に諜報員を誘拐しているようです。
+movies/woi/woi_node_004,woi004_003,"It is infected with a variant of the BLACKLIGHT virus. Specifically DX-1118, a substance whose effects on the human body are poorly understood at best. We have no clue what it is capable of.",ブラックライトウィルスの変異体に感染しています。 正確にはDX-1118ですが、それが人体にどういう作用をするのかは全くと言っていいほどわかりません。 一体何ができるのか我々には手がかりが全くないのです。
 movies/woi/woi_node_005,woi005_001,"Doctor, try to keep the discussion high level. We need to know what we’re dealing with on the ground.",博士、概要説明を続けてくれ。 我々は現場での対処方法を知る必要がある。
 movies/woi/woi_node_005,woi005_002,"Its effect is...variable. When it DOES manifest, it makes the Idaho strain look like the common cold.",その影響は……一概には言えません。 発症した場合は、あのアイダホ菌を生成します。 普通の風邪によく似た症状を起こす菌です。
 movies/woi/woi_node_005,woi005_003,I don’t need to remind you gentlemen how close we came to the point-of-no-return in Idaho.,我々がかつてアイダホで、引き返せない状況にどれだけ差し迫っていたかはご存知のはずでしょう？
@@ -17962,9 +17962,9 @@ movies/woi/woi_node_021,woi021_002,"We didn't know what we were working on. I me
 movies/woi/woi_node_021,woi021_003,It was beautiful. It kept changing. It was the single most complicated viral structure I had ever seen.,あれは美しい。 常に変化する。 今まで見てきた中で最も複雑なウイルス構造体だった。
 movies/woi/woi_node_021,woi021_004,"All in all, I made good time. It only took me three years to make it more dangerous by a factor of ten.",何から何まで楽しかったよ。 3年間の研究でその危険性を10倍にまで高めることができた。
 movies/woi/woi_node_021,woi021_005,"Morality wasn't my job. Modifying chimeric viruses was. I wasn't in field applications, I was in engineering.",倫理なんてものを考えるのは俺の仕事じゃなかった。 非現実なウイルスを変えてくのが仕事でね。 応用するのではなく加工していたんだ。
-movies/woi/woi_node_022,woi022_001,Here's what's known: the subject can shift its body structure to an unknown degree.
-movies/woi/woi_node_022,woi022_002,"It can fashion portions of its body into a weapon, change its facial features and perhaps even imitate voices and mannerisms."
-movies/woi/woi_node_022,woi022_003,Long and short: it's a security nightmare.
+movies/woi/woi_node_022,woi022_001,Here's what's known: the subject can shift its body structure to an unknown degree.,確かなことは、目標はその身体構造をどの程度かは不明だが変形できるということだ。
+movies/woi/woi_node_022,woi022_002,"It can fashion portions of its body into a weapon, change its facial features and perhaps even imitate voices and mannerisms.",体の一部を武器に変えること、顔立ち、もしかすると声や癖も真似れるかもしれん。
+movies/woi/woi_node_022,woi022_003,Long and short: it's a security nightmare.,端的に言えば、警備上最悪の相手だ。
 movies/woi/woi_node_023,woi023_001,ZEUS’ memory problem might be an advantage we can use.,ゼウスの記憶の問題は、我々が利用できる利点かもしれない。
 movies/woi/woi_node_023,woi023_002,"Familiar people, objects, places.... These seem to restore memories to ZEUS. This restoration is painful.",親しい人や物や場所……。 これらはゼウスに記憶を戻させるようだ。 この回復は苦痛を伴う。
 movies/woi/woi_node_023,woi023_003,It can hurt ZEUS?,それはゼウスを傷つけることができるのか？
@@ -17978,10 +17978,10 @@ movies/woi/woi_node_024,woi024_005,It seems like she's...waiting for something.,
 movies/woi/woi_node_025,woi025_001,What the hell happened in there?,ここで何が起きたんだ？
 movies/woi/woi_node_025,woi025_002,Team One dropped comm just after they entered the holding cell area.,チーム1が独房に突入した途端連絡がありません。
 movies/woi/woi_node_025,woi025_003,"That's it, close it off. No one goes in or comes out of the Gentek Building. I want it sealed with Level Four protocols.",なら、閉鎖しろ。 誰もジェンテックビルに出入りさせるな。 警戒レベルは4にしろ。
-movies/woi/woi_node_026,woi026_001,"Look, the last Runner took three weeks to track down. It hit a podunk burg called Two Bluff, Arizona. No one noticed when the town dried up and blew away."
-movies/woi/woi_node_026,woi026_002,"They're clever. The worker-bees -- the Walkers -- they just do as they're told, the Runners are different. They think."
-movies/woi/woi_node_026,woi026_003,What about this one?
-movies/woi/woi_node_026,woi026_004,Her? Hm...she's a Runner. With nowhere to run.
+movies/woi/woi_node_026,woi026_001,"Look, the last Runner took three weeks to track down. It hit a podunk burg called Two Bluff, Arizona. No one noticed when the town dried up and blew away.",いいか、前回のランナーは発見までに3週間を要した。 奴はアリゾナ州のツーブラフという田舎町に辿りついていた。 町から何もかもが消え失せたことに気づいた奴は誰一人いなかった。
+movies/woi/woi_node_026,woi026_002,"They're clever. The worker-bees -- the Walkers -- they just do as they're told, the Runners are different. They think.",あいつらは賢い。 働き蜂であるウォーカーは言われたとおりに行動しているだけだが、ランナーは違う。 奴らは思考するぞ。
+movies/woi/woi_node_026,woi026_003,What about this one?,それで、何をしてるんだ？
+movies/woi/woi_node_026,woi026_004,Her? Hm...she's a Runner. With nowhere to run.,ものすごい勢いで進化しているようなものですよ。 遺伝子レベルで戦争しているようなものです。 別物になろうとしてるんですよ！
 movies/woi/woi_node_027,woi027_001,"It represents the most intriguing human carrier ever discovered to date. Its body produces hundreds of unique strains on a daily basis. Most are harmless, a few are deadly."
 movies/woi/woi_node_027,woi027_002,"So, what's it doing?"
 movies/woi/woi_node_027,woi027_003,It's like it's evolving at a rapid pace. It's war-dialing at a genetic level. It's becoming something else.
@@ -17997,10 +17997,10 @@ movies/woi/woi_node_029,woi029_005,I wasn't paid to feel.,……俺は感じる�
 movies/woi/woi_node_030,woi030_001,The process is this: we remove a small amount of blood from the subject. Her blood is always teeming with variants of the virus.,こういったところです。 我々はその対象から血液を少量採取しました。 血液は常に異形ウイルスと結合していました。
 movies/woi/woi_node_030,woi030_002,These samples are the key to our research. They could cure every ailment known to man.,このサンプルは我々の研究の鍵です。 これで全ての病気の治療法が判明するでしょう。
 movies/woi/woi_node_030,woi030_003,Or incite them?,あるいは病気を刺激することも？
-movies/woi/woi_node_031,woi031_001,Give me a report on the physical state of Codename MOTHER.
-movies/woi/woi_node_031,woi031_002,The subject has been incarcerated for thirty-nine years without ill-effect.
-movies/woi/woi_node_031,woi031_003,"Through this period it has exhibited no degenerative effects -- no joint-decay, swelling, discomfort or atrophy. Nothing."
-movies/woi/woi_node_031,woi031_004,"It is quite literally, un-aging. We have no idea how this is possible."
+movies/woi/woi_node_031,woi031_001,Give me a report on the physical state of Codename MOTHER.,コードネーム・マザーの身体的な状態教えてくれ。
+movies/woi/woi_node_031,woi031_002,The subject has been incarcerated for thirty-nine years without ill-effect.,対象は39年間病気にかかることなく幽閉されています。
+movies/woi/woi_node_031,woi031_003,"Through this period it has exhibited no degenerative effects -- no joint-decay, swelling, discomfort or atrophy. Nothing.",この間に低下したものはありません……関節の衰え、腫れ、不快、委縮。 一切ありません。
+movies/woi/woi_node_031,woi031_004,"It is quite literally, un-aging. We have no idea how this is possible.",そして当然のように、年もとっていません。 どうすればこんなことが可能なのか見当もつきません。
 movies/woi/woi_node_032,woi032_001,I don't know. We don't have all the data. Greene seems to be the focus. The others nothing more than puppets.,分からん。 データがすべて揃ってるわけではないんだ。 グリーンが中心なんだろう？ 他の奴らは操り人形にすぎん。
 movies/woi/woi_node_032,woi032_002,"Sir, there's no scientific backing to support that.",それを裏づける科学的根拠はありません。
 movies/woi/woi_node_032,woi032_003,"Look. The centralized control is directed by the focus. It spreads, it thinks, it plans. 40 years of science says it can't be so, but tell me that isn't happening.",いいか、命令は集中的にこの中心から出てる。 広がり、考え、計画してるんだ。 40年にわたる研究によるとそんなことありえないらしいが、そんなことはどうでもいい。
@@ -18013,11 +18013,11 @@ movies/woi/woi_node_034,woi034_002,"In this case, shifting life on earth?",こ�
 movies/woi/woi_node_034,woi034_003,Yes. Changing it.,ええ、そうです。
 movies/woi/woi_node_034,woi034_004,Into what?,一体何に？
 movies/woi/woi_node_034,woi034_005,Indeed. Into what?,それは……わかりません。
-movies/woi/woi_node_035,woi035_001,"Subject: Greene, Elizabeth M. Codenamed MOTHER. Recovered at Hope, Idaho, 7/7/69. Operation ALTRUISTIC."
-movies/woi/woi_node_035,woi035_002,Transferred to Ft. Detrick on 8/1/69 for containment.
-movies/woi/woi_node_035,woi035_003,"Held at Detrick, Ward F, for nine years, two months."
-movies/woi/woi_node_035,woi035_003b," 10/1/78 -- transferred to containment at Governor’s Island Medical Station, New York."
-movies/woi/woi_node_035,woi035_004,"Moved to Gentek midtown facility, 1/1/89, for study in Project BLACKLIGHT."
+movies/woi/woi_node_035,woi035_001,"Subject: Greene, Elizabeth M. Codenamed MOTHER. Recovered at Hope, Idaho, 7/7/69. Operation ALTRUISTIC.",対象：エリザベス M・グリーン。コードネーム・マザー。アイダホ州ホープで69年7月7日に確保。 アルトルイースティック作戦中。
+movies/woi/woi_node_035,woi035_002,Transferred to Ft. Detrick on 8/1/69 for containment.,69年8月1日に拘束のためデトリック基地に移送。
+movies/woi/woi_node_035,woi035_003,"Held at Detrick, Ward F, for nine years, two months.",9年と2ヶ月を過ごした。
+movies/woi/woi_node_035,woi035_003b," 10/1/78 -- transferred to containment at Governor’s Island Medical Station, New York.",78年10月1日 ―― ニューヨークのガバナーズアイランド・メディカルステーションに移送。
+movies/woi/woi_node_035,woi035_004,"Moved to Gentek midtown facility, 1/1/89, for study in Project BLACKLIGHT.",89年1月1日、ブラックライト計画のためジェンテックへと移動。
 movies/woi/woi_node_036,woi036_001,BLACKWATCH is lying. Something besides Elizabeth Greene came out of Hope.,ブラックウォッチは何か隠してる。 エリザベス・グリーンがホープから出てきたということ以外に。
 movies/woi/woi_node_036,woi036_002,You recall her pelvic x-rays?,彼女のレントゲン写真を見たことがあるかい？
 movies/woi/woi_node_036,woi036_003,No.,いや、ない。
@@ -18043,22 +18043,22 @@ movies/woi/woi_node_040,woi040_006,"Nothing crosses the Redline, sir!",レッド
 movies/woi/woi_node_041,woi041_001,*struggling* Fuckin' goose-stepping mother-fuckers.,放せこのクソナチ野郎！ くそったれ！
 movies/woi/woi_node_041,woi041_002,*laughs* You kiss your mother with that mouth?,お前その口でママにキスするのか？
 movies/woi/woi_node_041,woi041_003,"*into headset* Roger, 2215 Christopher street. Apartment 15 A. Got it. Saddle up, you've got a CP. Move it!",了解、クリストファー通り2215番地のアパート15A。 確認した。 急行する。 急げ、CPを手に入れた。
-movies/woi/woi_node_042,woi042_001,Go on.
-movies/woi/woi_node_042,woi042_002,The subject is exhibiting symptoms of primary infection.
-movies/woi/woi_node_042,woi042_003,We have confirmation from sniffer stations up and down the island. The strain it is carrying is an unknown.
-movies/woi/woi_node_042,woi042_004,What kind of spread are we talking about here?
-movies/woi/woi_node_042,woi042_005,Thankfully it seems incapable of crossing water bodies. We've sealed the island's exits. It can be fought here.
+movies/woi/woi_node_042,woi042_001,Go on.,どうぞ。
+movies/woi/woi_node_042,woi042_002,The subject is exhibiting symptoms of primary infection.,対象は感染初期の兆候を示しています。
+movies/woi/woi_node_042,woi042_003,We have confirmation from sniffer stations up and down the island. The strain it is carrying is an unknown.,島を縦断しているスニファー・ステーションから裏づけをとりました。 対象が運んでいる菌種は不明です。
+movies/woi/woi_node_042,woi042_004,What kind of spread are we talking about here?,この場合はどういう広まり方をするんだ？
+movies/woi/woi_node_042,woi042_005,Thankfully it seems incapable of crossing water bodies. We've sealed the island's exits. It can be fought here.,幸いなことに水を越えるということはできないようです。 島の出入り口を封鎖すればここだけで戦えるようになりますね。
 movies/woi/woi_node_043,woi043_001,We have confirmation of the agent in two sampling stations.,我々は2ヶ所のサンプリング・ステーションの職員から確認を取った。
 movies/woi/woi_node_043,woi043_002,That is...a variant of DX-1118. Still un-typed.,これは……DX-1118の変種です。 まだ分類されていませんが。
 movies/woi/woi_node_043,woi043_003,"In ten to fifteen hours, an outbreak is likely to appear. It is vital that fast-action teams are on site within minutes of the first confirmation.",10～15時間のうちに感染爆発が起こる可能性が高い。 確認が取れ次第すぐに高速対応部隊を送り込むのが重要だ。
 movies/woi/woi_node_043,woi043_004,We’re here to make certain what happened in 1969 never happens again. You all know your duty. Whatever it takes.,1969年に起きたことを2度と起こさないために我々がここにいる。 全員自分の義務が分かっているな？ 犠牲を恐れるな。
-movies/woi/woi_node_044,woi044_001,"Colonel Taggart has issued a lockdown order on the island. This comes down from on high -- the old man is here, calling the shots personally."
-movies/woi/woi_node_044,woi044_002,SIR!
-movies/woi/woi_node_044,woi044_003,I need men with ice water in their veins. Nothing crosses the Redline.
-movies/woi/woi_node_045,woi045_001,The Redline is drawn.
-movies/woi/woi_node_045,woi045_001b,Nothing gets on or off the island without permission from BLACKWATCH Command.
-movies/woi/woi_node_045,woi045_002,SIR!
-movies/woi/woi_node_045,woi045_003,Gentlemen. We've prepared for this moment for forty years. We will not fail.
+movies/woi/woi_node_044,woi044_001,"Colonel Taggart has issued a lockdown order on the island. This comes down from on high -- the old man is here, calling the shots personally.",タガート大佐が我々に島の封鎖命令を下した。 この命令は上の方からきている。 お偉いさんが来ててな、個人的な指令ということだ。
+movies/woi/woi_node_044,woi044_002,SIR!,了解！
+movies/woi/woi_node_044,woi044_003,I need men with ice water in their veins. Nothing crosses the Redline.,己が体に氷水の血を通わせる奴らが必要だ。 何であろうと防衛線は通させんぞ。
+movies/woi/woi_node_045,woi045_001,The Redline is drawn.,レッドラインが引かれた。
+movies/woi/woi_node_045,woi045_001b,Nothing gets on or off the island without permission from BLACKWATCH Command.,ブラックウォッチの許可なしに島を出入りすることはできない。
+movies/woi/woi_node_045,woi045_002,SIR!,了解！
+movies/woi/woi_node_045,woi045_003,Gentlemen. We've prepared for this moment for forty years. We will not fail.,諸君、我々は40年間この時のために準備をしてきた。 失敗することはない。
 movies/woi/woi_node_046,woi046_001,I want a curtain of men and armor up the moment the call comes in.,呼び出しが入る前に隊員と装甲部隊が欲しい。
 movies/woi/woi_node_046,woi046_002,Over-flights on the rivers are ready to pick off civs trying to cross. The bridges are wired and blocked by armor.,市民を引き上げる準備をするため川を横断しようとしたが、橋はワイヤーと装甲部隊で閉鎖されていた。
 movies/woi/woi_node_046,woi046_003,"Once we're primed, nothing unsanctioned gets on or off the island.",私たちが呼び出されれば、島は閉鎖されるだろう。
@@ -18068,10 +18068,10 @@ movies/woi/woi_node_047,woi047_003,Hold that ground!,維持しろ！
 movies/woi/woi_node_047,woi047_004,Sir!,了解！
 movies/woi/woi_node_047,woi047_005,Six One! Six One!
 movies/woi/woi_node_047,woi047_006,Radio Command. Tell them the stadium's been compromised.,無線命令。スタジアムがやばいと伝えてくれ。
-movies/woi/woi_node_048,woi048_001,Sir. The Wisemen team is present and ready for the hunt.
-movies/woi/woi_node_048,woi048_002,Good. Send in the Captain.
-movies/woi/woi_node_048,woi048_003,Sir...is it true he caught the last Runner on his own?
-movies/woi/woi_node_048,woi048_004,Not caught. Killed.
+movies/woi/woi_node_048,woi048_001,Sir. The Wisemen team is present and ready for the hunt.,ワイズマンチーム、いつでも出撃できます。
+movies/woi/woi_node_048,woi048_002,Good. Send in the Captain.,よし、隊長を呼んでくれ。
+movies/woi/woi_node_048,woi048_003,Sir...is it true he caught the last Runner on his own?,その……彼が最後のランナーを自ら捕まえたというのは本当なのですか？
+movies/woi/woi_node_048,woi048_004,Not caught. Killed.,捕まえたのではない、射殺した。
 movies/woi/woi_node_049,woi049_001,"Sir, we've got the U.S.S. Reagan on the comm.",空母U.S.S.レーガンからです。
 movies/woi/woi_node_049,woi049_002,This is Palace Command. What's your status Citadel?,こちら、パレス司令部。状況の報告を、シタデル。
 movies/woi/woi_node_049,woi049_003,This is Citadel Command. All hands report stations ready. Jets fueled and ready for over-flight of Control Zone.,こちらシタデル司令部。 部下は各部署準備完了と言っています。 あとは燃料を入れれば管制空域を飛行できます。
@@ -18097,9 +18097,9 @@ movies/woi/woi_node_057,woi057_002,"Approximately 1,000 to 2,500.","おおよそ
 movies/woi/woi_node_057,woi057_003,Total?,合計でか?
 movies/woi/woi_node_057,woi057_004,"No, sir.",いいえ。
 movies/woi/woi_node_057,woi057_004b, Per week.,1週間あたり、です。
-movies/woi/woi_node_058,woi058_001,"It’s likely the target is a Runner. The last we encountered dragged ass across the Southwest United States for weeks, infecting as she went."
-movies/woi/woi_node_058,woi058_002,"Sir, what are our rules of engagement?"
-movies/woi/woi_node_058,woi058_003,"Immediately call in air support and artillery. If it attempts to relocate before the strike, shoot with the heaviest gear you have at hand. And if it’s still kicking after that...leave it to us."
+movies/woi/woi_node_058,woi058_001,"It’s likely the target is a Runner. The last we encountered dragged ass across the Southwest United States for weeks, infecting as she went.",幸運なことに目標はランナーだ。 最後に我々が遭遇した奴は行く先々を感染させながら1週間で南西の方を横断しやがったからな。
+movies/woi/woi_node_058,woi058_002,"Sir, what are our rules of engagement?",遭遇した際はどうすればよろしいですか？
+movies/woi/woi_node_058,woi058_003,"Immediately call in air support and artillery. If it attempts to relocate before the strike, shoot with the heaviest gear you have at hand. And if it’s still kicking after that...leave it to us.",すぐに航空支援と砲兵隊に連絡を取れ。 攻撃する前に配置しなおして、手持ちの中での最大火力をぶちこめ。 そのあとでももし動くようなら……我々に任せろ。
 movies/woi/woi_node_059,woi059_001,It's behavior seems to be changing.,作用が変化してきているようだ。
 movies/woi/woi_node_059,woi059_002,The virus is acting in a manner not consistent with previous outbreaks. We have no idea why.,ウィルスは以前の感染の時とは一致しない。 理由は不明。
 movies/woi/woi_node_059,woi059_003,I've stopped this damn thing before. Stopped it dead. I'll do it again. We've been preparing for this moment for forty years.,私は前にそれを止めたんだ。 全員殺すことで。 もう一度同じことをすればいい。 このために40年も準備してきたんだ。
@@ -18114,11 +18114,11 @@ movies/woi/woi_node_061,woi061_003,"Following operation ALTRUISTIC on 7/7/69, BL
 movies/woi/woi_node_061,woi061_003b,"It is now: detect, conceal and prevent outbreaks of unknown viruses -- both man-modified and natural -- on American soil.",現在：米国本土において人為的、あるいは自然発生的な未確認ウイルスの感染爆発を見抜き、隠ぺい・阻止すること。
 movies/woi/woi_node_061,woi061_004,"BLACKWATCH operates in secret. Officially, they do not exist. Their task is thankless but necessary in this age of modern warfare.",ブラックウォッチ隊は秘密裏に行動する。 公的には彼らは存在しない。 感謝されないが今日の現代戦においては必要なのだ。
 movies/woi/woi_node_061,woi061_004b, You are now one of them.,これより諸君は我々の一員だ。
-movies/woi/woi_node_062,woi062_001,"We knew they were high up. Probably so high up, that to see the office of the President, you had to look down."
-movies/woi/woi_node_062,woi062_002,And what did they have you working on?
-movies/woi/woi_node_062,woi062_003,Viruses. Odd viruses.
-movies/woi/woi_node_062,woi062_004,These viruses...would you classify them as biological weaponry?
-movies/woi/woi_node_062,woi062_005,It would be hard not to.
+movies/woi/woi_node_062,woi062_001,"We knew they were high up. Probably so high up, that to see the office of the President, you had to look down.",彼らがお偉いさんだってことは知っていた。 それこそ大統領府より上にいるかもしれないってことは。
+movies/woi/woi_node_062,woi062_002,And what did they have you working on?,一体何を研究するように言われたんです？
+movies/woi/woi_node_062,woi062_003,Viruses. Odd viruses.,ウィルスさ。初期のウィルス。
+movies/woi/woi_node_062,woi062_004,These viruses...would you classify them as biological weaponry?,そのウィルスは……生物兵器ですか？
+movies/woi/woi_node_062,woi062_005,It would be hard not to.,そうでないとは言えないな。
 movies/woi/woi_node_063,woi063_001,"You’ll hear a lot of crap about where the group started, Lieutenant, but...I’ll give you the lay of the land.",君は本隊創設の理由について色々とつまらんことを言われることになるだろう、大尉。 そうだな……知っておいてもらおうか。
 movies/woi/woi_node_063,woi063_002,Sir.,はい。
 movies/woi/woi_node_063,woi063_003,"Son, how do you fight a war?",戦争とはどう戦うものだ？
@@ -18128,10 +18128,10 @@ movies/woi/woi_node_063,woi063_006,"Hope, Idaho?",アイダホのホープのこ
 movies/woi/woi_node_063,woi063_007,"Hope, Idaho, was just a...sacrificial lamb. A necessary cruelty. Without it, we could not save the world.",アイダホ州ホープはただの……生贄の子羊だ。 必要な犠牲だった。 あれなしでは世界を救えなかっただろう。
 movies/woi/woi_node_063,woi063_008,"I understand, sir.",わかりました。
 movies/woi/woi_node_063,woi063_009,Of course you do. That’s why you’re one of us,当然だ。 だからこそ君は我々の一員なのだ。
-movies/woi/woi_node_064,woi064_001,"It’s 1964, right?"
-movies/woi/woi_node_064,woi064_001b,The Army built a town. They told people it’s to test a self-sufficient base in case of a nuclear attack.
-movies/woi/woi_node_064,woi064_002,They filled the town with a cross-section of ethnicities. Army families from all over. They told them it was progressive.
-movies/woi/woi_node_064,woi064_003,They told them lots of things. And then something happened that was to test their faith.
+movies/woi/woi_node_064,woi064_001,"It’s 1964, right?",1964年、そうだろ？
+movies/woi/woi_node_064,woi064_001b,The Army built a town. They told people it’s to test a self-sufficient base in case of a nuclear attack.,軍が街をつくった。 住人には核攻撃の際に自足するための基地だと説明した。
+movies/woi/woi_node_064,woi064_002,They filled the town with a cross-section of ethnicities. Army families from all over. They told them it was progressive.,街の住人には様々な人種を集めた。 兵隊の家族も集めてな。 軍の奴らは先進的だと言ってたよ。
+movies/woi/woi_node_064,woi064_003,They told them lots of things. And then something happened that was to test their faith.,彼らは住人にたくさんの事を説明した。 それから事件が起きて、彼らは信仰を試される羽目になったのさ。
 movies/woi/woi_node_065,woi065_001,Everyone except the research staff was exposed.,研究員以外の全員が危険にさらされた。
 movies/woi/woi_node_065,woi065_002,The effects -- which most thought would be severe -- never appeared.,しかし重症だろうと予想されていた症状は ―― 現れなかったんだ。
 movies/woi/woi_node_065,woi065_003,"No one could understand why, but the virus seemed to be inert in humans. Until the births.",なぜかは分からないが、ウィルスは人に対して不活性化するものだと思われていた。 あの子が生まれるまでの話だが。
@@ -18158,10 +18158,10 @@ movies/woi/woi_node_071,woi071_003,"The genetic disorders which claimed their li
 movies/woi/woi_node_072,woi072_001,"Greene, Elizabeth A. had known associations with six of the twenty-seven Hope Children. It is unknown if this was the source of her exposure to the DX-1118 variant.",エリザベス A・グリーンは27人のホープの子供たちのうち6人と面識があります。 しかしこの事が彼女のDX-1118変種の感染に影響を与えた原因かどうかは不明です。
 movies/woi/woi_node_072,woi072_002,"What is known is this, Greene’s infection coincides within two days of the death of the last Hope Child:",ただわかっていることは、グリーンの感染は最後のホープの子供が死んで2日間の間と一致していることです。
 movies/woi/woi_node_072,woi072_002b,"Allan, Michael K. DOD...um, 8/6/68. Aged two years, two months.",マイケル K・アラン、死亡したのは……68年8月6日、享年2才2ヶ月です。
-movies/woi/woi_node_073,woi073_001,"Hope, Idaho, was as good a test-bed as we’re ever going to get, without losing everything."
-movies/woi/woi_node_073,woi073_002,And?
-movies/woi/woi_node_073,woi073_003,"This new outbreak is not following the pathology of the virus: too many infections, too wide a spread, too many...surviving entities. Something’s different this time."
-movies/woi/woi_node_073,woi073_004,I know.
+movies/woi/woi_node_073,woi073_001,"Hope, Idaho, was as good a test-bed as we’re ever going to get, without losing everything.",アイダホのホープは我々が全てを失うことなく手に入れられる最高の試験地でした。
+movies/woi/woi_node_073,woi073_002,And?,それで？
+movies/woi/woi_node_073,woi073_003,"This new outbreak is not following the pathology of the virus: too many infections, too wide a spread, too many...surviving entities. Something’s different this time.",今回の感染例では前回のウイルスと同様の症例を示していないのです。 多すぎる感染者、感染の拡大……そして生存者が多すぎる。 何かおかしいのです。
+movies/woi/woi_node_073,woi073_004,I know.,そうだな。
 movies/woi/woi_node_074,woi074_001,"So, what are we looking at here?",それで、ここで何を見てるんだ？
 movies/woi/woi_node_074,woi074_002,A computer projection of the vector spread.,感染拡大のシミュレーションさ。
 movies/woi/woi_node_074,woi074_003,"As you can see, fourteen days out, the model explodes. The spread is extremely wide -- far greater than the Hope outbreak ever achieved.",見ての通り、14日を過ぎると爆発的に増える。 範囲はとてつもなく広がり、ホープとは比べ物にならないぐらいに遠くまでいくな。
@@ -18205,14 +18205,14 @@ movies/woi/woi_node_092,woi092_002,Was he carrying anything?,奴は何か持っ�
 movies/woi/woi_node_092,woi092_003,I don’t know. His laptop. I think he was carrying his laptop.,知らない。 彼のラップトップよ。 そうだったと思うわ。
 movies/woi/woi_node_092,woi092_004,Anything else?,他には？
 movies/woi/woi_node_092,woi092_005,I don’t know. I can’t tell you what I don’t know.,知らない。 知らないことを言えるわけないじゃない。
-movies/woi/woi_node_093,woi093_001,"Parker, Karen I. DOB 1/1/76. Doctorate Genetics, Rutgers University 7/2/2003. Hired Gentek Special Projects 2/1/2002.",カレン・パーカー。 1976年1月1日誕生。 2003年2月7日、ラトガース大学にて遺伝学博士号取得。 2002年2月1日、ジェンテック特別計画へ参加。
+movies/woi/woi_node_093,woi093_001,"Parker, Karen I. DOB 1/1/76. Doctorate Genetics, Rutgers University 7/2/2003. Hired Gentek Special Projects 2/1/2002.",カレン・パーカー。 76年1月1日生まれ。 2003年2月7日、ラトガース大学にて遺伝学博士号取得。 2002年2月1日、ジェンテック特別計画へ参加。
 movies/woi/woi_node_093,woi093_002,"Director: Genotyping. Level D access. Reported to: Director McMullen, Raymond F. Romantically involved with Mercer Alex J. Wanted for questioning.",ディレクター：遺伝子検査の主任科学者。 レベルDアクセス権保有。 レイモンド・F・マクマレン所長の報告によれば、捜索中のアレックス・マーサーと親密だったようだ。
 movies/woi/woi_node_093,woi093_003,Subject has to be detained and transferred to base Six Charlie Alpha One.,目標を拘束し、6CA1基地に移送する必要がある。
-movies/woi/woi_node_094,woi094_001,"On my authority, allow two of the Penn Station bodies to be handed over to...do you have a pen?"
-movies/woi/woi_node_094,woi094_002,Go ahead.
-movies/woi/woi_node_094,woi094_003,St. Paul’s Hospital. The pathologist’s name is Dr. Ragland.
-movies/woi/woi_node_094,woi094_004,"Director McMullen, you understand I need to report this."
-movies/woi/woi_node_094,woi094_005,Just do it.
+movies/woi/woi_node_094,woi094_001,"On my authority, allow two of the Penn Station bodies to be handed over to...do you have a pen?",私の権限で、ペンシルヴァニア駅で出た2体の死体を……ペンを借りても？
+movies/woi/woi_node_094,woi094_002,Go ahead.,どうぞ。
+movies/woi/woi_node_094,woi094_003,St. Paul’s Hospital. The pathologist’s name is Dr. Ragland.,聖パウロ病院に送ってくれ。 病理学者はラグランド医師だ。
+movies/woi/woi_node_094,woi094_004,"Director McMullen, you understand I need to report this.",マクマレン所長、私がこのことを報告する義務があることをご存知ですよね？
+movies/woi/woi_node_094,woi094_005,Just do it.,やっておいてくれ。
 movies/woi/woi_node_095,woi095_001,"Subjects: MCMULLEN, RAYMOND and RAGLAND, BRADLEY. Time 09:09:22.",対象：レイモンド・マクマレンとブラッドリー・ラグランド。09:09:22。
 movies/woi/woi_node_095,woi095_002,Bradley...the corpses from Penn Station are infected with BLACKLIGHT.,ブラッドリー……ペンシルヴァニア駅での死体はブラックライトウィルスに感染している。
 movies/woi/woi_node_095,woi095_003,"I warned you about bringing it into the city, Raymond.",それを街に持ち込んでほしいんだ、レイモンド。
@@ -18309,9 +18309,9 @@ movies/woi/woi_node_153,woi153_003,Don’t sweat it. We won’t even know it whe
 movies/woi/woi_node_155,woi155_001,"Naw, I hear these operators are out of Maryland. Some fuckin’ division or another. Blacker than black, these fucks.",今、こいつらオペレーターはMarylandにいないらしいぜ。 クソったれの部局かなんかめ。 黒よりも真っ黒だな、このクソどもは。
 movies/woi/woi_node_155,woi155_002,"They got no rank, no fuckin’ protocol. They’re fuckin’ barbarians.",奴らには階級もない、クソッタレな作戦計画書もない。 連中はクソッたれの未開人さ。
 movies/woi/woi_node_155,woi155_003,And they’re in charge.,あいつらのせいだ。
-movies/woi/woi_node_168,woi168_001,They burned the damn thing to the ground. With the people in it.
-movies/woi/woi_node_168,woi168_002,Fuck.
-movies/woi/woi_node_168,woi168_003,"This woman comes out on fire, and they just open up on her. And they’re just laughing. I’m telling you, these guys are fucking Nazis, man."
+movies/woi/woi_node_168,woi168_001,They burned the damn thing to the ground. With the people in it.,あいつら、焼きやがった。まだ人が中にいたってのに。
+movies/woi/woi_node_168,woi168_002,Fuck.,くそっ。
+movies/woi/woi_node_168,woi168_003,"This woman comes out on fire, and they just open up on her. And they’re just laughing. I’m telling you, these guys are fucking Nazis, man.",この女性は炎から逃げて来たってのにあいつら撃ちやがった。 それで笑ったんだ。 これだけは言っとく、あいつらは鼻クソ野郎だ。
 movies/woi/woi_node_169,woi169_001,Are you telling me Washington can’t do anything? They’re declaring Martial Law! Don’t they need...?,ワシントンは何もできないと言うのか？ 戒厳令を宣言してるんだぞ！ 必要ないってのか……？
 movies/woi/woi_node_169,woi169_002,"Listen to me Harvey, they don’t need anything. They’re in charge. They’ve been doing this for years. To them this is just status quo.",ハービー聞いてくれ、何もしてほしくないんだ。 これが彼らの義務なんだ。このために何年も過ごしてきたんだよ。 彼らにとってこれは現実なんだ。
 movies/woi/woi_node_169,woi169_003,This telephone call has been interrupted for national security reasons under the Emergency Powers act.,この通話は非常権限体制下における国家安全保障上の理由により、遮断されます。
@@ -18352,13 +18352,13 @@ movies/woi/woi_node_190,woi190_007,...and I just made General Officer.,そして
 movies/woi/woi_node_201,woi201_001,I’ve been through three wars in this tank. I can move through city streets or open desert -- ain’t nothing that can stop her.,この戦車で3つの戦場を切り抜けてきた。 街道、砂漠、どこでも移動できる。 止められるものなんてないさ。
 movies/woi/woi_node_201,woi201_002,"And if anything gets in my way...well, damn, *laughs* I just go over it.",もし何かが道を塞いでるってのなら……（笑う）踏みつぶしてやるよ。
 movies/woi/woi_node_207,woi207_001,"Welcome to the Marine Armor Training Center. There are nineteen major systems in this Marine Armored Personnel Carrier and over 25,000 moving parts.","ようこそ海兵隊装甲車両訓練所へ。 ここには19種の主要な海兵隊装甲車両が25,000以上も運用されている。"
-movies/woi/woi_node_207,woi207_002,"In the next eight months, you will learn ALL of them.",これからの9ヶ月間、諸君にはこれら全てを学んでもらう。
+movies/woi/woi_node_207,woi207_002,"In the next eight months, you will learn ALL of them.",これからの8ヶ月間、諸君にはこれら全てを学んでもらう。
 movies/woi/woi_node_207,woi207_003,"When you’re done here, you’ll be able to park that vehicle on top of an enemy position and blow the shit out of them. It’s my job to get your shit in order. ",それが全て済んだ時には、諸君は敵陣地で装甲車を駆りクソったれをぶちのめせるだろう。 それをお前らにご教授してやるのが俺の仕事だ。
 movies/woi/woi_node_207,woi207_003b,It's your job to shut the fuck up and learn.,で、お前らの仕事はこれを黙って脳ミソにブチ込むことだ。
-movies/woi/woi_node_208,woi208_001,This briefing is Class A One. The Federal Emergency Prosecution Act applies.
-movies/woi/woi_node_208,woi208_002,This is the situation as we understand it: The virus is centering around structures in the city we’ve designated HIVES.
-movies/woi/woi_node_208,woi208_003,"The infected gather biological material at these strong-points for unknown reasons, possibly to generate new strains of the outbreak."
-movies/woi/woi_node_208,woi208_004,"What we do know is this: the integrity of the building is stronger, but not immune to attack. A sustained attack of sufficient force on a Hive should destroy it."
+movies/woi/woi_node_208,woi208_001,This briefing is Class A One. The Federal Emergency Prosecution Act applies.,このブリーフィングはA-1クラスだ。 合衆国の危機における実行行動に当てはまる。
+movies/woi/woi_node_208,woi208_002,This is the situation as we understand it: The virus is centering around structures in the city we’ve designated HIVES.,現状はこうだ。 ウィルスは街の建物を中心にして広がっている。 その建物を以後ハイヴと呼ぶ。
+movies/woi/woi_node_208,woi208_003,"The infected gather biological material at these strong-points for unknown reasons, possibly to generate new strains of the outbreak.",感染者は理由は不明だがそこを拠点に生体物質を集めている。 そいつを爆発させることで新種の創造も可能かもしれん。
+movies/woi/woi_node_208,woi208_004,"What we do know is this: the integrity of the building is stronger, but not immune to attack. A sustained attack of sufficient force on a Hive should destroy it.",我々に分かっていることは、建物は丈夫になっているが攻撃が効かないわけではない。 十分に火力を集中させればハイヴは破壊できるということだ。
 movies/woi/woi_node_209,woi209_001,We know Zeus has been spotted multiple times in this area and we're breaking out some new tech to pin him down.,ゼウスの姿はこのエリアで何回も確認されています。 そこで、奴を仕留めるために、新たな技術を導入しました。
 movies/woi/woi_node_209,woi209_002,"This Unmanned Aerial Vehicle can detect the virus at less than ten parts per million in open air. With it, we should be able to box Zeus in and destroy it.",この無人飛行体は、大気中の濃度10ppm以下のウイルスを検知できます。 これがあれば、ゼウスを追い詰めて、仕留められるはずです。
 movies/woi/woi_node_211,woi211_001,"The outbreaks seem to be centered around these areas. The focus, as we’ve seen, seems to be these buildings.",集団感染の発生は、このエリアの中心にあるようだ。 我々が見てきたように、感染源はこのあたりの建物のようだ。
