@@ -1,5 +1,5 @@
 path,key,english,japanese
-Audio/english/AudioFile/0/0/00001f28,english,Fucking cut you! Cut you!
+Audio/english/AudioFile/0/0/00001f28,english,Fucking cut you! Cut you!,あんたをぶった切ってやる！
 Audio/english/AudioFile/0/0/00090df8,english,Get back!,下がれ！
 Audio/english/AudioFile/0/0/000a1e13,english,Team B on deck. Engaging,チームBはデッキにいる。 戦闘中。
 Audio/english/AudioFile/0/0/000bc028,english,Break his fuckin' legs.,奴の足を狙え。
@@ -9,7 +9,7 @@ Audio/english/AudioFile/0/0/001055ec,english,Is that the same guy?,同じ男か�
 Audio/english/AudioFile/0/0/0015411d,english,Noooooo!,うわああああ！
 Audio/english/AudioFile/0/0/001673ed,english,Down! Down!,やれ！ やれ！
 Audio/english/AudioFile/0/0/001badb6,english,*argh*
-Audio/english/AudioFile/0/0/001bb855,english,What?  They’re using my DNA to track me down? That must be why they took Dana… But I know were she is.  Time to get her back!,なに？ 奴らは俺のDNAを使って追跡している？ それがディナが連れ去れれた理由に違いない……。 だが俺は彼女がどこにいるか知っている。 彼女を取り戻すぞ！
+Audio/english/AudioFile/0/0/001bb855,english,What?  They’re using my DNA to track me down? That must be why they took Dana… But I know were she is.  Time to get her back!,なに？ 奴らは俺のDNAを使って追跡している？ それがディナが連れ去られた理由に違いない……。 だが俺は彼女がどこにいるか知っている。 彼女を取り戻すぞ！
 Audio/english/AudioFile/0/0/0027a3ae,english,It's out of control!,制御できない！
 Audio/english/AudioFile/0/0/0029763d,english,"All Teams, we're going to have to gang up on it, over.",全隊、一斉に行動する、どうぞ。
 Audio/english/AudioFile/0/0/002d8139,english,Should we do it? What do we do?,そうすべきなのか？ 何をすべきなんだ？
@@ -28,7 +28,7 @@ Audio/english/AudioFile/0/0/0068022d,english,*grunts* I can't see for shit -- is
 Audio/english/AudioFile/0/0/006929ae,english,This area is clear! We can take it from here.,このエリアはクリアだ！ 落ち着け。
 Audio/english/AudioFile/0/0/00697e89,english,*choke*
 Audio/english/AudioFile/0/0/006a1c97,english,It's coming from that vehicle!,乗り物でやってくるぞ！
-Audio/english/AudioFile/0/0/006cb57d,english,If I go inside before I take a look around they could ambush me again. I can't afford to take that risk.,辺りを確認せずに中に入れば、やつらはまた待ち伏せするかもしれない。 そんなリスクを冒している余裕はない。
+Audio/english/AudioFile/0/0/006cb57d,english,If I go inside before I take a look around they could ambush me again. I can't afford to take that risk.,辺りを確認せずに中に入れば、奴らはまた待ち伏せするかもしれない。 そんなリスクを冒している余裕はない。
 Audio/english/AudioFile/0/0/006e5ac5,english,"Aerial indicates west, your west perimeter has hostiles. Out."
 Audio/english/AudioFile/0/0/0076cc59,english,"All units, pull out now!",全ユニット、ただちに出撃！
 Audio/english/AudioFile/0/0/007b2afd,english,"Somebody, please help me? For the love of God....",誰か、助けてくれないか？ 神の愛のために……。
@@ -39,20 +39,20 @@ Audio/english/AudioFile/0/0/008a5197,english,*croak*
 Audio/english/AudioFile/0/0/0093f9fd,english,Hold fire! I'm your Sergeant!,打ち続けろ！ 俺は軍曹だぞ！
 Audio/english/AudioFile/0/0/00a1106a,english,Clip him!,奴を足止めしろ！
 Audio/english/AudioFile/0/0/00a1a98e,english,"Please, it's my boy's birthday tomorrow!",お願い、明日は息子の誕生日なの！
-Audio/english/AudioFile/0/0/00a3861c,english,"All units, Command requesting flood and cover in the Zone, over. "
+Audio/english/AudioFile/0/0/00a3861c,english,"All units, Command requesting flood and cover in the Zone, over. ",全部隊その地域を制圧し保持せよ。
 Audio/english/AudioFile/0/0/00a6ba93,english,"God-mode, God-mode, cowboy up, he's right here, right now."
 Audio/english/AudioFile/0/0/00ae415e,english,Zone appears clear. No sign of hostile.,ここはクリアだ。 敵の影はない。
 Audio/english/AudioFile/0/0/00b6ea9d,english,"Got him! Ground, confirm that kill, over.",奴を捕らた！ 地面だ、殺傷を確認しろ、どうぞ。
 Audio/english/AudioFile/0/0/00b7301f,english,"Guys, the son of a bitch is back.",おまえら、くそったれが帰ってきたぞ。
-Audio/english/AudioFile/0/0/00bbbffe,english,"Tornado Seven, going down hard!"
-Audio/english/AudioFile/0/0/00bd9b0e,english,"No, i-i-it's cool. I-I-I'm not it!"
+Audio/english/AudioFile/0/0/00bbbffe,english,"Tornado Seven, going down hard!",トルネードセブン、急降下しろ！
+Audio/english/AudioFile/0/0/00bd9b0e,english,"No, i-i-it's cool. I-I-I'm not it!",違う、と、ととてもクールだ。 お、おおれはそいつじゃない！
 Audio/english/AudioFile/0/0/00c1c98c,english,"That's affirmative, target destroyed, over.",賛成だ、ターゲットは破壊された、どうぞ。
 Audio/english/AudioFile/0/0/00c3d090,english,Fuck! Fuck you!,このっ！ このやろう！
 Audio/english/AudioFile/0/0/00ca2d92,english,We're in deep here. Mat it!
 Audio/english/AudioFile/0/0/00cc5b5a,english,I think I see him! There!,奴を発見したと思われる！ そこだ！
 Audio/english/AudioFile/0/0/00e20f6a,english,"Please! Don't kill me, man! Please!",おねがい！ 殺さないでください！ おねがい！
 Audio/english/AudioFile/0/0/00e24abd,english,"Everyone, sustain fire on my target!",全員、あのターゲットを撃ち続けろ！
-Audio/english/AudioFile/0/0/00e9c4bb,english,"Police, there's your man!"
+Audio/english/AudioFile/0/0/00e9c4bb,english,"Police, there's your man!",警官、あそこにいる！
 Audio/english/AudioFile/0/0/00f8a3a2,english,"Just let me live, and you'll never see me again.",見逃して、もう二度と姿を見せないで。
 Audio/english/AudioFile/0/0/00fd186f,english,"Red sighting, permission to engage, over."
 Audio/english/AudioFile/0/1/01001655,english,"Firing Pod One, torch is lit, over "
@@ -70,53 +70,53 @@ Audio/english/AudioFile/0/1/0137624c,english,"Not so fast, you son of a bitch."
 Audio/english/AudioFile/0/1/01421125,english,Something's helping them - is it Zeus...?
 Audio/english/AudioFile/0/1/01433f74,english,Take him down!
 Audio/english/AudioFile/0/1/0147d538,english,Nearly shit myself.
-Audio/english/AudioFile/0/1/015bd691,english,Not yet.
+Audio/english/AudioFile/0/1/015bd691,english,Not yet.,まだ。
 Audio/english/AudioFile/0/1/015d5677,english,Was anybody hurt?
-Audio/english/AudioFile/0/1/015f22fa,english,Please! Stop!
+Audio/english/AudioFile/0/1/015f22fa,english,Please! Stop!,お願い、止まって！
 Audio/english/AudioFile/0/1/0167736e,english,"All units mobile, ETA on Target Zone T-minus-thirty seconds."
 Audio/english/AudioFile/0/1/016aa838,english,That's one less pain in the fuckin' ass.
 Audio/english/AudioFile/0/1/01762572,english,I'll be damned.
 Audio/english/AudioFile/0/1/017ec4f5,english,"No sign of target, Red Crown."
 Audio/english/AudioFile/0/1/018188b3,english,Ahhhh! Shit!
 Audio/english/AudioFile/0/1/0183d503,english,That's far enough! Now get down on the ground!
-Audio/english/AudioFile/0/1/01844bd6,english,Can anyone help! I need help!
+Audio/english/AudioFile/0/1/01844bd6,english,Can anyone help! I need help!,誰か助けて！ 助けが必要なの！
 Audio/english/AudioFile/0/1/01848801,english,"Voodoo Seven, going down!"
 Audio/english/AudioFile/0/1/018b5776,english,"In your Zone, Dogs! Fuck em up!"
 Audio/english/AudioFile/0/1/018cbf46,english,"You'll love this, we got burners on our optical, over."
-Audio/english/AudioFile/0/1/019048ea,english,Save yourselves!
-Audio/english/AudioFile/0/1/019750ce,english,"Save some of the city, gunner, aim at moving targets only."
-Audio/english/AudioFile/0/1/019de58b,english,Unit down!
-Audio/english/AudioFile/0/1/019eb474,english,"Help me! Help! Call the cops! Somebody, call the cops!"
-Audio/english/AudioFile/0/1/01a150f3,english,"There it is! Going in. Get ready, guys."
-Audio/english/AudioFile/0/1/01b144c4,english,"Standby, onsite. Red Crown, please accept priority target location, aerial Support Team requested, priority auth Delta Two Four."
-Audio/english/AudioFile/0/1/01b6d11b,english,He's making a run for it!
-Audio/english/AudioFile/0/1/01bb66f4,english,Fucker's down!
-Audio/english/AudioFile/0/1/01c105c1,english,"Pull us out, Red Crown, just about lost the Bird, over."
-Audio/english/AudioFile/0/1/01c5cc07,english,Move it!
-Audio/english/AudioFile/0/1/01cb76be,english,"Oh, Jesus! Jesus! Guys! Help!"
+Audio/english/AudioFile/0/1/019048ea,english,Save yourselves!,生きろ！
+Audio/english/AudioFile/0/1/019750ce,english,"Save some of the city, gunner, aim at moving targets only.",ガンナー、狙うのは動いている物だけにしろ。
+Audio/english/AudioFile/0/1/019de58b,english,Unit down!,ユニットダウン！
+Audio/english/AudioFile/0/1/019eb474,english,"Help me! Help! Call the cops! Somebody, call the cops!",助けて！ 助けて！ 警察を呼んで！ 誰か警察を！
+Audio/english/AudioFile/0/1/01a150f3,english,"There it is! Going in. Get ready, guys.",あそこだ! 全員交戦準備！
+Audio/english/AudioFile/0/1/01b144c4,english,"Standby, onsite. Red Crown, please accept priority target location, aerial Support Team requested, priority auth Delta Two Four.",スタンバイオンサイト。 レッドクラウン航空支援を要求する。 優先認証デルタツーフォー！
+Audio/english/AudioFile/0/1/01b6d11b,english,He's making a run for it!,奴は逃げているぞ！
+Audio/english/AudioFile/0/1/01bb66f4,english,Fucker's down!,クソ野郎は動かなくなったぜ！
+Audio/english/AudioFile/0/1/01c105c1,english,"Pull us out, Red Crown, just about lost the Bird, over.",チッ見失った……。 レッドクラウン、目標を見失いましたオーバー。
+Audio/english/AudioFile/0/1/01c5cc07,english,Move it!,行け！
+Audio/english/AudioFile/0/1/01cb76be,english,"Oh, Jesus! Jesus! Guys! Help!",ああっくそっ！ くそっ！ おい！ 助けてくれ！
 Audio/english/AudioFile/0/1/01d2b216,english,Clear out of here -- now!
-Audio/english/AudioFile/0/1/01d3ff43,english,What the hell. What’s...wrong with 'em. FUCK!
-Audio/english/AudioFile/0/1/01db029f,english,"No. Negative, over."
-Audio/english/AudioFile/0/1/01dd9a7e,english,Keep shooting! Bring it down!
+Audio/english/AudioFile/0/1/01d3ff43,english,What the hell. What’s...wrong with 'em. FUCK!,何だよ、何が起きたってんだ！ くそっ！
+Audio/english/AudioFile/0/1/01db029f,english,"No. Negative, over.",ネガティブ、オーバー。
+Audio/english/AudioFile/0/1/01dd9a7e,english,Keep shooting! Bring it down!,撃ち続けろ！
 Audio/english/AudioFile/0/1/01e3ad0c,english,Something to kill? SADDLE UP!
 Audio/english/AudioFile/0/1/01e4bf4d,english,"We've come up dry, Red Crown. Chalk Three awaiting new orders."
 Audio/english/AudioFile/0/1/01e5c0aa,english,It's time to get tough.
 Audio/english/AudioFile/0/1/01ee69e9,english,Voodoo Seven is out. Negative on target reacquisition.
-Audio/english/AudioFile/0/1/01f51a5a,english,"Please! Oh, I-I want to live!"
+Audio/english/AudioFile/0/1/01f51a5a,english,"Please! Oh, I-I want to live!",お願い、生きたいんだ！
 Audio/english/AudioFile/0/1/01f7daf3,english,It became someone else!
 Audio/english/AudioFile/0/1/01f81732,english,"Flak, request Six check, over."
 Audio/english/AudioFile/0/1/01f948b9,english,"Just shut up, shut up."
 Audio/english/AudioFile/0/1/01f9f40e,english,US Marine Corps! What happened here?
-Audio/english/AudioFile/0/1/01fb5b8b,english,Keep shooting till it's dead and gone.
+Audio/english/AudioFile/0/1/01fb5b8b,english,Keep shooting till it's dead and gone.,ちゃんととどめを刺せ。
 Audio/english/AudioFile/0/1/01fee932,english,"Enemy has been annihilated, HQ. We wiped 'em up."
-Audio/english/AudioFile/0/2/0203daa6,english,"Please, don't shoot!"
+Audio/english/AudioFile/0/2/0203daa6,english,"Please, don't shoot!",お願いだ撃たないでくれ！
 Audio/english/AudioFile/0/2/020c7f64,english,"It's going down, going down!"
 Audio/english/AudioFile/0/2/021035b4,english,"Man, that's gotta be him!"
-Audio/english/AudioFile/0/2/02150b1f,english,Call the police!
+Audio/english/AudioFile/0/2/02150b1f,english,Call the police!,警察官を呼んでくれ！
 Audio/english/AudioFile/0/2/0217c841,english,*croak*
-Audio/english/AudioFile/0/2/02214405,english,They're infected with that thing.
-Audio/english/AudioFile/0/2/02256aea,english,Don't let him fool you!
-Audio/english/AudioFile/0/2/02261980,english,Help! Help! I have someone trapped here!
+Audio/english/AudioFile/0/2/02214405,english,They're infected with that thing.,彼らは既に感染している
+Audio/english/AudioFile/0/2/02256aea,english,Don't let him fool you!,彼に騙されてはいけない!
+Audio/english/AudioFile/0/2/02261980,english,Help! Help! I have someone trapped here!,助けて！ 助けて！ 誰かに閉じ込められた！
 Audio/english/AudioFile/0/2/022a00ae,english,Get a picture of me with this fucking thing.
 Audio/english/AudioFile/0/2/02340af9,english,Fuckin' punks....
 Audio/english/AudioFile/0/2/0234977d,english,"Strike Leader reporting target down, over."
@@ -219,7 +219,7 @@ Audio/english/AudioFile/0/3/03caf364,english,"10-16! Military call sign Red Crow
 Audio/english/AudioFile/0/3/03cb83f0,english,"Reporting strike target, do you copy?"
 Audio/english/AudioFile/0/3/03d07952,english,Don't be fucking stupid! It's not me!
 Audio/english/AudioFile/0/3/03d127e8,english,Gun! Gun!
-Audio/english/AudioFile/0/3/03d25811,english,They keep coming - I'll keep killing.,やつらが死に果てるまで ―― 殺し続けてやる。
+Audio/english/AudioFile/0/3/03d25811,english,They keep coming - I'll keep killing.,奴らが死に果てるまで ―― 殺し続けてやる。
 Audio/english/AudioFile/0/3/03d2f9b2,english,"Get back on the road -- we're compromised, get mobile!"
 Audio/english/AudioFile/0/3/03d50f2b,english,Sergeant...I think we got something here.
 Audio/english/AudioFile/0/3/03dab0c1,english,"ZEUS is down, repeat, ZEUS is down!"
@@ -702,7 +702,7 @@ Audio/english/AudioFile/0/c/0cb3cd07,english,"You don't have to do this this way
 Audio/english/AudioFile/0/c/0cb8de0c,english,Hit it in the back! Fuckin' hit it!
 Audio/english/AudioFile/0/c/0cba4cc7,english,What are you doing?
 Audio/english/AudioFile/0/c/0cc89908,english,Get out of my way!
-Audio/english/AudioFile/0/c/0cd148f6,english,"Losing control, repeat, losing control!"
+Audio/english/AudioFile/0/c/0cd148f6,english,"Losing control, repeat, losing control!",操作不能、繰り返す、操作不能！
 Audio/english/AudioFile/0/c/0cd35439,english,We’ve got a positive LOCK!
 Audio/english/AudioFile/0/c/0ce00131,english,Yeah...OK.
 Audio/english/AudioFile/0/c/0ce0679f,english,"Alright, alright -- enough, moron!"
@@ -886,68 +886,68 @@ Audio/english/AudioFile/0/f/0fe732a4,english,Holy God.
 Audio/english/AudioFile/0/f/0fe85b6b,english,Jesus Christ!
 Audio/english/AudioFile/0/f/0fed5169,english,"Too close, man."
 Audio/english/AudioFile/0/f/0ff744f9,english,Holy shit!
-Audio/english/AudioFile/1/0/10045df1,english,Time to end this thing.
+Audio/english/AudioFile/1/0/10045df1,english,Time to end this thing.,こいつを終わらせる時だ。
 Audio/english/AudioFile/1/0/1004f715,english,Open fire!,撃て！
-Audio/english/AudioFile/1/0/1006d118,english,"All teams, sweep terminated. Visit nearest of Citadel or Palace for fuel and ammo, over."
-Audio/english/AudioFile/1/0/100a058f,english,Ready to go!
+Audio/english/AudioFile/1/0/1006d118,english,"All teams, sweep terminated. Visit nearest of Citadel or Palace for fuel and ammo, over.",全チーム、索敵は終わりだ。 最寄りのCitadelかPalaceで燃料と弾薬を補給せよ。
+Audio/english/AudioFile/1/0/100a058f,english,Ready to go!,行くぞ！
 Audio/english/AudioFile/1/0/10118c5a,english,Rip it to shreds!,バラバラにしてやる！
-Audio/english/AudioFile/1/0/1019c318,english,Let 'em go!
+Audio/english/AudioFile/1/0/1019c318,english,Let 'em go!,ぶっこめ！
 Audio/english/AudioFile/1/0/101a3599,english,"Well, well, look who's back for more. "
-Audio/english/AudioFile/1/0/101a7b1b,english,In the fuckin' DIRT!
-Audio/english/AudioFile/1/0/1020e895,english,*coughing* Someone get me some help!
+Audio/english/AudioFile/1/0/101a7b1b,english,In the fuckin' DIRT!,くそったれ！
+Audio/english/AudioFile/1/0/1020e895,english,*coughing* Someone get me some help!,*coughing* 誰か助けてくれ！
 Audio/english/AudioFile/1/0/10227079,english,"Putting them in. No fear! Go, go, go!"
-Audio/english/AudioFile/1/0/10238b34,english,"Hostile down, mission complete, do you copy?"
-Audio/english/AudioFile/1/0/10271b8c,english,I don't want to go out like this.
-Audio/english/AudioFile/1/0/102d788e,english,"That's a hit. Check for hull damage, over.",攻撃された。 船体に損傷が無いか調べてくれ、オーバ
-Audio/english/AudioFile/1/0/1035c636,english,"Colonel, we have a situation...."
-Audio/english/AudioFile/1/0/1037a6a6,english,Another one down.
+Audio/english/AudioFile/1/0/10238b34,english,"Hostile down, mission complete, do you copy?",ターゲットダウン！ 任務完了だ。 聞こえたか？
+Audio/english/AudioFile/1/0/10271b8c,english,I don't want to go out like this.,ああはなりたくないな。
+Audio/english/AudioFile/1/0/102d788e,english,"That's a hit. Check for hull damage, over.",攻撃された。 船体に損傷が無いか調べてくれ、オーバー。
+Audio/english/AudioFile/1/0/1035c636,english,"Colonel, we have a situation....",大佐、状況発生です。
+Audio/english/AudioFile/1/0/1037a6a6,english,Another one down.,もう一丁！
 Audio/english/AudioFile/1/0/103c03da,english,Are they diseased?,彼らは病気ですか？
 Audio/english/AudioFile/1/0/10407649,english,Hurry up!,急げ！
-Audio/english/AudioFile/1/0/10455a66,english,Fuckin' move it!
-Audio/english/AudioFile/1/0/10459844,english,How's the mission going?
-Audio/english/AudioFile/1/0/104d0fb6,english,Something happen there? You see that?
-Audio/english/AudioFile/1/0/105b48b5,english,No units are reporting acquisition.
+Audio/english/AudioFile/1/0/10455a66,english,Fuckin' move it!,クソ！ 動け！
+Audio/english/AudioFile/1/0/10459844,english,How's the mission going?,この任務はどうなるんだ？
+Audio/english/AudioFile/1/0/104d0fb6,english,Something happen there? You see that?,今の見たか？ 一体、何が起こったんだ？
+Audio/english/AudioFile/1/0/105b48b5,english,No units are reporting acquisition.,どのユニットからも報告がありません。
 Audio/english/AudioFile/1/0/105be2c5,english,Motherfucker's think their shit comes out wrapped in ribbons.
 Audio/english/AudioFile/1/0/10636151,english,"That is a kill, feed us a new target co-ord. "
-Audio/english/AudioFile/1/0/106a3242,english,Situation update?
-Audio/english/AudioFile/1/0/106ad415,english,Target located!
-Audio/english/AudioFile/1/0/10702cc3,english,"Affirmative, Tac Five."
-Audio/english/AudioFile/1/0/107390e4,english,Please do not panic! The situation is under control!
+Audio/english/AudioFile/1/0/106a3242,english,Situation update?,状況は？
+Audio/english/AudioFile/1/0/106ad415,english,Target located!,ターゲット発見！
+Audio/english/AudioFile/1/0/10702cc3,english,"Affirmative, Tac Five.",Tac Five、了解です。
+Audio/english/AudioFile/1/0/107390e4,english,Please do not panic! The situation is under control!,落ち着け！ 状況は制御できている！
 Audio/english/AudioFile/1/0/10788646,english,I'm NOT taking this today!
 Audio/english/AudioFile/1/0/1084fecb,english,"Damn you, Taggart. Damn you for making me do this."
-Audio/english/AudioFile/1/0/10851e16,english,"Strike Team request, bring it now!"
-Audio/english/AudioFile/1/0/108e0cd7,english,"Looking good, people. We're clean and smiling here, Control."
-Audio/english/AudioFile/1/0/108e5e6e,english,"Base Delta has repelled hostile attack. We are hanging tough, out."
-Audio/english/AudioFile/1/0/10910cbe,english,"Ghost Four Five switching to recon, over."
-Audio/english/AudioFile/1/0/10929cb6,english,"Evasive, evasive!"
-Audio/english/AudioFile/1/0/1098a62f,english,"Shut up down there, clear this channel. "
-Audio/english/AudioFile/1/0/109aad48,english,Coming through!
-Audio/english/AudioFile/1/0/10a68a70,english,"Blue-on-blue, you fucking asshole."
-Audio/english/AudioFile/1/0/10a88ab7,english,Fuck -- they're everywhere.
-Audio/english/AudioFile/1/0/10ab2034,english,Impossible to pinpoint the enemy!
+Audio/english/AudioFile/1/0/10851e16,english,"Strike Team request, bring it now!",Strike Teamへ要請、今すぐこいつを持っていけ！
+Audio/english/AudioFile/1/0/108e0cd7,english,"Looking good, people. We're clean and smiling here, Control.",よし、我々は安全だ。
+Audio/english/AudioFile/1/0/108e5e6e,english,"Base Delta has repelled hostile attack. We are hanging tough, out.",Base Deltaは敵の攻撃を退けた。 我々は耐えぬいた。以上。
+Audio/english/AudioFile/1/0/10910cbe,english,"Ghost Four Five switching to recon, over.",Ghost Four Five、索敵行動に移行する。 以上。
+Audio/english/AudioFile/1/0/10929cb6,english,"Evasive, evasive!",回避！ 回避だ！！
+Audio/english/AudioFile/1/0/1098a62f,english,"Shut up down there, clear this channel. ",黙れ！ この無線チャンネルで騒ぐな！
+Audio/english/AudioFile/1/0/109aad48,english,Coming through!,来るぞ！
+Audio/english/AudioFile/1/0/10a68a70,english,"Blue-on-blue, you fucking asshole.",Blue-on-blue、貴様はクソったれだ！
+Audio/english/AudioFile/1/0/10a88ab7,english,Fuck -- they're everywhere.,ちくしょう！ ―― 奴らはどこだ。
+Audio/english/AudioFile/1/0/10ab2034,english,Impossible to pinpoint the enemy!,敵を補足できねえ！
 Audio/english/AudioFile/1/0/10acb749,english,Red Crown to all Command Units. Be advised Recoil is a  wash out. Sigma units compromised. Infected target still at large. Out.
-Audio/english/AudioFile/1/0/10b3e3da,english,"Stalker Six Zero, repeat, acknowledge last transmission."
-Audio/english/AudioFile/1/0/10b92775,english,Eat me.
-Audio/english/AudioFile/1/0/10c0a173,english,"Fuck you, buddy!"
-Audio/english/AudioFile/1/0/10cabe6a,english,"All teams: hold your positions. Clear on contact, over."
+Audio/english/AudioFile/1/0/10b3e3da,english,"Stalker Six Zero, repeat, acknowledge last transmission.",Stalker Six Zero、通信了解。
+Audio/english/AudioFile/1/0/10b92775,english,Eat me.,うせろ。
+Audio/english/AudioFile/1/0/10c0a173,english,"Fuck you, buddy!",クソったれ！
+Audio/english/AudioFile/1/0/10cabe6a,english,"All teams: hold your positions. Clear on contact, over.",全隊員、そこを動くな。 何にも触れるな。 以上。
 Audio/english/AudioFile/1/0/10cdf5bf,english,Eyes on the prize. Car wrecks are a distraction.
 Audio/english/AudioFile/1/0/10d79483,english,*gasping*
-Audio/english/AudioFile/1/0/10d9706f,english,Hold it! That's far enough!
-Audio/english/AudioFile/1/0/10dbb4ca,english,Wow. What is that shit? We can't put a dent in it!
-Audio/english/AudioFile/1/0/10e4d63a,english,"Aww, Shit!"
-Audio/english/AudioFile/1/0/10e7228b,english,Fuck this shit.
-Audio/english/AudioFile/1/0/10e796d2,english,Don't kill them!
+Audio/english/AudioFile/1/0/10d9706f,english,Hold it! That's far enough!,待て！ 遠すぎる！
+Audio/english/AudioFile/1/0/10dbb4ca,english,Wow. What is that shit? We can't put a dent in it!,クソ！ ありゃなんだ？ へこますこともできねえ！
+Audio/english/AudioFile/1/0/10e4d63a,english,"Aww, Shit!",ああ、くそったれ！
+Audio/english/AudioFile/1/0/10e7228b,english,Fuck this shit.,このクソ！
+Audio/english/AudioFile/1/0/10e796d2,english,Don't kill them!,奴らを殺すな！
 Audio/english/AudioFile/1/0/10eea272,english,Get back!,下がれ！
-Audio/english/AudioFile/1/0/10fa9bca,english,"Status report, status report! Fire platoon?"
+Audio/english/AudioFile/1/0/10fa9bca,english,"Status report, status report! Fire platoon?",状況報告、状況報告だ！ 誰か撃ったか？
 Audio/english/AudioFile/1/0/10fdb33d,english,*choke*
-Audio/english/AudioFile/1/1/11049bef,english,"Rendezvous at vector Four Zero Five, over."
-Audio/english/AudioFile/1/1/110a0712,english,Take him down.
-Audio/english/AudioFile/1/1/1115add3,english,Unidentified personnel! Take him down!
+Audio/english/AudioFile/1/1/11049bef,english,"Rendezvous at vector Four Zero Five, over.",Four Zero Five、vectorで集合だ。 以上。
+Audio/english/AudioFile/1/1/110a0712,english,Take him down.,奴を倒せ！
+Audio/english/AudioFile/1/1/1115add3,english,Unidentified personnel! Take him down!,不審者発見！ 奴を倒せ！
 Audio/english/AudioFile/1/1/111a1c17,english,We're wearing 'em! We're wearing down!
-Audio/english/AudioFile/1/1/111eb1f0,english,Cut it out!
-Audio/english/AudioFile/1/1/112ec1ba,english,Look out!
-Audio/english/AudioFile/1/1/1135ff9d,english,Lookout!
-Audio/english/AudioFile/1/1/113c73eb,english,"What the fuck, man?"
+Audio/english/AudioFile/1/1/111eb1f0,english,Cut it out!,カットしろ！
+Audio/english/AudioFile/1/1/112ec1ba,english,Look out!,気をつけろ！
+Audio/english/AudioFile/1/1/1135ff9d,english,Lookout!,気をつけろ！
+Audio/english/AudioFile/1/1/113c73eb,english,"What the fuck, man?",あのクソ野郎は何だ？
 Audio/english/AudioFile/1/1/113e4d9b,english,"Upload scanner data and give Red Crown a report, over."
 Audio/english/AudioFile/1/1/114184f0,english,You're not fuckin' classified for this region.
 Audio/english/AudioFile/1/1/11490ba6,english,"Clear the Zone, ready ordnance."
@@ -1315,7 +1315,7 @@ Audio/english/AudioFile/1/7/17c33463,english,Target still mobile!
 Audio/english/AudioFile/1/7/17cb6894,english,"Who? Oh, shit!"
 Audio/english/AudioFile/1/7/17cc2099,english,"Holy shit -- guys, anybody see anything? Guys?"
 Audio/english/AudioFile/1/7/17d28e13,english,Don't let them touch you!
-Audio/english/AudioFile/1/7/17d415f7,english,"Taking us out! Hold on, we're moving."
+Audio/english/AudioFile/1/7/17d415f7,english,"Taking us out! Hold on, we're moving.",我々は離脱する。 掴まって下さい。 移動します。
 Audio/english/AudioFile/1/7/17d530b2,english,"No point, Red Crown.... Bring the Package home."
 Audio/english/AudioFile/1/7/17e33348,english,Hostage! Shoot! Shoot!
 Audio/english/AudioFile/1/7/17e94c24,english,"Negative, negative. Take positions."
@@ -1771,7 +1771,7 @@ Audio/english/AudioFile/1/f/1fd6dbe0,english,Motherfuck!
 Audio/english/AudioFile/1/f/1fdbd142,english,You don't have to kill me. Serve and protect!
 Audio/english/AudioFile/1/f/1fdcacf5,english,"Just ghosts. That's a negative on contact, Control."
 Audio/english/AudioFile/1/f/1fdd5b8c,english,Stop that!
-Audio/english/AudioFile/1/f/1fe385fd,english,"OK, people - we're clean across the board. McMullen inbound."
+Audio/english/AudioFile/1/f/1fe385fd,english,"OK, people - we're clean across the board. McMullen inbound.",いいぞ諸君。 全面的に問題なしだ。 降りるぞ。
 Audio/english/AudioFile/1/f/1fe86912,english,"All scans show nothing. Field ops, you got anything?"
 Audio/english/AudioFile/1/f/1ff157d3,english,"You've pissed me off for the last time, motherfucker."
 Audio/english/AudioFile/1/f/1ff1a96a,english,"Green light on squad deployment. Get some teams into the field, over,"
@@ -2230,7 +2230,7 @@ Audio/english/AudioFile/2/8/285340a0,english,"This is Red Crown. We're back to s
 Audio/english/AudioFile/2/8/285677f5,english,Fuckin' hell!
 Audio/english/AudioFile/2/8/285fa2ed,english,Watch him! Watch him! Keep away form him!
 Audio/english/AudioFile/2/8/28620ab2,english,Get. Him. OFF!
-Audio/english/AudioFile/2/8/28625650,english,That's it.,あれがヤツだな。
+Audio/english/AudioFile/2/8/28625650,english,That's it.,あれが奴だな。
 Audio/english/AudioFile/2/8/286632dc,english,Aahh!
 Audio/english/AudioFile/2/8/2866a55f,english,All systems are at go. Give me some room. I'm checking it out.
 Audio/english/AudioFile/2/8/286d585b,english,Noooo!
@@ -2952,7 +2952,7 @@ Audio/english/AudioFile/3/5/35188ac3,english,"Hostiles sighted, Dispatch. "
 Audio/english/AudioFile/3/5/35200d78,english,"Taking fire, knock it off!"
 Audio/english/AudioFile/3/5/3520252b,english,"Attention incoming aircraft, you are OFF the approved flight roster. Turn around and seek quarantine-friendly Landing Zone."
 Audio/english/AudioFile/3/5/3521750a,english,"Falling back, RC. Nominate command."
-Audio/english/AudioFile/3/5/352426e3,english,"Fully armed and systems tracking, over."
+Audio/english/AudioFile/3/5/352426e3,english,"Fully armed and systems tracking, over.",完全武装にて哨戒中、どうぞ。
 Audio/english/AudioFile/3/5/3527bcb0,english,Our goals and priorities have not changed.
 Audio/english/AudioFile/3/5/3529f425,english,Someone! Help! Help!
 Audio/english/AudioFile/3/5/352c06e5,english,"Glad to help, Red Crown, at your service."
@@ -3309,7 +3309,7 @@ Audio/english/AudioFile/3/b/3b7986f7,english,I got it.
 Audio/english/AudioFile/3/b/3b7bbeb8,english,"Alone at last, huh?"
 Audio/english/AudioFile/3/b/3b7ddd5f,english,Make that thing bleed! MAKE IT DEAD!
 Audio/english/AudioFile/3/b/3b83ef48,english,Fucker got Mikey. I want his position.
-Audio/english/AudioFile/3/b/3b850189,english,Red Crown this is Chalk Three. We've acquired the target. Request Strike support to our Twenty ASAP!
+Audio/english/AudioFile/3/b/3b850189,english,Red Crown this is Chalk Three. We've acquired the target. Request Strike support to our Twenty ASAP!,レッドクラウン、こちらチョーク3。 ターゲットを捕捉中だ。 増援をこちらへ寄越してくれ、できる限り早くだ！
 Audio/english/AudioFile/3/b/3b8eac25,english,"Got my laser coordinates ready, just need it to poke it's head out."
 Audio/english/AudioFile/3/b/3b906734,english,"Hey, outta my way, let me see!"
 Audio/english/AudioFile/3/b/3b9309be,english,Move in and finish this one. Fucking savage.
@@ -3728,49 +3728,49 @@ Audio/english/AudioFile/4/3/4336a707,english,Chalk Three to Red Crown. We're neg
 Audio/english/AudioFile/4/3/4337a864,english,"We're seeing it too, watch yourselves!"
 Audio/english/AudioFile/4/3/434051a3,english,"Red Crown, we're negative on site. He's gone."
 Audio/english/AudioFile/4/3/43470214,english,"Hey, watch out for the tank!"
-Audio/english/AudioFile/4/3/43492408,english,"Situation is clear! Await new orders, over."
+Audio/english/AudioFile/4/3/43492408,english,"Situation is clear! Await new orders, over.",シチュエーションクリアー！ 新しい命令を待つ。 以上。
 Audio/english/AudioFile/4/3/4349fed7,english,"Got a pop in the acquisition. Nah, I got it, over."
-Audio/english/AudioFile/4/3/434b3073,english,"Red Crown, we're negative."
-Audio/english/AudioFile/4/3/434bdbb3,english,"Keep your heads, everybody -- panic will not help!"
-Audio/english/AudioFile/4/3/434bf444,english,We have clearance to deploy a fighter wing for priority support to the Tox Teams. Orders from the old man himself is that sustained Bloodtox deployment is the number-one priority.,Toxチーム援護のためにヘリ部隊を展開させる。 おやっさんからの指示じゃBloodtoxの展開が最優先だ。
-Audio/english/AudioFile/4/3/434d3796,english,Down!
-Audio/english/AudioFile/4/3/434d4345,english,"On target, on target."
-Audio/english/AudioFile/4/3/4355c260,english,"Oh, this looks like trouble."
-Audio/english/AudioFile/4/3/435d0a48,english,That's not possible -- he's just sucking it dry.
+Audio/english/AudioFile/4/3/434b3073,english,"Red Crown, we're negative.",レッドクラウン、俺たちはもう駄目だ。
+Audio/english/AudioFile/4/3/434bdbb3,english,"Keep your heads, everybody -- panic will not help!",みんなしっかりしろ ―― パニックになったらおしまいだ！
+Audio/english/AudioFile/4/3/434bf444,english,We have clearance to deploy a fighter wing for priority support to the Tox Teams. Orders from the old man himself is that sustained Bloodtox deployment is the number-one priority.,Toxチーム援護のためにヘリ部隊を展開させる。 おやっさんからの指示じゃブラッドトックスの展開が最優先だ。
+Audio/english/AudioFile/4/3/434d3796,english,Down!,墜ちる！
+Audio/english/AudioFile/4/3/434d4345,english,"On target, on target.",ターゲットに接触、ターゲットに接触
+Audio/english/AudioFile/4/3/4355c260,english,"Oh, this looks like trouble.",うわ、どうやらコトだぜ。
+Audio/english/AudioFile/4/3/435d0a48,english,That's not possible -- he's just sucking it dry.,不可能だ ―― 奴は血に飢えてやがる。
 Audio/english/AudioFile/4/3/435e671e,english,"Hostile nearly down, flatten it!"
-Audio/english/AudioFile/4/3/43621d59,english,This is not right!
-Audio/english/AudioFile/4/3/436b7670,english,Nahhhhhh!
+Audio/english/AudioFile/4/3/43621d59,english,This is not right!,こいつはよくねえ！
+Audio/english/AudioFile/4/3/436b7670,english,Nahhhhhh!,なぁあああ！
 Audio/english/AudioFile/4/3/436d6191,english,*argh*
-Audio/english/AudioFile/4/3/43732bbf,english,Get indoors!
-Audio/english/AudioFile/4/3/4377528f,english,"Here we go, back in range!"
-Audio/english/AudioFile/4/3/4377fe9a,english,You see that?
-Audio/english/AudioFile/4/3/43797b32,english,Run for your lives!
-Audio/english/AudioFile/4/3/437be868,english,"Thought you could beat us, huh?"
-Audio/english/AudioFile/4/3/43867f37,english,"Red Crown, mission accomplished."
+Audio/english/AudioFile/4/3/43732bbf,english,Get indoors!,隠れろ！
+Audio/english/AudioFile/4/3/4377528f,english,"Here we go, back in range!",よし行くぞ、距離をとれ！
+Audio/english/AudioFile/4/3/4377fe9a,english,You see that?,あれみたか？
+Audio/english/AudioFile/4/3/43797b32,english,Run for your lives!,にげろ！
+Audio/english/AudioFile/4/3/437be868,english,"Thought you could beat us, huh?",ふん、勝てるとでも思ってたのか？
+Audio/english/AudioFile/4/3/43867f37,english,"Red Crown, mission accomplished.",レッドクラウン、ミッション成功だ。
 Audio/english/AudioFile/4/3/438bfabd,english,Take cover!,身を隠せ！
-Audio/english/AudioFile/4/3/438c4f04,english,"Fox company, we are now stepping down the alert. Cancel Red status."
-Audio/english/AudioFile/4/3/438f92b2,english,One of the arrays just went offline. What the hell's going on down there?
-Audio/english/AudioFile/4/3/43933617,english,Does anybody know what's happening?
+Audio/english/AudioFile/4/3/438c4f04,english,"Fox company, we are now stepping down the alert. Cancel Red status.",フォックスカンパニー、警戒レベルを落とす。 レッド状態をキャンセルする。
+Audio/english/AudioFile/4/3/438f92b2,english,One of the arrays just went offline. What the hell's going on down there?,アレイの一つがオフラインになったぞ。 くそっ何が起きてるんだ？
+Audio/english/AudioFile/4/3/43933617,english,Does anybody know what's happening?,何が起きてるのか誰か知らないか？
 Audio/english/AudioFile/4/3/43949a54,english,Launch imminent.
-Audio/english/AudioFile/4/3/4399acee,english,Do not move! DO NOT MOVE!
-Audio/english/AudioFile/4/3/43a29452,english,"We made it, give me a status check."
-Audio/english/AudioFile/4/3/43ad262d,english,"Going down, repeat, we are going down."
-Audio/english/AudioFile/4/3/43b7263d,english,It's done for! Lean on it! LEAN ON IT!
-Audio/english/AudioFile/4/3/43b840f8,english,"Shake it off, shake it off!"
-Audio/english/AudioFile/4/3/43b9c7ec,english,Hit. Another hit. Hit.
-Audio/english/AudioFile/4/3/43bcb339,english,Condition report?
-Audio/english/AudioFile/4/3/43bec239,english,"Praise Jesus. We're OK, we're OK."
-Audio/english/AudioFile/4/3/43bf6d6f,english,"Controlled bursts, control your fire!"
+Audio/english/AudioFile/4/3/4399acee,english,Do not move! DO NOT MOVE!,動くな！ 動くんじゃない！
+Audio/english/AudioFile/4/3/43a29452,english,"We made it, give me a status check.",やったぞ、状況を確認しろ。
+Audio/english/AudioFile/4/3/43ad262d,english,"Going down, repeat, we are going down.",落下中、繰り返す、落下中。
+Audio/english/AudioFile/4/3/43b7263d,english,It's done for! Lean on it! LEAN ON IT!,飛び移れ！ 飛び移るんだ！
+Audio/english/AudioFile/4/3/43b840f8,english,"Shake it off, shake it off!",揺れる、揺れるぞ！
+Audio/english/AudioFile/4/3/43b9c7ec,english,Hit. Another hit. Hit.,当たった。 また当たった。 当たったぞ。
+Audio/english/AudioFile/4/3/43bcb339,english,Condition report?,状況確認は？
+Audio/english/AudioFile/4/3/43bec239,english,"Praise Jesus. We're OK, we're OK.",おお神よ。 俺たちは大丈夫だ。 俺たちは大丈夫だ。
+Audio/english/AudioFile/4/3/43bf6d6f,english,"Controlled bursts, control your fire!",制圧射撃、各自撃て！
 Audio/english/AudioFile/4/3/43c0c6b2,english,"Get some! C'mon, get some!",やってやる！ 来いよ、やってやる！
 Audio/english/AudioFile/4/3/43c6bc74,english,*argh*
 Audio/english/AudioFile/4/3/43cd2827,english,I can feel it. I'm close to the one that took Dana.,わかるぞ、ディナをさらった奴が近い。
-Audio/english/AudioFile/4/3/43cf66b3,english,Cover me!
-Audio/english/AudioFile/4/3/43d13c3e,english,That's a hit!
-Audio/english/AudioFile/4/3/43da103f,english,There! That's him!
+Audio/english/AudioFile/4/3/43cf66b3,english,Cover me!,援護しろ！
+Audio/english/AudioFile/4/3/43d13c3e,english,That's a hit!,当たった！
+Audio/english/AudioFile/4/3/43da103f,english,There! That's him!,あそこだ！ 奴だ！
 Audio/english/AudioFile/4/3/43e5efc8,english,Empty!,カラだ！
-Audio/english/AudioFile/4/3/43ed0cd9,english,It will kill us all!
+Audio/english/AudioFile/4/3/43ed0cd9,english,It will kill us all!,みんな死んじまう！
 Audio/english/AudioFile/4/3/43f0a367,english,Keep him down. Ready tazer.
-Audio/english/AudioFile/4/3/43f2001f,english,Did you HAVE to do that?
+Audio/english/AudioFile/4/3/43f2001f,english,Did you HAVE to do that?,本当にしなければいけなかったのか？
 Audio/english/AudioFile/4/3/43f4175d,english,"Five, four, three, two, one....",5、4、3、2、1……。
 Audio/english/AudioFile/4/3/43f98218,english,Maintain a perimeter! Don't let it touch you!
 Audio/english/AudioFile/4/3/43feeacf,english,Engage search. Find ZEUS!
@@ -3826,107 +3826,107 @@ Audio/english/AudioFile/4/4/44d5977b,english,Kill it!
 Audio/english/AudioFile/4/4/44d63ab4,english,"Aw, where the hell is he now?"
 Audio/english/AudioFile/4/4/44ddc16a,english,"We need support and we need it now. Can we get a strike, over?"
 Audio/english/AudioFile/4/4/44e1b56f,english,Another one down. May God have mercy.
-Audio/english/AudioFile/4/4/44e66aa9,english,Engaging now!
+Audio/english/AudioFile/4/4/44e66aa9,english,Engaging now!,すぐに出せ！
 Audio/english/AudioFile/4/4/44e71902,english,"Confirm suspect is in custody, over."
 Audio/english/AudioFile/4/4/44ed1b1a,english,"A li'l -- back up, back up! Get away! Watch out!"
 Audio/english/AudioFile/4/4/44ef6765,english,These guys are up to no good.
 Audio/english/AudioFile/4/4/44f43285,english,"Strike, we have a new mission, pogo to One Niner Seven. "
 Audio/english/AudioFile/4/4/44f6ea30,english,What the fuck is that?
-Audio/english/AudioFile/4/4/44f9adb3,english,"ZEUS is MIA, pull in the Package, over."
-Audio/english/AudioFile/4/4/44fbdb68,english,"Oh, shit, its him!"
-Audio/english/AudioFile/4/4/44fdb8ed,english,I have the target.
-Audio/english/AudioFile/4/5/45048039,english,"Regroup at Alpha Five Niner, over."
+Audio/english/AudioFile/4/4/44f9adb3,english,"ZEUS is MIA, pull in the Package, over.",ゼウスがMIAした、パッケージに入れろ。以上。
+Audio/english/AudioFile/4/4/44fbdb68,english,"Oh, shit, its him!",くそ、奴だ！
+Audio/english/AudioFile/4/4/44fdb8ed,english,I have the target.,ターゲットに接触。
+Audio/english/AudioFile/4/5/45048039,english,"Regroup at Alpha Five Niner, over.",アルファ59にて再結成せよ。 以上。
 Audio/english/AudioFile/4/5/4506504e,english,"FAC Ground Control, targets marked, need combat close assist. Danger close, over."
 Audio/english/AudioFile/4/5/450b817a,english,"South side, you have movement at the south end of your perimeter."
-Audio/english/AudioFile/4/5/45118f8b,english,Gun!
+Audio/english/AudioFile/4/5/45118f8b,english,Gun!,銃だ！
 Audio/english/AudioFile/4/5/451d6baa,english,"All combatants, you are to stall ZEUS until support gets here."
-Audio/english/AudioFile/4/5/451e1a41,english,Anyone see what happened?
-Audio/english/AudioFile/4/5/4526f6e5,english,Stay calm! Marine Corps is here to help!
+Audio/english/AudioFile/4/5/451e1a41,english,Anyone see what happened?,何が起きてるか誰か分かるか？
+Audio/english/AudioFile/4/5/4526f6e5,english,Stay calm! Marine Corps is here to help!,落ち着くんだ！ 海兵隊が助けにやってくる！
 Audio/english/AudioFile/4/5/452c987b,english,"Hostile is down, we are returning to base, over."
 Audio/english/AudioFile/4/5/45492d41,english,Move in on that target!
-Audio/english/AudioFile/4/5/4557aad6,english,Stop them!
+Audio/english/AudioFile/4/5/4557aad6,english,Stop them!,奴らを止めろ！
 Audio/english/AudioFile/4/5/4559fc65,english,"Voodoo Seven, coming by on a run."
 Audio/english/AudioFile/4/5/455e59fe,english,Subject out of sight. Attempting to reacquire.
 Audio/english/AudioFile/4/5/455ecf3b,english,Heading home.
-Audio/english/AudioFile/4/5/4560acd6,english,"Back off, asshole!"
-Audio/english/AudioFile/4/5/45625fc6,english,Aaahh!
-Audio/english/AudioFile/4/5/45634f75,english,That's it. It's done. ZEUS is finished!
-Audio/english/AudioFile/4/5/4564db54,english,It's disappeared. Not on screens anywhere.
-Audio/english/AudioFile/4/5/45658675,english,Freeze and drop! Freeze and drop!
+Audio/english/AudioFile/4/5/4560acd6,english,"Back off, asshole!",さがれ、馬鹿野郎！
+Audio/english/AudioFile/4/5/45625fc6,english,Aaahh!,あああああ！
+Audio/english/AudioFile/4/5/45634f75,english,That's it. It's done. ZEUS is finished!,よし終わった。 ゼウスは終わった！
+Audio/english/AudioFile/4/5/4564db54,english,It's disappeared. Not on screens anywhere.,消えた。 どこにも見あたらない。
+Audio/english/AudioFile/4/5/45658675,english,Freeze and drop! Freeze and drop!,止まって投降しろ！ 止まって投降するんだ！
 Audio/english/AudioFile/4/5/4566dfcd,english,"Damn it! Sort this out, pronto!"
 Audio/english/AudioFile/4/5/4567ff2c,english,DIE ALREADY!
 Audio/english/AudioFile/4/5/45684a36,english,"Target has left the Zone, packing it in. "
 Audio/english/AudioFile/4/5/45714aa9,english,He's ready to dissect.
-Audio/english/AudioFile/4/5/457811e0,english,"Hit it again, keep firing!"
+Audio/english/AudioFile/4/5/457811e0,english,"Hit it again, keep firing!",また当たったぞ、撃ち続けろ！
 Audio/english/AudioFile/4/5/457e7b5f,english,Brace! Brace!
-Audio/english/AudioFile/4/5/45852132,english,I think my leg's broken -- shit!
-Audio/english/AudioFile/4/5/459325f7,english,There! There!
-Audio/english/AudioFile/4/5/45a02a37,english,Get to safe distance!
+Audio/english/AudioFile/4/5/45852132,english,I think my leg's broken -- shit!,足が折れたみたいだ ―― クソ！
+Audio/english/AudioFile/4/5/459325f7,english,There! There!,あそこだ！ あそこだ！
+Audio/english/AudioFile/4/5/45a02a37,english,Get to safe distance!,安全な距離をとれ！
 Audio/english/AudioFile/4/5/45a316bb,english,*argh*
-Audio/english/AudioFile/4/5/45a5a2f3,english,Clear out!
+Audio/english/AudioFile/4/5/45a5a2f3,english,Clear out!,掃討完了！
 Audio/english/AudioFile/4/5/45a5f9c6,english,"Hostile is within the perimeter, Red Crown. Base is compromised! Not sure how long we can hold it, out."
-Audio/english/AudioFile/4/5/45a6d609,english,Everybody settle down! Settle down!
-Audio/english/AudioFile/4/5/45ae4516,english,"Red Crown, advise. Highball Nine is capable."
-Audio/english/AudioFile/4/5/45b3550f,english,"Dispatch, suspect is mobile. Repeat, mobile!"
-Audio/english/AudioFile/4/5/45ba287e,english,Red Crown to all units. Bloodtox effectiveness on ZEUS confirmed. Bloodtox supplies en route to infected zones. Deploy as needed. Out.,レッドクラウンから全部隊へ。 BloodtoxはZEUSに効果があることが確認できた。 散布機を感染地区のビルの屋上に設置しろ。
+Audio/english/AudioFile/4/5/45a6d609,english,Everybody settle down! Settle down!,みんな落ち着け！ 落ち着くんだ！
+Audio/english/AudioFile/4/5/45ae4516,english,"Red Crown, advise. Highball Nine is capable.",レッドクラウン、アドバイスだ。 ハイボールナインは有効だ。
+Audio/english/AudioFile/4/5/45b3550f,english,"Dispatch, suspect is mobile. Repeat, mobile!",見失った、容疑者は動けるぞ。 繰り返す、奴は動ける！
+Audio/english/AudioFile/4/5/45ba287e,english,Red Crown to all units. Bloodtox effectiveness on ZEUS confirmed. Bloodtox supplies en route to infected zones. Deploy as needed. Out.,レッドクラウンから全部隊へ。 ブラッドトックスはゼウスに効果があることが確認できた。 散布機を感染地区のビルの屋上に設置しろ。
 Audio/english/AudioFile/4/5/45bc3f52,english,"Semper Fi, Marines. Oorah!"
 Audio/english/AudioFile/4/5/45c6d0ef,english,"Job done, we're RTB for chow and medals, RC."
-Audio/english/AudioFile/4/5/45c8aec5,english,It's Zeus! On our side...?
-Audio/english/AudioFile/4/5/45cd65ac,english,Get out! Get out!
-Audio/english/AudioFile/4/5/45ce3121,english,This is harassment! God damn harassment!
-Audio/english/AudioFile/4/5/45d5eee2,english,"Oh, God! I need a doctor!"
+Audio/english/AudioFile/4/5/45c8aec5,english,It's Zeus! On our side...?,ゼウスだ！ 俺たちの側だと……？
+Audio/english/AudioFile/4/5/45cd65ac,english,Get out! Get out!,出ろ！ 出るんだ！
+Audio/english/AudioFile/4/5/45ce3121,english,This is harassment! God damn harassment!,こいつは最悪だ！ くそが最悪だ！
+Audio/english/AudioFile/4/5/45d5eee2,english,"Oh, God! I need a doctor!",神様！ 医者！
 Audio/english/AudioFile/4/5/45d86a70,english,"Check yourselves for damage on reform, I want a clean wing on the reinsert."
-Audio/english/AudioFile/4/5/45d915a5,english,"Running, he's running! We got him moving!"
+Audio/english/AudioFile/4/5/45d915a5,english,"Running, he's running! We got him moving!",逃げたぞ、奴が逃げた！ 我々は追っている！
 Audio/english/AudioFile/4/5/45dbd967,english,"Red Crown, this is Ranger Two Seven, we have major casualties here."
 Audio/english/AudioFile/4/5/45dfe463,english,"All right, what's all the fuss here?"
 Audio/english/AudioFile/4/5/45e6513c,english,Packs a punch.
-Audio/english/AudioFile/4/5/45eae475,english,"That's right, run, motherfucker!"
-Audio/english/AudioFile/4/6/46023237,english,RUN!
-Audio/english/AudioFile/4/6/4606b7b3,english,Hey! Cops say anything?
-Audio/english/AudioFile/4/6/460d1b44,english,"Fire, fire, fire! All in!"
-Audio/english/AudioFile/4/6/46132d18,english,"Zone empty, over. "
-Audio/english/AudioFile/4/6/46249a7b,english,Get to cover!
+Audio/english/AudioFile/4/5/45eae475,english,"That's right, run, motherfucker!",そうだな、にげろ、クソ野郎！
+Audio/english/AudioFile/4/6/46023237,english,RUN!,逃げろ！
+Audio/english/AudioFile/4/6/4606b7b3,english,Hey! Cops say anything?,ちょっと！ 警官達は何を言ってるの？
+Audio/english/AudioFile/4/6/460d1b44,english,"Fire, fire, fire! All in!",撃て、撃て、撃て！ ぶちのめせ！
+Audio/english/AudioFile/4/6/46132d18,english,"Zone empty, over. ",ここにはいない。 以上。
+Audio/english/AudioFile/4/6/46249a7b,english,Get to cover!,援護しろ！
 Audio/english/AudioFile/4/6/4627973e,english,"Stabilizing! Just about bought the farm, RC."
-Audio/english/AudioFile/4/6/462adb97,english,"On target. OK, standby."
-Audio/english/AudioFile/4/6/46335ab2,english,"Somebody, please, help him!"
-Audio/english/AudioFile/4/6/46356ae7,english,"Red Crown, we have Alpha target sighted, need priority Strike Package, over."
-Audio/english/AudioFile/4/6/463b5eb8,english,"Alright, yeah! *laughing*"
-Audio/english/AudioFile/4/6/463bff85,english,Protect your sides.
-Audio/english/AudioFile/4/6/46408e24,english,"Unit, negative."
+Audio/english/AudioFile/4/6/462adb97,english,"On target. OK, standby.",ターゲット確認。 オーケー待機する。
+Audio/english/AudioFile/4/6/46335ab2,english,"Somebody, please, help him!",誰か、彼を助けて！
+Audio/english/AudioFile/4/6/46356ae7,english,"Red Crown, we have Alpha target sighted, need priority Strike Package, over.",レッドクラウン、アルファターゲットを確認した。 ストライクパッケージを最優先で要求する。 以上。
+Audio/english/AudioFile/4/6/463b5eb8,english,"Alright, yeah! *laughing*",ざまみろ、よっしゃあ！
+Audio/english/AudioFile/4/6/463bff85,english,Protect your sides.,脇を固めろ。
+Audio/english/AudioFile/4/6/46408e24,english,"Unit, negative.",部隊全滅。
 Audio/english/AudioFile/4/6/4641c31a,english,I saw the dude head that way!
-Audio/english/AudioFile/4/6/46448b40,english,"That's him, that's him! Over there!"
+Audio/english/AudioFile/4/6/46448b40,english,"That's him, that's him! Over there!",奴だ、奴が居る！ あそこだ！
 Audio/english/AudioFile/4/6/4645bb3f,english,"Strike Boss, RTB."
-Audio/english/AudioFile/4/6/4647b1e9,english,Echo One Alpha. I got him right here!
+Audio/english/AudioFile/4/6/4647b1e9,english,Echo One Alpha. I got him right here!,エコー1アルファ。 奴をここにつれてくる！
 Audio/english/AudioFile/4/6/46490ed7,english,Duuuuck!
-Audio/english/AudioFile/4/6/46540f43,english,Get out!
-Audio/english/AudioFile/4/6/4654eaf6,english,Get out! Don't make me fucking hurt you!
-Audio/english/AudioFile/4/6/46559701,english,"Wait -- don't shot, don't shoot!"
+Audio/english/AudioFile/4/6/46540f43,english,Get out!,脱出だ！
+Audio/english/AudioFile/4/6/4654eaf6,english,Get out! Don't make me fucking hurt you!,脱出しろ！ 俺に傷つけさせるんじゃねえ！
+Audio/english/AudioFile/4/6/46559701,english,"Wait -- don't shot, don't shoot!",待て ―― 撃つな、撃つんじゃない！
 Audio/english/AudioFile/4/6/4660a713,english,Run parallel to impact!
 Audio/english/AudioFile/4/6/4669e76b,english,We show zero activity across the board. Moving to condition Yellow.
 Audio/english/AudioFile/4/6/4670ce7e,english,Did that Mercer guy do this?
-Audio/english/AudioFile/4/6/46718b32,english,"Go, go, go!"
-Audio/english/AudioFile/4/6/4680a9db,english,He's in the vehicle!
-Audio/english/AudioFile/4/6/4686bed4,english,You're a fuckin' dead man!
+Audio/english/AudioFile/4/6/46718b32,english,"Go, go, go!",行け、行け、行けえ！
+Audio/english/AudioFile/4/6/4680a9db,english,He's in the vehicle!,奴は乗り物の中だ！
+Audio/english/AudioFile/4/6/4686bed4,english,You're a fuckin' dead man!,奴は死に体だ！
 Audio/english/AudioFile/4/6/4687d114,english,"Take a close look over there. Forrest, you're up!"
-Audio/english/AudioFile/4/6/4694b072,english,Open fire!
+Audio/english/AudioFile/4/6/4694b072,english,Open fire!,撃て！
 Audio/english/AudioFile/4/6/4697425c,english,The heart of this.
-Audio/english/AudioFile/4/6/469a4b8b,english,"Negative, confirm?"
+Audio/english/AudioFile/4/6/469a4b8b,english,"Negative, confirm?",やったか？確認したか？
 Audio/english/AudioFile/4/6/469c5aa0,english,"Uh, we have numerous burners at these coordinates, over."
-Audio/english/AudioFile/4/6/469d0336,english,Holy fuck.
+Audio/english/AudioFile/4/6/469d0336,english,Holy fuck.,なんてことだ。
 Audio/english/AudioFile/4/6/46a4b2ac,english,That's the plug on this one.
-Audio/english/AudioFile/4/6/46a6e9e3,english,Save me!
-Audio/english/AudioFile/4/6/46a8c9f5,english,"Get back, NOW!"
-Audio/english/AudioFile/4/6/46a8fca3,english,"Gunner, keep your auto weapon systems on."
+Audio/english/AudioFile/4/6/46a6e9e3,english,Save me!,助けて！
+Audio/english/AudioFile/4/6/46a8c9f5,english,"Get back, NOW!",下がれ、今すぐ！
+Audio/english/AudioFile/4/6/46a8fca3,english,"Gunner, keep your auto weapon systems on.",ガンナー、自動武器システムをオンにしておけ。
 Audio/english/AudioFile/4/6/46aa60ce,english,"Field Team advises: scrub current op, over."
 Audio/english/AudioFile/4/6/46af912c,english,"We're close, keep looking, over."
-Audio/english/AudioFile/4/6/46b2794b,english,"God, my leg. My fucking leg, I'm trapped in here."
-Audio/english/AudioFile/4/6/46b94ce6,english,We're downgrading the threat level. Go clear for now.
-Audio/english/AudioFile/4/6/46c87cb2,english,"That's him, let's go!"
-Audio/english/AudioFile/4/6/46c928be,english,Keep away from him!
+Audio/english/AudioFile/4/6/46b2794b,english,"God, my leg. My fucking leg, I'm trapped in here.",神様、俺の足が。俺の足がああ。ここで罠にはまった。
+Audio/english/AudioFile/4/6/46b94ce6,english,We're downgrading the threat level. Go clear for now.,警戒レベルを下げる。今はクリアーだ。
+Audio/english/AudioFile/4/6/46c87cb2,english,"That's him, let's go!",奴だ。 行くぞ！
+Audio/english/AudioFile/4/6/46c928be,english,Keep away from him!,奴から離れろ！
 Audio/english/AudioFile/4/6/46cd0feb,english,Should we blast all of 'em?
 Audio/english/AudioFile/4/6/46d7a983,english,I read you.
-Audio/english/AudioFile/4/6/46dd2240,english,What the hell!
-Audio/english/AudioFile/4/6/46dd7927,english,"Shut it down. All Recon Teams report back to base, out."
+Audio/english/AudioFile/4/6/46dd2240,english,What the hell!,クソなんだって！
+Audio/english/AudioFile/4/6/46dd7927,english,"Shut it down. All Recon Teams report back to base, out.",撤退だ。 全リコン部隊は基地に戻れ。 以上。
 Audio/english/AudioFile/4/6/46de5ccf,english,*grunt* Motherfucker!
 Audio/english/AudioFile/4/6/46e024ec,english,"Target has amped up, record visual, that's vital Intel."
 Audio/english/AudioFile/4/6/46e43652,english,*scream*
@@ -3968,7 +3968,7 @@ Audio/english/AudioFile/4/7/4786ea5a,english,"Target has gone, Red Crown. Pull u
 Audio/english/AudioFile/4/7/4787332a,english,*choke*
 Audio/english/AudioFile/4/7/478af56b,english,Enemy HQ located. Engaging.
 Audio/english/AudioFile/4/7/478b8e8f,english,*grunt* Help me! Help!
-Audio/english/AudioFile/4/7/478efd6a,english,"This is Ghost Three Three Eight Four, we are go!",こちらゴースト3384、離陸する！
+Audio/english/AudioFile/4/7/478efd6a,english,"This is Ghost Three Three Eight Four, we are go!"
 Audio/english/AudioFile/4/7/479183e3,english,"It won't go down, try another run, over."
 Audio/english/AudioFile/4/7/4799caa1,english,"Hey! Hey! Hey, you see him!?"
 Audio/english/AudioFile/4/7/479b6530,english,Fuck! Hide!
@@ -4841,7 +4841,7 @@ Audio/english/AudioFile/5/6/56eed98b,english,Jeeeesuuuussss!
 Audio/english/AudioFile/5/6/56f4d16a,english,Taking hits here.... Sustaining damage....
 Audio/english/AudioFile/5/6/56fd159d,english,Yeah! There! See him?
 Audio/english/AudioFile/5/7/5700dd47,english,*argh*
-Audio/english/AudioFile/5/7/5709f20a,english,Gotcha!
+Audio/english/AudioFile/5/7/5709f20a,english,Gotcha!,捕まえたぜ！
 Audio/english/AudioFile/5/7/57115c00,english,*argh*
 Audio/english/AudioFile/5/7/57229b5d,english,"Echo Unit reporting skins. Check your Six, Cudahy!"
 Audio/english/AudioFile/5/7/5723c7e9,english,"Charlie Nineteen, that's a copy."
@@ -5410,7 +5410,7 @@ Audio/english/AudioFile/6/0/60d3c904,english,"10-11, suspect still a threat? Rep
 Audio/english/AudioFile/6/0/60d7a5ba,english,"Ghost Stallion Nine, pulling back to safe distance, over."
 Audio/english/AudioFile/6/0/60e6c463,english,There's blood everywhere!
 Audio/english/AudioFile/6/0/60ea544b,english,Ragland -- no!
-Audio/english/AudioFile/6/0/60ecd95c,english,"ZEUS has slipped the net, be careful."
+Audio/english/AudioFile/6/0/60ecd95c,english,"ZEUS has slipped the net, be careful.",ゼウスが網をかいくぐった、注意しろ。
 Audio/english/AudioFile/6/0/60f13690,english,Excuse me for being in your way!
 Audio/english/AudioFile/6/0/60facafa,english,Get out of here. You don't want me to say that again.
 Audio/english/AudioFile/6/1/6102426b,english,Don't shoot! Don't shoot! I'm unarmed!
@@ -5670,7 +5670,7 @@ Audio/english/AudioFile/6/5/65c8f689,english,*croak*
 Audio/english/AudioFile/6/5/65cba0c5,english,"Got an eyeball on shithead, follow me in."
 Audio/english/AudioFile/6/5/65d000fe,english,"Alright, create some distance! TID. November Bravo Niner Eight."
 Audio/english/AudioFile/6/5/65d16a91,english,How many more?
-Audio/english/AudioFile/6/5/65d187f2,english,"Fully armed and systems tracking, over."
+Audio/english/AudioFile/6/5/65d187f2,english,"Fully armed and systems tracking, over.",完全武装にて哨戒中、どうぞ。
 Audio/english/AudioFile/6/5/65d4733f,english,Assess the situation.
 Audio/english/AudioFile/6/5/65d68254,english,"This is Tornado Element, red targets ahead."
 Audio/english/AudioFile/6/5/65d72aea,english,It's go time!,行くぞ！
@@ -7305,7 +7305,7 @@ Audio/english/AudioFile/8/3/831a0271,english,I think it's him!
 Audio/english/AudioFile/8/3/83210caf,english,"Red Crown, Red Crown. This is Racecar Leader. Approaching objective."
 Audio/english/AudioFile/8/3/83228d4f,english,"Alert all units, ZEUS is moving covertly."
 Audio/english/AudioFile/8/3/8326d731,english,"Direct fire rockets are ready, all systems green."
-Audio/english/AudioFile/8/3/83283b71,english,"We've lost ZEUS. Squad Four Four Three, recon south."
+Audio/english/AudioFile/8/3/83283b71,english,"We've lost ZEUS. Squad Four Four Three, recon south.",ゼウスを見失った。 443隊、南を偵察しろ。
 Audio/english/AudioFile/8/3/8328e006,english,"Look, right there!"
 Audio/english/AudioFile/8/3/83305334,english,Clear this channel!
 Audio/english/AudioFile/8/3/83372789,english,We don't have ZEUS pinned down. Continue search.
@@ -8287,7 +8287,7 @@ Audio/english/AudioFile/9/4/944edf8f,english,Holy shit!
 Audio/english/AudioFile/9/4/944f53d6,english,You're strangling me!
 Audio/english/AudioFile/9/4/9453f0d2,english,Welcome to New York. Found a crack pipe yet?
 Audio/english/AudioFile/9/4/9457c708,english,Some systems down. We're still operational.
-Audio/english/AudioFile/9/4/945b775f,english,"We're in the Hot Zone, feed us a target, over."
+Audio/english/AudioFile/9/4/945b775f,english,"We're in the Hot Zone, feed us a target, over.",交戦地域へ到達した。 楽しませてくれよ、どうぞ。
 Audio/english/AudioFile/9/4/9463ab94,english,What the FUCK!?
 Audio/english/AudioFile/9/4/946ad10f,english,"Whoa, what's going on here?"
 Audio/english/AudioFile/9/4/946c58f3,english,"Roger, Red Crown, engaging. Leave nothing alive."
@@ -9144,7 +9144,7 @@ Audio/english/AudioFile/a/3/a39d0596,english,"Highball ordnance red light, we're
 Audio/english/AudioFile/a/3/a39fe27c,english,Run!
 Audio/english/AudioFile/a/3/a3a3d6a6,english,"Granted, over."
 Audio/english/AudioFile/a/3/a3a4786f,english,"Everyone, get back!"
-Audio/english/AudioFile/a/3/a3aac293,english,It's go time!
+Audio/english/AudioFile/a/3/a3aac293,english,It's go time!,行くぞ！
 Audio/english/AudioFile/a/3/a3b22a8b,english,There! That's him!
 Audio/english/AudioFile/a/3/a3b73baf,english,Acknowledged.
 Audio/english/AudioFile/a/3/a3bb148f,english,Brace! Brace!
@@ -9213,7 +9213,7 @@ Audio/english/AudioFile/a/4/a4dbf7bb,english,Fucking hell!
 Audio/english/AudioFile/a/4/a4e33313,english,They're gonna shoot!
 Audio/english/AudioFile/a/4/a4e910b3,english,Almost got away with it.
 Audio/english/AudioFile/a/4/a4eb83da,english,"Field Units confirm that ZEUS is neutralized, over."
-Audio/english/AudioFile/a/4/a4eebaf1,english,It's go time!
+Audio/english/AudioFile/a/4/a4eebaf1,english,It's go time!,行くぞ！
 Audio/english/AudioFile/a/4/a4f63f1c,english,Full assault!
 Audio/english/AudioFile/a/4/a4f94418,english,I need to know what Greene knows. I need to get her out.
 Audio/english/AudioFile/a/4/a4fe75da,english,This ain't fuckin' right!
@@ -10258,7 +10258,7 @@ Audio/english/AudioFile/b/7/b7c3dcec,english,Take out that vehicle! Take out tha
 Audio/english/AudioFile/b/7/b7c6a06f,english,"We're in too tight, get us back."
 Audio/english/AudioFile/b/7/b7c81fda,english,APC Foxtrot Lima One Five Four is leaving Containment Zone! Consider hostile.
 Audio/english/AudioFile/b/7/b7c8ce23,english,This can't be real!
-Audio/english/AudioFile/b/7/b7caaba9,english,That's it.,あれがヤツだな。
+Audio/english/AudioFile/b/7/b7caaba9,english,That's it.,あれが奴だな。
 Audio/english/AudioFile/b/7/b7d172f5,english,"Reposition and ready to flank, over."
 Audio/english/AudioFile/b/7/b7de8247,english,What the fuck are they doing!
 Audio/english/AudioFile/b/7/b7e63798,english,I see him!
@@ -13919,7 +13919,7 @@ Audio/english/AudioFile/f/9/f9122b12,english,Combat in effect!
 Audio/english/AudioFile/f/9/f9130ce6,english,"Strike mission abort, you are at abort."
 Audio/english/AudioFile/f/9/f9188814,english,"Ranger Two Seven. No-go on this Package delivery. Return to sender, over."
 Audio/english/AudioFile/f/9/f91ab5dd,english,What happened!?
-Audio/english/AudioFile/f/9/f91c9363,english,I have line of sight!,ヤツを捕捉した！
+Audio/english/AudioFile/f/9/f91c9363,english,I have line of sight!,奴を捕捉した！
 Audio/english/AudioFile/f/9/f9235a9a,english,"Field Team, all in. Go! Go!"
 Audio/english/AudioFile/f/9/f93069ec,english,He's got control of the tank!
 Audio/english/AudioFile/f/9/f930a53f,english,"OK, you're done."
@@ -17457,7 +17457,7 @@ art/nis/MB_3_2_1,mb3-2-1_04,"Whatever’s happening here, this is only the begin
 art/nis/MB_4_3_1,mb4-3-1_01,I think I might be able to get you close to McMullen.,もしかしたら、マクマレンに近づけるかもよ。
 art/nis/MB_4_3_1,mb4-3-1_01_2,The news has been showing an endless loop of BLACKWATCH Scientific Teams turning up at Hives.,ここ最近、ニュースはブラックウォッチ化学班がハイヴに現れたことばっか延々垂れ流してる。
 art/nis/MB_4_3_1,mb4-3-1_02,"Those teams have to be working for McMullen, right?",こいつら化学班はマクマレンのために働いているはず、でしょ？
-art/nis/MB_4_3_1,mb4-3-1_02_2,"If they are, then one of them has got to know how to get to him.",もしそうなら、そのうち誰かはヤツへの連絡手段を知ってるはず。
+art/nis/MB_4_3_1,mb4-3-1_02_2,"If they are, then one of them has got to know how to get to him.",もしそうなら、そのうち誰かは奴への連絡手段を知ってるはず。
 art/nis/MB_4_3_1,mb4-3-1_02_3,Get into one of those areas and draw McMullen in.,どれかの調査区域に潜り込んで、マクマレンをおびき出すのよ。
 art/nis/MB_4_3_1,mb4-3-1_03,McMullen is the key to all of this.,マクマレンがこの全ての鍵だ。
 art/nis/MB_4_4_1,mb4-4-1_01,The samples you've recovered; I still don't have enough.,回収してきてくれたサンプルなんだけど、まだ足りないの。
@@ -17493,7 +17493,7 @@ art/nis/MB_8_2_1,mb8-2-1_02,"It’s been massing there, preparing to subsume the
 art/nis/MB_8_2_1,mb8-2-1_03,"You need to make sure the Bloodtox pumper vehicle gets to Times Square. Then, when the supplies of Bloodtox arrive, pump the stuff underground, drive it out into the light.",ブラッドトックス散布車をタイムズスクエアまでエスコートしろ。 到着したら地下に散布して奴らをひの下に引きずり出してやれ。
 art/nis/MB_8_2_1,mb8-2-1_04,Without your help...  that machine won't get within a mile of Times Square.,お前の力なしじゃ…… 散布車はタイムズスクエアまで近づけもしないだろうな。
 art/nis/MB_9_3_1,mb9-3-1_01,Taggart’s air power is crippled. He’s going to make a run for it on the ground.,タガートの航空部隊は潰せた。 これで奴は陸路から逃げようとするはずだ。
-art/nis/MB_9_3_1,mb9-3-1_02,The rogue BLACKWATCH units are massing at one of his bases and setting up roadblocks to allow him to get to the Brooklyn Bridge. He’ll try and push through there.,ブラックウォッチの残とうが奴の基地の1つに集まって、ブルックリン橋を突破するためのバリケードを準備している。 無理やり押し切るつもりのようだ。
+art/nis/MB_9_3_1,mb9-3-1_02,The rogue BLACKWATCH units are massing at one of his bases and setting up roadblocks to allow him to get to the Brooklyn Bridge. He’ll try and push through there.,ブラックウォッチの残党が奴の基地の1つに集まって、ブルックリン橋を突破するためのバリケードを準備している。 無理やり押し切るつもりのようだ。
 art/nis/MB_9_3_1,mb9-3-1_03,"We need to hit him at the base NOW, before the defenses are complete. Force him out of his hole. When he makes a run for it, consume him.",防備が完全になる前に今すぐ奴の基地を叩く必要がある。 奴をす穴から叩きだしてやれ。 逃げ出させれば吸収する機会も生まれるだろう。
 art/nis/MB_9_3_1,mb9-3-1_04,"Keep the pressure on and he'll keep running. But don't let him escape. If he makes it out of Manhattan, our ticket onto the Reagan is gone.",プレッシャーを与え続ければ逃げるはずだ。 逃すなよ。 タガートがマンハッタンから脱出するということはレーガンに行く手段が無くなるということだからな。
 art/nis/MB_9_3_1,mb9-3-1_05,He doesn't have a chance.,奴を逃がしはしないさ。
@@ -17508,7 +17508,7 @@ art/nis/MNIS_7_1_1,nis7-1-1_02,We will cover the city in it to stop the spread o
 art/nis/MNIS_7_1_1,nis7-1-1_03,"To humans, it is completely harmless.",人に対しては完全に無害だ。
 art/nis/MNIS_7_1_1,nis7-1-1_04,"So harmless in fact, that you've been breathing it since you entered this room.",実際にまったく無害であることは、この部屋に入ってから諸君が息を吸えていることからわかるだろう。
 art/nis/MNIS_7_1_1,nis7-1-1_05,Hold it. Halt! HALT!,捕まえろ！ 待て、待つんだ！
-art/nis/NIS_0_3_a,nis0-3a_01,Hey I knew this guy. He was Blacklight.,おいこいつ知ってるぞ。 ブラックライトのやつだ。
+art/nis/NIS_0_3_a,nis0-3a_01,Hey I knew this guy. He was Blacklight.,おいこいつ知ってるぞ。 ブラックライトの奴だ。
 art/nis/NIS_0_3_a,nis0-3a_02,"Yeah, well now he's ex-Blacklight.",ああ、今じゃ元ブラックライトだがな。
 art/nis/NIS_0_3_a,nis0-3a_03,"His name is... Mercer, Alex J. Next of kin, Mercer, Dana A.",名前は…… アレックス・J・マーサー、近親者はディナ・A・マーサー。
 art/nis/NIS_0_3_a,nis0-3a_04,Is that his wife?,奥さんかな？
@@ -17615,7 +17615,7 @@ art/nis/NIS_1_3_c,nis1-3_28,"We have a situation I think your team is well suite
 art/nis/NIS_1_3_c,nis1-3_29,We're prepped and waiting for orders. We can be wheels up and boots on the ground anywhere in the city in fifteen.,我々の部隊は既に臨戦状態にあります。 ご命令があれば、車両部隊と歩兵部隊を15分で市内のどこにでも展開できます。
 art/nis/NIS_1_3_c,nis1-3_30,"With respect, sir, a suppression operation in a city of twelve-million is slightly more than my men can handle.",恐縮ながら、将軍、人口12万弱の都市ならば、我々の部隊だけで鎮圧可能ですが。
 art/nis/NIS_1_3_c,nis1-3_31,"Uh, the situation has already evolved, Captain. You're not participating in the containment action. Your team has a single target: Alex Mercer. Codenamed ZEUS.",ふむ。 事態はもはやそんな段階を過ぎてしまっているのだよ、大尉。 君には封鎖任務とは別の作戦にあたってもらう。 目標はただ1つ ―― アレックス・マーサー、コードネーム「ゼウス」の排除だ。
-art/nis/NIS_1_3_c,nis1-3_32,He's carrying a new strain. He's eliminated fifty of my men and smashed through a two-foot steel door. You interested?,彼は新型ウィルスのキャリアだ。 やつは私の部下を50人も殺し、おまけに60cmの鉄板をブチ破っている。 やれるか？
+art/nis/NIS_1_3_c,nis1-3_32,He's carrying a new strain. He's eliminated fifty of my men and smashed through a two-foot steel door. You interested?,彼は新型ウィルスのキャリアだ。 奴は私の部下を50人も殺し、おまけに60cmの鉄板をブチ破っている。 やれるか？
 art/nis/NIS_1_3_c,nis1-3_33,"I'm your man, sir.",もちろんです、将軍。
 art/nis/NIS_1_3_c,nis1-3_34,I don't need to tell you what's at stake.,失敗したらどうなるか、言うまでもないだろうな。
 art/nis/NIS_2_1,nis2-1_01,"So, come in....",さあ、入って……。
@@ -17657,9 +17657,9 @@ art/nis/NIS_3_4,nis3-4_06,I know.,分かってるさ。
 art/nis/NIS_4_1,nis4-1_02,Where are they landing?,奴らはどこに乗り込んだんだ？
 art/nis/NIS_4_1,nis4-1_03,Southeast Manhattan. But the Carrier -- the U.S.S. Reagan -- is supposed to remain off the southern coast....,マンハッタンの東南東。 でも、空母U.S.S.レーガンは南海岸にはいないはずよ。
 art/nis/NIS_4_1,nis4-1_04,I wonder where those trucks are heading.,あのトラックの群れ、どこに向かってるんだろ。
-art/nis/NIS_4_1,nis4-1_05,"Wherever they're going, I'll bet McMullen is there. He did this to me and I'm gonna find out why.",やつらが何処へ向かおうと、マクマレンはあそこにいるはずだ。 俺をこんな風にしたヤツだからな、その理由を聞き出してやる。
+art/nis/NIS_4_1,nis4-1_05,"Wherever they're going, I'll bet McMullen is there. He did this to me and I'm gonna find out why.",奴らが何処へ向かおうと、マクマレンはあそこにいるはずだ。 俺をこんな風にした奴だからな、その理由を聞き出してやる。
 art/nis/NIS_4_1,nis4-1_06,And then?,それから？
-art/nis/NIS_4_1,nis4-1_07,"Then I'm going to make sure he never does it to anyone else, ever again.",これ以上、ヤツにこんなことをさせないようにする。 二度とだ。
+art/nis/NIS_4_1,nis4-1_07,"Then I'm going to make sure he never does it to anyone else, ever again.",これ以上、奴にこんなことをさせないようにする。 二度とだ。
 art/nis/NIS_4_3,nis4-3_01,... at the GENTEK building in mid-town Manhattan. What was initially thought to be a chemical spill was actually a biological attack on the city. Authorities have named Dr. Alex Mercer as the chief suspect...,……マンハッタン中央部のジェンテックビルです。 当初化学物質の漏出だと思われていた事件は、市に対する生物化学兵器攻撃であることが判明しました。 当局はアレックス・マーサー博士を最重要容疑者として挙げており……。
 art/nis/NIS_4_3,nis4-3_03,Sir?,いかがなさいますか？
 art/nis/NIS_4_3,nis4-3_04,"At ease, Captain. Director McMullen, share your data with the Captain. Perhaps it will help him complete his mission.",楽にして良いぞ、大尉。 マクマレン所長、貴方の情報を大尉にも説明してやってくれ。 彼の任務の助けとなるかもしれん。
@@ -17769,7 +17769,7 @@ movies/NIS_0_1_FMV,fmv0-1_04,I'm all of these things.,ぜんぶそのとおり�
 movies/NIS_0_1_FMV,fmv0-1_05,Three weeks ago someone released a lethal virus in Penn Station.,3週間前、何者かによって凶悪なウィルスがペンシルバニア駅にばら撒かれた。
 movies/NIS_0_1_FMV,fmv0-1_06,I woke up in a morgue.,俺は死体保管所で目覚めた。
 movies/NIS_0_1_FMV,fmv0-1_08,"Now I hunt, I kill, I consume, I become. ",今や俺は獲物を探し、殺し、食い尽くし、またそれに成りすますことだってできる。
-movies/NIS_0_1_FMV,fmv0-1_09,I'm going to find out who did this to me.,俺をこんな化け物に変えたやつを探し出す。
+movies/NIS_0_1_FMV,fmv0-1_09,I'm going to find out who did this to me.,俺をこんな化け物に変えた奴を探し出す。
 movies/NIS_0_1_FMV,fmv0-1_10,And I'm going to make them pay.,落とし前をつけさせてやる。
 movies/NIS_0_1_FMV,fmv0-1_11,Walkers! Open up!,ウォーカーだ！ 攻撃開始！
 movies/NIS_0_1_FMV,fmv0-1_70,"Ghost Three Nine to ground, do you have target in sight? Over.",ゴースト39より地上部隊へ、目標は視認できたか？ どうぞ。
@@ -17811,7 +17811,7 @@ movies/NIS_6-4a_FMV,nis6-4a_01,"Hey, hey. Dana!",おい、おい！ ディナ！
 movies/woi/woi_ec1,woiec1_01,Revenge was the only clear thought in my head.  The only one I could call mine.,復讐だけが、俺の頭の中ではっきりしてる唯一の事柄だった。 それが俺の意思と呼べる、たったひとつのものだった。
 movies/woi/woi_ec1,woiec1_02,I knew Gentek was the key.   It made sense.  I had worked there.  I had Dana investigating its operations. - And then there was Blackwatch.,俺は、ジェンテックの仕業だと知っていた。 それは理解できた。 俺はそこで働いていたんだ。 俺はディナにその計画を調査させた。 そしてそこにはブラックウォッチがあった。
 movies/woi/woi_ec1,woiec1_03,Whatever had changed me... erased my past…must have started there.,俺を変えてしまった何もかもが…… 消えた俺の記憶も……そこから始まった。
-movies/woi/woi_ec1,woiec1_04,"I thought if I could find out who was running Gentek, before Blackwatch erased them too, I could find my past.",ブラックウォッチが消す前に、ジェンテックを動かしていたヤツを見つければ、記憶を取り戻せると思った。
+movies/woi/woi_ec1,woiec1_04,"I thought if I could find out who was running Gentek, before Blackwatch erased them too, I could find my past.",ブラックウォッチが消す前に、ジェンテックを動かしていた奴を見つければ、記憶を取り戻せると思った。
 movies/woi/woi_ec1,woiec1_05,What did you think that would gain you?,それでお前は何が得られると思っていたんだ？
 movies/woi/woi_ec1,woiec1_06,Answers. I wanted to find out what happened to me.  The reason. Someone to blame.  Someone I could punish.,答えさ。 俺の身に何が起きたのかを知りたかった。 その理由。 責めを負うべき誰か。 俺が裁くべき相手。
 movies/woi/woi_ec1,woiec1_07,To tell you the truth I never thought I'd find her… I wished the hell I never had.,正直なところ、彼女が見つかるなんて思ってなかった…… 地獄が待ち受けていないことを願っていた。
@@ -17832,7 +17832,7 @@ movies/woi/woi_ec3,woiec3_06,"Well, what did he tell you?",それで、奴は何
 movies/woi/woi_ec3,woiec3_07,McMullen? Lots of things.,マクマレンがか？ 色々だ。
 movies/woi/woi_ec3,woiec3_08,Some of them even true.,いくつかは本音からの言葉だったな。
 movies/woi/woi_ec3,woiec3_09,And then?,それで？
-movies/woi/woi_ec3,woiec3_10,"Then?  Well, then he died.",それで？ まあ、やつは死んだよ。
+movies/woi/woi_ec3,woiec3_10,"Then?  Well, then he died.",それで？ まあ、奴は死んだよ。
 movies/woi/woi_ec4,woiec4_01,It was perfect.  They used Karen to get to me.  Used the genetic material I had collected to make a weapon to try and take me out.,完璧にしてやられた。 奴らは俺にたどり着くためにカレンを利用していた。 俺が集めた遺伝子物質で俺を捕らえる武器を作ってたんだ。
 movies/woi/woi_ec4,woiec4_02,"By the time I discovered she was working for Blackwatch, she was gone.",カレンがブラックウォッチのために動いてることに俺が気づいた時、すでに彼女は消えていた。
 movies/woi/woi_ec4,woiec4_03,But I had a bigger problem - a weaponized cancer was eating me from the inside out.,でも俺にはもっと大きな問題があった。 武器化された腫瘍が俺を内側から蝕んでいた。
@@ -17880,8 +17880,8 @@ movies/woi/woi_ec7,woiec7_14,Do you suppose your answer is out there on the Reag
 movies/woi/woi_ec7,woiec7_15,All I know is: I'll get my answer from Randall.,俺に分かるのは……ランドールから聞き出すしかないってことだ。
 movies/woi/woi_node_001,woi001_001,What’s the situation with Mercer?,マーサーは？
 movies/woi/woi_node_001,woi001_002,"The subject is wanted in connection with treasonous activities against the United States and her allies. As of last night, Alex Mercer is the number one terrorist threat in the United States.",合衆国とその同盟国に対する反逆に関わっていると指名手配されています。 昨晩にはアレックス・マーサーは我が国における第一位のテロリストになりました。
-movies/woi/woi_node_003,woi003_001,The target exhibits a classic low-affect personality. 
-movies/woi/woi_node_003,woi003_001b,"Psychopathic disregard for others, narcissistic world-view punctuated by self-obsessive disorders.",目標は典型的な無感動のようです。 自己強迫観念による他人への無関心さ、ナルシスト的な世界観が端々に見られます。
+movies/woi/woi_node_003,woi003_001,The target exhibits a classic low-affect personality. ,目標は典型的な無感動のようです。
+movies/woi/woi_node_003,woi003_001b,"Psychopathic disregard for others, narcissistic world-view punctuated by self-obsessive disorders.",自己強迫観念による他人への無関心さ、ナルシスト的な世界観が端々に見られます。
 movies/woi/woi_node_003,woi003_002,"Ok, now how 'bout someone repeat that in English.",よし、誰か今のを英語で言い直してくれ。
 movies/woi/woi_node_004,woi004_001,Subject escaped at 22:30 hours after murdering three personnel.,目標は3人を殺してから1時間後の22:30に脱走しています。
 movies/woi/woi_node_004,woi004_002,"Shortly thereafter, it is believed it kidnapped an operative.",その後に諜報員を誘拐しているようです。
@@ -18083,7 +18083,7 @@ movies/woi/woi_node_051,woi051_001,Sir. How much longer do we have to put up wit
 movies/woi/woi_node_051,woi051_002,"Since your brain can't fathom why the Marines are here, I'll lay it bare.",お前の脳みそがなぜここに海兵隊がいるのかという理由を理解できたら言ってやろう。
 movies/woi/woi_node_051,woi051_003,"The old man brought them in for two reasons: they're the shock troops, they move in, take the losses, point out the enemy and we do the cleanup.",あの老いぼれは2つの理由から海兵隊をここに連れ込んだ。 あいつらは突撃部隊で突っ込み、死んで、敵の場所をあぶり出す。 それを我々が片づけるんだ。
 movies/woi/woi_node_051,woi051_004,Sir.,なるほど。
-movies/woi/woi_node_051,woi051_005,"Second, they're the public face of this occupation. When the city's burned to the ground, they take the fall.",それに、やつらは今回の表の顔だ。この街が駄目になったらそれはあいつらの責任さ。
+movies/woi/woi_node_051,woi051_005,"Second, they're the public face of this occupation. When the city's burned to the ground, they take the fall.",それに、奴らは今回の表の顔だ。この街が駄目になったらそれはあいつらの責任さ。
 movies/woi/woi_node_053,woi053_001,"Sir, are we going to pull this one out of the fire?",我々はこれを燃やせばいいんでしょうか？
 movies/woi/woi_node_053,woi053_002,"I don’t give a shit if it’s Hope, Two Bluff, New York or fuckin’ DC. We burn out the infection until it’s done. Whatever the cost.",ホープ、ツーブラフ、ニューヨークやクソDCだろうと知ったこっちゃねえ。 感染し終わる前に燃やし尽くせ。 いかなる犠牲を払おうとも。
 movies/woi/woi_node_053,woi053_003,Sir!,了解！
@@ -18383,8 +18383,8 @@ movies/woi/woi_node_217,woi217_001,"Sir, we've got a priority situation in New Y
 movies/woi/woi_node_217,woi217_002,The Idaho Runner?,アイダホランナーのことか？
 movies/woi/woi_node_217,woi217_003,Something...else.,いえ、他のことです……。
 movies/woi/woi_node_217,woi217_004,Sir?,どうされました？
-movies/woi/woi_node_217,woi217_005,"Get the old man on the horn! I want two battalions ready to move from Detrick, full gear!",あの老いぼれ将軍に連絡しろ！ 2個大隊をデトリックから動かせと大至急でだ！ また始まるのか。
-movies/woi/woi_node_217,woi217_006,It's starting again.
+movies/woi/woi_node_217,woi217_005,"Get the old man on the horn! I want two battalions ready to move from Detrick, full gear!",あの老いぼれ将軍に連絡しろ！ 2個大隊をデトリックから動かせと大至急でだ！
+movies/woi/woi_node_217,woi217_006,It's starting again.,また始まるのか。
 movies/woi/woi_node_219,woi219_001,"Yes, private, you’re guarding a hole in the fucking roof. You’ve been briefed about what we’re up against -- we’re not secure until these skylights are sealed.",いいか、二等兵。 お前はこのクソったれた屋根の穴を守ってる。 俺たちが直面しているものについては説明されているな。 あの天窓を封鎖するまでは安心出来ない。
 movies/woi/woi_node_219,woi219_001b,"So, unless you want to pull shit patrol until your momma forgets what you look like, stand your sorry ass right here until you're told to do otherwise. NOW MOVE IT!",それで、だ。 ママに忘れられちまうまでクソパトロールをしたくなかったら、お前の惨めなケツをここにブッ立ててろ。 さあ、やれ！
 movies/woi/woi_node_219,woi219_002,Sir!,了解！
