@@ -4,7 +4,7 @@
 PrototypeCaptionMODは、Activision社から発売されているWindows用ビデオゲーム『PROTOTYPE』で使う字幕ファイルとフォントファイルを書き換えることができます。英語字幕から日本語字幕に書き換えることを、主な目的としています。
 
 ## PrototypeCaptionMODの使用上の注意
-**PrototypeCaptionMODの動作はまだ十分に検証されていない**ため、取り返しのつかない問題を発生させてしまうことがあるかもしれません。**動作の結果に自己責任で対応**できる方のみ、PrototypeCaptionMODを使用してください。
+**PrototypeCaptionMODの動作はまだ十分に検証されていない**ため、取り返しのつかないm問題を発生させてしまうことがあるかもしれません。**動作の結果を自己責任で対応**できる方のみ、PrototypeCaptionMODを使用してください。
 
 ## PrototypeCaptionMODをインストールする手順
 
@@ -42,9 +42,8 @@ rcfファイルを展開するには、以下の手順に従ってください�
 ダウンロードした圧縮ファイルを任意のディレクトリに展開してください。以後このディレクトリを"**《虐杀原形》素材编辑工具第二版/**"と表記します。
 
 ### 5. PrototypeCaptionMODの入手
-[PrototypeCaptionMOD - GitHub](https://github.com/psychi/PrototypeCaptionMOD)にある「Download」ボタンを押して、圧縮ファイルをダウンロードして下さい。  
-ダウンロードする圧縮ファイルはzip形式とtar.gz形式を選べますが、どちらをダウンロードしても構いません。  
-ダウンロードした圧縮ファイルを任意のディレクトリに展開してください。以後このディレクトリを"**PrototypeCaptionMOD/**"と表記します。
+1. [PrototypeCaptionMOD - GitHub](https://github.com/psychi/PrototypeCaptionMOD)にある「Download」ボタンを押して、圧縮ファイルをダウンロードして下さい。ダウンロードする圧縮ファイルはzip形式とtar.gz形式を選べますが、どちらをダウンロードしても構いません。
+2. ダウンロードした圧縮ファイルを任意のディレクトリに展開してください。ただし、**展開先ディレクトリの絶対パス名には、全角文字が含まれない**ようにしてください。以後このディレクトリを"**PrototypeCaptionMOD/**"と表記します。
 
 ### 6. PrototypeCaptionMODに必要なファイルをコピー
 以下に示したパスにある6個のファイルを、"**PrototypeCaptionMOD/**"の直下にコピーしてください。
@@ -68,7 +67,7 @@ rcfファイルを展開するには、以下の手順に従ってください�
 * "Prototype/**movie**"
 
 ### 2. 字幕のテキストとフォントを日本語に書き換える
-"PrototypeCaptionMOD/BuildCaptionsAndFonts.bat"をファイルエクスプローラでダブルクリックし、実行が終了するまで待機してください。字幕のテキストとフォントのデータを、自動で書き換えます。環境にもよりますが、30分ほどかかります。
+"PrototypeCaptionMOD/BuildCaptionsAndFonts.bat"をファイルエクスプローラでダブルクリックし、実行が終了するまで待機してください。
 
 ### 3. 書き換えたデータをコピー
 以下に示したパスにある3個のディレクトリを、"**Prototype/**"の直下にコピーしてください。
